@@ -1,0 +1,249 @@
+---
+---
+
+@font-face {
+    font-family: NissanOpti;
+    src: url(NissanOpti.otf);
+}
+
+body {
+    color: #beb8bc;
+    background-color: #000000;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+a {
+    color: #beb8bc;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+/* Navigation */
+.navbar-brand:hover {
+    border-radius: 3px;
+}
+
+.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+    color: #ffffff;
+}
+
+.nav-link:focus, .nav-link:hover {
+    color: #ffffff;
+}
+
+.nav-item:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 3px;
+}
+
+.navbar-nav > li > .dropdown-menu {
+    background-color: #000000;
+}
+
+.navbar-nav > li > .dropdown-menu a {
+    color: #fff;
+}
+
+.navbar-nav > li > .dropdown-menu a:hover {
+    background-color: #fff;
+    color: black;
+}
+
+.navbar-toggler-icon {
+    width: 1rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #beb8bc;
+}
+
+.navbar-dark .navbar-toggler {
+    border-color: rgba(255, 255, 255, 0.31);
+}
+
+.navbar-dark .navbar-toggler:hover {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.bg-obscure {
+    background-color: #000000;
+    border-color: transparent;
+}
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #000000;
+    background-color: #ffffff;
+    border-color: #dee2e6 #dee2e6 #fff;
+}
+
+/* Footer */
+.footer {
+    margin-top: 50px;
+}
+
+.footer a {
+    color: #beb8bc;
+}
+
+.copy {
+    margin-left: 14px;
+}
+
+.title {
+    font-family: NissanOpti, serif;
+    color: #ffffff;
+}
+
+/* All emojis are affected by this class */
+.emoji {
+    height: 40px;
+    width: 40px;
+}
+
+/* Emojis displayed at /emoji */
+.emoji-display {
+    height: 64px;
+    width: 64px;
+    margin-bottom: 50px;
+}
+
+/** Cup Results **/
+.result-img {
+    width: 45%;
+    height: 45%;
+    margin-top: 20px;
+    display: block;
+}
+
+.car-class-img {
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.car-class-img-small {
+    height: 100%;
+    width: 30%;
+    border-radius: 3px;
+}
+
+.car-class-thumbnail {
+    position: relative;
+    margin-top: 30px;
+}
+
+.car-class-thumbnail-small {
+    position: relative;
+}
+
+.car-class-thumbnail-overlay {
+    position: relative;
+}
+
+.car-class-thumbnail-overlay:after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(to bottom right, black, black);
+    opacity: 40%;
+}
+
+.car-class-caption {
+    font-family: NissanOpti, serif;
+    font-size: 275%;
+    text-shadow: 0 1px 10px rgb(0, 0, 0), 0 0 30px rgb(0, 0, 0);
+    position: absolute;
+    top: 27%;
+    width: 100%;
+    left: 0;
+}
+
+.season-details-title {
+    font-family: NissanOpti, serif;
+    font-size: 275%;
+    text-shadow: 0 1px 10px rgb(0, 0, 0), 0 0 30px rgb(0, 0, 0);
+}
+
+.season-details-tabs {
+    margin-top: 50px;
+}
+
+.hr-light {
+    height: 1px;
+    background-color: rgba(204, 204, 204, 0.25);
+    border: none;
+}
+
+.hr-light-title {
+    height: 1px;
+    background-color: rgba(204, 204, 204, 0.25);
+    border: none;
+    margin-bottom: 45px;
+}
+
+/* Downloads */
+.download-text {
+    color: #ffffff;
+}
+
+.card {
+    background-color: #000000;
+}
+
+.card-text {
+    color: #beb8bc;
+}
+
+.card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+}
+
+.btn-outline-secondary {
+    color: #fff;
+    border-color: #ffffff;
+}
+
+.btn-outline-secondary:hover {
+    color: #ffffff;
+    border-color: #ffffff;
+}
+
+.btn-outline-secondary:hover {
+    color: #000000;
+    border-color: #ffffff;
+    background-color: #ffffff;
+}
+
+.clarification-index {
+    margin-bottom: 0;
+    font-size: 15px;
+}
+
+.nissan-title {
+    font-family: NissanOpti, serif;
+    color: #ffffff;
+}
+
+.nissan-code {
+    font-family: NissanOpti, serif;
+    color: #f30039;
+}

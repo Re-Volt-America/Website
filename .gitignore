@@ -1,0 +1,16 @@
+# Mac OSX generated files
+.DS_Store
+
+# RubyMine
+.idea
+
+# Vim generated files
+*~
+*.swp
+
+# Jekyll files
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor

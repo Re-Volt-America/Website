@@ -1,0 +1,54 @@
+---
+title: Amateur
+permalink: /seasons/2020-2021/amateur
+car-class: amateur
+---
+
+<div class="row text-center">
+    <div class="col-md-12">
+        <h2 class="season-details-title">{{ page.title }}</h2>
+    </div>
+</div>
+
+<nav class="season-details-tabs">
+    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+        <a class="nav-item nav-link active" id="nav-singles-tab" data-toggle="tab" href="#nav-singles" role="tab"
+           aria-controls="nav-home" aria-selected="true">
+            Singles
+        </a>
+        <a class="nav-item nav-link" id="nav-singles-tm-tab" data-toggle="tab" href="#nav-singles-tm" role="tab"
+           aria-controls="nav-profile" aria-selected="false">
+            Singles Cup
+        </a>
+        <a class="nav-item nav-link" id="nav-teams-tab" data-toggle="tab" href="#nav-teams" role="tab"
+           aria-controls="nav-contact" aria-selected="false">
+            Teams
+        </a>
+        <a class="nav-item nav-link" id="nav-teams-tm-tab" data-toggle="tab" href="#nav-teams-tm" role="tab"
+           aria-controls="nav-contact" aria-selected="false">
+            Teams Cup
+        </a>
+    </div>
+</nav>
+<div class="tab-content" id="nav-tabContent">
+    <div class="tab-pane fade show active" id="nav-singles" role="tabpanel" aria-labelledby="nav-home-tab">
+        <br/>
+        {% capture singles %}{% include 2020-2021/{{ page.car-class }}/singles.md %}{% endcapture %}
+        {{ singles | markdownify }}
+    </div>
+    <div class="tab-pane fade" id="nav-singles-tm" role="tabpanel" aria-labelledby="nav-profile-tab">
+        <br/>
+        {% capture singles-tm %}{% include 2020-2021/{{ page.car-class }}/singles-tm.md %}{% endcapture %}
+        {{ singles-tm | markdownify }}
+    </div>
+    <div class="tab-pane fade" id="nav-teams" role="tabpanel" aria-labelledby="nav-contact-tab">
+        <br/>
+        {% capture teams %}{% include 2020-2021/{{ page.car-class }}/teams.md %}{% endcapture %}
+        {{ teams | markdownify }}
+    </div>
+    <div class="tab-pane fade" id="nav-teams-tm" role="tabpanel" aria-labelledby="nav-contact-tab">
+        <br/>
+        {% capture teams-tm %}{% include 2020-2021/{{ page.car-class }}/teams-tm.md %}{% endcapture %}
+        {{ teams-tm | markdownify }}
+    </div>
+</div>
