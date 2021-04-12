@@ -1,0 +1,82 @@
+---
+permalink: /points
+title: Points System
+---
+
+<h2 style="margin-bottom: -0.7rem;">
+    <i class="fa fa-calculator" aria-hidden="true"></i>
+    <b>{{ page.title }}</b>
+</h2>
+<hr class="hr-light-title"/>
+
+<div class="container">
+    <div class="pb-2 mt-4 mb-2 border-bottom">
+        <h2>Introduction</h2>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <p>
+                In Re-Volt America, racers are assigned points for each race they play, which vary depending on the
+                position they finish in. The following image illustrates which positions give what amount of points:
+            </p>
+            <div class="text-center">
+                <img class="img-fluid" src="{{ site.url }}/assets/img/points/points.png" alt="" />
+            </div>
+            <br/>
+            <p>
+                For lobbies which <i>start</i> with <b>10 or more racers</b>, bonus points are scored.
+                The following image illustrates the points system with the bonus points in place:
+            </p>
+            <div class="text-center">
+                <img class="img-fluid" src="{{ site.url }}/assets/img/points/points-10.png" alt="" />
+            </div>
+        </div>
+    </div>
+    <div class="pb-2 mt-4 mb-2 border-bottom">
+        <h2>Car Ratings</h2>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <p>
+                Cars are rated depending on their top speed, acceleration, weight, etc. And each rating results in a
+                multiplier for each car. The <b style="color: #c6c67d">yellow bolt</b> represents said multiplier
+                for the cars in the following image:
+            </p>
+            <div class="text-center">
+                <img class="img-fluid" src="{{ site.url }}/assets/img/points/cars-stats-sample.png" alt="" />
+            </div>
+            <br/>
+            <p>
+                With that in mind, 1° place scores of 15 points, on three different cars, would vary
+                depending on their multipliers:
+            </p>
+            <div class="text-center">
+                <img class="img-fluid" src="{{ site.url }}/assets/img/points/cars-multiplier-sample.png" alt="" />
+            </div>
+            <br/>
+        </div>
+    </div>
+    <div class="pb-2 mt-4 border-bottom">
+        <h2>Variables</h2>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <br/>
+            <p>
+                :clock1: <b>Obtained Points</b>
+            </p>
+            <p>
+                :zap: <b>Car Multiplier</b>
+            </p>
+            <p>
+                :clock2: <b>Average Position</b>
+            </p>
+            <p>
+                :clock5: <b>Official Score</b>
+            </p>
+            <p>
+                :game_die: <b>0.1, constant factor for reducing final scores</b>
+            </p>
+        </div>
+    </div>
+</div>
