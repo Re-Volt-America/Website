@@ -7,9 +7,9 @@ function clock() {
     var minutesNow = new Date().getMinutes();
     var secondsNow = new Date().getSeconds();
 
-    hours.innerHTML = hourNow;
-    minutes.innerHTML = minutesNow;
-    seconds.innerHTML = secondsNow;
+    hours.innerHTML = hourNow < 10 ? `0${hourNow}` : hourNow;
+    minutes.innerHTML = minutesNow < 10 ? `0${minutesNow}` : minutesNow;
+    seconds.innerHTML = secondsNow < 10 ? `0${secondsNow}` : secondsNow;
 }
 
 setInterval(clock, 1000);
