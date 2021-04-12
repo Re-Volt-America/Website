@@ -1,5 +1,4 @@
-Website
----
+# Website
 
 The Website for the Re-Volt America Community.
 
@@ -15,6 +14,6 @@ Software you will need in order to run the website.
 Instructions on how to set the website up for development purposes.
 
   * Ensure bundler is installed: `gem install bundle`.
-  * Run `bundle install` to download and install dependencies.
-  * Run `bundle exec jekyll serve` from the project root.
+  * Run `bundle install` from the project root to download and install dependencies.
+  * Also from the project root, run `bundle exec jekyll serve` to serve your website with Jekyll.
   * Open your browser and preview the website at `localhost:4000`.
