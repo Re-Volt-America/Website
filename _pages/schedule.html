@@ -14,13 +14,14 @@ title: Schedule
         <div class="row">
             <div class="col-md-12">
                 <h1 class="nissan-title"><b>WE PLAY DAILY AT 23:50 UTC-3</b></h1>
-                <div class="thetimenow-embeddable-clock"
-                     data-type="clock"
-                     data-font-color="#ffffff"
-                     data-border-color="#000000"
-                     data-background-color="#000000"
-                     data-font-size="60"
-                ><a href="http://www.thetimenow.com/" rel="nofollow" target="_blank"></a>
+                <div id="clock">
+                    <div id="time">
+                        <span id="hour">00</span>
+                        :
+                        <span id="minutes">00</span>
+                        :
+                        <span id="seconds">00</span>
+                    </div>
                 </div>
             </div>
             <div class="col-md-12">
@@ -43,4 +44,4 @@ title: Schedule
     </div>
 </div>
 
-<script type="text/javascript" src="{{ site.url }}/assets/js/thetimenow.js"></script>
+<script type="text/javascript" src="{{ site.url }}/assets/js/clock.js"></script>
