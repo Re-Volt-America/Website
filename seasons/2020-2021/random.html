@@ -1,5 +1,6 @@
 ---
 title: Random
+car-class: random
 permalink: /seasons/2020-2021/random
 ---
 
@@ -11,43 +12,52 @@ permalink: /seasons/2020-2021/random
 
 <nav class="season-details-tabs">
     <div class="nav nav-tabs" id="nav-tab" role="tablist">
-        <a class="nav-item nav-link active" id="nav-singles-tab" data-toggle="tab" href="#nav-singles" role="tab"
-           aria-controls="nav-home" aria-selected="true">
+        <a class="nav-item nav-link active" id="singles-tab" data-toggle="tab" href="#singles" role="tab"
+           aria-controls="singles" aria-selected="true">
             Singles
         </a>
-        <a class="nav-item nav-link" id="nav-singles-tm-tab" data-toggle="tab" href="#nav-singles-tm" role="tab"
-           aria-controls="nav-profile" aria-selected="false">
+        <a class="nav-item nav-link" id="singles-tm-tab" data-toggle="tab" href="#singles-tm" role="tab"
+           aria-controls="singles-tm" aria-selected="false">
             Singles Cup
         </a>
-        <a class="nav-item nav-link" id="nav-teams-tab" data-toggle="tab" href="#nav-teams" role="tab"
-           aria-controls="nav-contact" aria-selected="false">
+        <a class="nav-item nav-link" id="teams-tab" data-toggle="tab" href="#teams" role="tab"
+           aria-controls="teams" aria-selected="false">
             Teams
         </a>
-        <a class="nav-item nav-link" id="nav-teams-tm-tab" data-toggle="tab" href="#nav-teams-tm" role="tab"
-           aria-controls="nav-contact" aria-selected="false">
+        <a class="nav-item nav-link" id="teams-tm-tab" data-toggle="tab" href="#teams-tm" role="tab"
+           aria-controls="teams-tm" aria-selected="false">
             Teams Cup
+        </a>
+        <a class="nav-item nav-link" id="recopa-tab" data-toggle="tab" href="#recopa" role="tab"
+           aria-controls="recopa" aria-selected="false">
+            Re-Copa
         </a>
     </div>
 </nav>
 <div class="tab-content" id="nav-tabContent">
-    <div class="tab-pane fade show active" id="nav-singles" role="tabpanel" aria-labelledby="nav-home-tab">
+    <div class="tab-pane fade show active" id="singles" role="tabpanel" aria-labelledby="singles-tab">
         <br/>
-        {% capture singles %}{% include 2020-2021/random/singles.md %}{% endcapture %}
+        {% capture singles %}{% include 2020-2021/{{ page.car-class }}/singles.md %}{% endcapture %}
         {{ singles | markdownify }}
     </div>
-    <div class="tab-pane fade" id="nav-singles-tm" role="tabpanel" aria-labelledby="nav-profile-tab">
+    <div class="tab-pane fade" id="singles-tm" role="tabpanel" aria-labelledby="singles-tm-tab">
         <br/>
-        {% capture singles-tm %}{% include 2020-2021/random/singles-tm.md %}{% endcapture %}
+        {% capture singles-tm %}{% include 2020-2021/{{ page.car-class }}/singles-tm.md %}{% endcapture %}
         {{ singles-tm | markdownify }}
     </div>
-    <div class="tab-pane fade" id="nav-teams" role="tabpanel" aria-labelledby="nav-contact-tab">
+    <div class="tab-pane fade" id="teams" role="tabpanel" aria-labelledby="teams-tab">
         <br/>
-        {% capture teams %}{% include 2020-2021/random/teams.md %}{% endcapture %}
+        {% capture teams %}{% include 2020-2021/{{ page.car-class }}/teams.md %}{% endcapture %}
         {{ teams | markdownify }}
     </div>
-    <div class="tab-pane fade" id="nav-teams-tm" role="tabpanel" aria-labelledby="nav-contact-tab">
+    <div class="tab-pane fade" id="teams-tm" role="tabpanel" aria-labelledby="teams-tm-tab">
         <br/>
-        {% capture teams-tm %}{% include 2020-2021/random/teams-tm.md %}{% endcapture %}
+        {% capture teams-tm %}{% include 2020-2021/{{ page.car-class }}/teams-tm.md %}{% endcapture %}
         {{ teams-tm | markdownify }}
+    </div>
+    <div class="tab-pane fade" id="recopa" role="tabpanel" aria-labelledby="recopa-tab">
+        <br/>
+        {% capture recopa %}{% include 2020-2021/{{ page.car-class }}/recopa.md %}{% endcapture %}
+        {{ recopa | markdownify }}
     </div>
 </div>
