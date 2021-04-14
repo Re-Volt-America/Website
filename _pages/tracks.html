@@ -1,0 +1,54 @@
+---
+permalink: /tracks
+title: Tracks
+---
+
+<h2 style="margin-bottom: -0.7rem;">
+    <i class="fa fa-map" aria-hidden="true"></i> <b>{{ page.title }}</b>
+</h2>
+<hr class="hr-light-title"/>
+
+<div class="container">
+    <div>
+        <h2>:game_die: Format</h2>
+        <hr class="hr-light-title"/>
+    </div>
+    <div id="tracks-example" class="row">
+        <div class="col-xl-5 col-lg-5 col-md-12 col-sm-12 col-12">
+            <div class="example-track-thumbnail">
+                <img class="img-fluid" src="{{ site.url }}/assets/img/tracks/example.png" alt="" />
+            </div>
+        </div>
+        <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12 col-12">
+            <h4 class="track-example-header">Difficulty</h4>
+            <ul>
+                <li><b>E</b> Easy</li>
+                <li><b>M</b> Medium</li>
+                <li><b>H</b> Hard</li>
+                <li><b>X</b> Extreme</li>
+            </ul>
+        </div>
+        <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12 col-12">
+            <h4 class="track-example-header">Length</h4>
+            <ul>
+                <li><b>S</b> Short <em>< 400m</em></li>
+                <li><b>M</b> Medium <em>> 400m & < 700m</em></li>
+                <li><b>L</b> Long <em>> 700m & < 900m</em></li>
+                <li><b>XL</b> Extra Long <em>> 900m</em></li>
+            </ul>
+        </div>
+    </div>
+    <div class="mt-4">
+        <h2>:game_die: Re-Volt America Rotation</h2>
+        <hr class="hr-light-title"/>
+    </div>
+    <div id="tracks" class="row">
+        {% for i in (1..5) %}
+        <div class="col-12">
+            <div class="thumbnail">
+                <img class="img-fluid" src="{{ site.url }}/assets/img/tracks/{{ i }}.png" alt="" />
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>

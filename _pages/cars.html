@@ -1,0 +1,72 @@
+---
+permalink: /cars
+title: Cars
+---
+
+<h2 style="margin-bottom: -0.7rem;">
+    <i class="fa fa-car" aria-hidden="true"></i> <b>{{ page.title }}</b>
+</h2>
+<hr class="hr-light-title"/>
+
+<h5>
+    For more information on Car Ratings, visit the
+    <a class="text-primary" href="http://localhost:4000/points#car-ratings"><i class="fa fa-link" aria-hidden="true"></i> Car Ratings Section</a>
+</h5>
+
+<div class="container">
+    <div id="cars">
+        <div class="mt-4">
+            <h2>Rookie</h2>
+            <hr class="hr-light-title"/>
+        </div>
+        <div class="col-12">
+            <div>
+                {% for i in (1..5) %}
+                <img class="img-fluid" src="{{ site.url }}/assets/img/cars/rookie/{{ i }}.png" alt="" />
+                {% endfor %}
+            </div>
+        </div>
+        <div class="mt-4">
+            <h2>Amateur</h2>
+            <hr class="hr-light-title"/>
+        </div>
+        <div class="col-12">
+            <div>
+                {% for i in (1..5) %}
+                <img class="img-fluid" src="{{ site.url }}/assets/img/cars/amateur/{{ i }}.png" alt="" />
+                {% endfor %}
+            </div>
+        </div>
+        <div class="mt-4">
+            <h2>Advanced</h2>
+            <hr class="hr-light-title"/>
+        </div>
+        <div class="col-12">
+            <div>
+                {% for i in (1..5) %}
+                <img class="img-fluid" src="{{ site.url }}/assets/img/cars/advanced/{{ i }}.png" alt="" />
+                {% endfor %}
+            </div>
+        </div>
+        <div class="mt-4">
+            <h2>Semi-Pro</h2>
+            <hr class="hr-light-title"/>
+        </div>
+        <div class="col-12">
+            <div>
+                {% for i in (1..5) %}
+                <img class="img-fluid" src="{{ site.url }}/assets/img/cars/semi-pro/{{ i }}.png" alt="" />
+                {% endfor %}
+            </div>
+        </div>
+        <div class="mt-4">
+            <h2>Pro</h2>
+            <hr class="hr-light-title"/>
+        </div>
+        <div class="col-12">
+            <div class="text-center">
+                <h5><b>To be rated...</b></h5>
+            </div>
+        </div>
+    </div>
+</div>
