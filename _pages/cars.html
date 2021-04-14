@@ -3,22 +3,33 @@ permalink: /cars
 title: Cars
 ---
 
-<h2 style="margin-bottom: -0.7rem;">
-    <i class="fa fa-car" aria-hidden="true"></i> <b>{{ page.title }}</b>
-</h2>
+<div class="row">
+    <div class="col-6">
+        <h2 style="margin-bottom: -0.7rem;">
+            <i class="fa fa-car" aria-hidden="true"></i> <b>{{ page.title }}</b>
+        </h2>
+    </div>
+    <div class="col-6 ">
+        <a class="text-primary pull-right" href="{{ site.url }}/points#car-ratings">
+            <i class="fa fa-link" aria-hidden="true"></i> Car Ratings
+        </a>
+    </div>
+</div>
 <hr class="hr-light-title"/>
 
-<h5>
-    For more information on Car Ratings, visit the
-    <a class="text-primary" href="https://revolt-america/points#car-ratings"><i class="fa fa-link" aria-hidden="true"></i> Car Ratings Section</a>
-</h5>
-
-<div class="container">
-    <div id="cars">
-        <div class="mt-4">
-            <h2>Rookie</h2>
-            <hr class="hr-light-title"/>
+<div id="cars" class="container">
+    <div class="row">
+        <div class="col-6">
+            <div class="">
+                <h2 id="rookie">Rookie</h2>
+            </div>
         </div>
+        <div class="col-6">
+            {% include car_class_selector.html %}
+        </div>
+    </div>
+    <hr class="hr-light-title"/>
+    <div class="row">
         <div class="col-12">
             <div>
                 {% for i in (1..5) %}
@@ -26,10 +37,19 @@ title: Cars
                 {% endfor %}
             </div>
         </div>
-        <div class="mt-4">
-            <h2>Amateur</h2>
-            <hr class="hr-light-title"/>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <div class="">
+                <h2 id="amateur">Amateur</h2>
+            </div>
         </div>
+        <div class="col-6">
+            {% include car_class_selector.html %}
+        </div>
+    </div>
+    <hr class="hr-light-title"/>
+    <div class="row">
         <div class="col-12">
             <div>
                 {% for i in (1..5) %}
@@ -37,10 +57,19 @@ title: Cars
                 {% endfor %}
             </div>
         </div>
-        <div class="mt-4">
-            <h2>Advanced</h2>
-            <hr class="hr-light-title"/>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <div class="">
+                <h2 id="advanced">advanced</h2>
+            </div>
         </div>
+        <div class="col-6">
+            {% include car_class_selector.html %}
+        </div>
+    </div>
+    <hr class="hr-light-title"/>
+    <div class="row">
         <div class="col-12">
             <div>
                 {% for i in (1..5) %}
@@ -48,10 +77,19 @@ title: Cars
                 {% endfor %}
             </div>
         </div>
-        <div class="mt-4">
-            <h2>Semi-Pro</h2>
-            <hr class="hr-light-title"/>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <div class="">
+                <h2 id="semi-pro">Semi-Pro</h2>
+            </div>
         </div>
+        <div class="col-6">
+            {% include car_class_selector.html %}
+        </div>
+    </div>
+    <hr class="hr-light-title"/>
+    <div class="row">
         <div class="col-12">
             <div>
                 {% for i in (1..5) %}
@@ -59,13 +97,24 @@ title: Cars
                 {% endfor %}
             </div>
         </div>
-        <div class="mt-4">
-            <h2>Pro</h2>
-            <hr class="hr-light-title"/>
+    </div>
+    <div class="row">
+        <div class="col-6">
+            <div>
+                <h2 id="pro">Pro</h2>
+            </div>
         </div>
+        <div class="col-6">
+            {% include car_class_selector.html %}
+        </div>
+    </div>
+    <hr class="hr-light-title"/>
+    <div class="row">
         <div class="col-12">
             <div class="text-center">
-                <h5><b>To be rated...</b></h5>
+                <h4>
+                    <b>To be rated...</b>
+                </h4>
             </div>
         </div>
     </div>

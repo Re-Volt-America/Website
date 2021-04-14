@@ -315,3 +315,36 @@ a:hover {
         margin-bottom: 25px;
     }
 }
+
+#cars-class-menu {
+
+    button {
+        color: #beb8bc;
+        box-shadow: none;
+    }
+
+    button:hover {
+        color: #ffffff;
+    }
+
+    button:focus {
+        color: #ffffff;
+    }
+
+    .show {
+        background-color: #000000;
+    }
+
+    .dropdown-item {
+        color: #ffffff;
+    }
+
+    .dropdown-item:hover {
+        color: #000000;
+    }
+
+    .dropdown-item:focus {
+        background-color: #ffffff;
+        color: #000000;
+    }
+}
