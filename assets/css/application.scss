@@ -222,22 +222,6 @@ a:hover {
     padding: 1.25rem;
 }
 
-.btn-outline-secondary {
-    color: #fff;
-    border-color: #ffffff;
-}
-
-.btn-outline-secondary:hover {
-    color: #ffffff;
-    border-color: #ffffff;
-}
-
-.btn-outline-secondary:hover {
-    color: #000000;
-    border-color: #ffffff;
-    background-color: #ffffff;
-}
-
 .clarification-index {
     margin-bottom: 0;
     font-size: 15px;
@@ -295,6 +279,27 @@ a:hover {
     -o-transition: border .2s ease-in-out;
     transition: border .2s ease-in-out;
     margin-bottom: 20px;
+}
+
+#downloads {
+    button {
+        color: #beb8bc;
+        box-shadow: none;
+    }
+
+    button:hover {
+        color: #000000;
+        background-color: #ffffff;
+    }
+
+    button:focus {
+        color: #000000;
+        background-color: #ffffff;
+    }
+
+    .btn-outline-secondary {
+        border-color: #ffffff;
+    }
 }
 
 #tracks-example {
