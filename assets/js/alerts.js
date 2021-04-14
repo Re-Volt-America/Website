@@ -23,7 +23,7 @@ function nowIsBetween(min, max) {
     return nowTotalMinutes >= minTotalMinutes && nowTotalMinutes <= maxTotalMinutes;
 }
 
-if (nowIsBetween("21:50", "01:00")) {
+if (nowIsBetween("21:50", "23:30")) {
     let alert = document.getElementById("lobby-alert");
     alert.classList.remove("d-none");
 }
