@@ -1,0 +1,11 @@
+---
+permalink: /privacy
+title: Privacy
+---
+
+<h2 class="mb-3 border-bottom">
+    <i class="fa fa-user-secret" aria-hidden="true"></i> <b>{{ page.title }} Policy</b>
+</h2>
+
+{% capture privacy %}{% include policies/privacy.md %}{% endcapture %}
+{{ privacy | markdownify }}

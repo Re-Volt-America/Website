@@ -1,33 +1,63 @@
 <footer class="footer">
+
     <div class="container">
         <hr/>
-
-        <div class="row" align="center">
-            <div class="col-12 col-md-8">
-                <ul class="nav">
-                    <div class="nav-item">
-                        <a class="nav-link" href="{{ site.data.links.github }}" target="_blank">
-                            <i class="fab fa-github"></i> GitHub
-                        </a>
-                    </div>
-                    <div class="nav-item">
-                        <a class="nav-link" href="{{ site.data.links.discord }}" target="_blank">
-                            <i class="fab fa-discord"></i> Discord
-                        </a>
-                    </div>
-                    <div class="nav-item">
-                        <a class="nav-link" href="{{ site.url }}/emoji/">
-                            <i class="fa fa-archive" aria-hidden="true"></i> Emoji
-                        </a>
-                    </div>
-                </ul>
+        <section>
+            <div class="row">
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-6 col-6">
+                    <ul class="list-unstyled">
+                        <li class="heading">
+                            Policies
+                        </li>
+                        <li>
+                            <a href="{{ site.url }}/rules">Rules</a>
+                        </li>
+                        <li>
+                            <a href="{{ site.url }}/terms">Terms of Service</a>
+                        </li>
+                        <li>
+                            <a href="{{ site.url }}/privacy">Privacy Policy</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-6 col-6">
+                    <ul class="list-unstyled">
+                        <li class="heading">
+                            Organisation
+                        </li>
+                        <li>
+                            <a href="https://github.com/Re-Volt-America/Website/commits/master">Development Logs</a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/Re-Volt-America/Website/issues">Report a Bug</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-6 col-6">
+                    <ul class="list-unstyled follow-us">
+                        <li class="heading">
+                            Find Us
+                        </li>
+                        <li>
+                            <a href="{{ site.data.links.github }}" target="_blank">
+                                <img src="{{ site.url }}/assets/img/discord-logo-color.svg" alt="" /> Discord
+                            </a>
+                        </li>
+                        <li>
+                            <a href="{{ site.data.links.github }}" target="_blank">
+                                <img src="{{ site.url }}/assets/img/github-logo.png" alt="" /> GitHub
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-xl-3 col-lg-3 col-md-3 col-sm-6 col-xs-6 col-6">
+                    <ul class="list-unstyled">
+                        <li class="heading">
+                            &copy; 2021 {{ site.org }}
+                        </li>
+                    </ul>
+                </div>
             </div>
-        </div>
-
-        <br/>
-
-        <div class="copy">
-            <p>&copy; 2021 {{ site.org }}</p>
-        </div>
+        </section>
     </div>
 </footer>

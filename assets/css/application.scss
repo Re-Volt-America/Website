@@ -1,6 +1,8 @@
 ---
 ---
 
+@import "footer";
+
 @font-face {
     font-family: NissanOpti;
     src: url(NissanOpti.otf);
@@ -92,19 +94,6 @@ a:hover {
     color: #000000;
     background-color: #ffffff;
     border-color: #dee2e6 #dee2e6 #fff;
-}
-
-/* Footer */
-.footer {
-    margin-top: 50px;
-}
-
-.footer a {
-    color: #beb8bc;
-}
-
-.copy {
-    margin-left: 14px;
 }
 
 .title {
