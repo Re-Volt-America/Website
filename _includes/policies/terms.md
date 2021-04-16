@@ -29,7 +29,7 @@ posted on the Service. You agree to use the Service at your own risk.
   all current or future use of the Service, or any other {{ site.org }} service, for any reason at any time.
   2. {{ site.org }} reserves the right to refuse service to anyone for any reason at any time.
 
-### D. Modifications to the Service and Prices
+### D. Modifications to the Service
 
   1. {{ site.org }} reserves the right at any time and from time to time to modify or discontinue, temporarily
   or permanently, the Service (or any part thereof) with or without notice.
