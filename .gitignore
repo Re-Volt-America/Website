@@ -10,6 +10,7 @@
 
 # Jekyll files
 _site
+_indev_config.yml
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
