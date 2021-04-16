@@ -36,13 +36,13 @@ to any social media you want us to relate it to! Thanks!
       <td align="center" valign="middle">
         <h2>Gforce</h2>
         <a href="https://www.youtube.com/channel/UC1uSBH0FfiDthwra2Fu_J3A" target="_blank">
-          <img width="222px" src="https://yt3.ggpht.com/ytc/AAUvwng6M-4YuPQmVtHkT_yFi0OrxhVEBH1RYES4sbTxFw=s88-c-k-c0x00ffffff-no-rj">
+          <img width="222px" src="https://avatars.githubusercontent.com/u/82356992?v=4" alt="">
         </a>
       </td>
       <td align="center" valign="middle">
         <h2>You?</h2>
-        <a href="https://www.youtube.com/channel/UC1uSBH0FfiDthwra2Fu_J3A" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/Re-Volt-America/Website/master/assets/img/image-missing.png" height="222" />
+        <a href="" target="_blank">
+          <img width="222px" src="https://raw.githubusercontent.com/Re-Volt-America/Website/master/assets/img/image-missing.png" height="222"  alt=""/>
         </a>
       </td>
     </tr>
