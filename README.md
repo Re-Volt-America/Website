@@ -35,12 +35,14 @@ to any social media you want us to relate it to! Thanks!
     <tr>
       <td align="center" valign="middle">
         <h3>Gforce</h3>
+        <hr/>
         <a href="https://www.youtube.com/channel/UC1uSBH0FfiDthwra2Fu_J3A" target="_blank">
           <img width="222px" src="https://avatars.githubusercontent.com/u/82356992?v=4" alt="">
         </a>
       </td>
       <td align="center" valign="middle">
         <h3>You?</h3>
+        <hr/>
         <a href="#" target="_blank">
           <img width="222px" src="https://raw.githubusercontent.com/Re-Volt-America/Website/master/assets/img/image-missing.png" height="222"  alt=""/>
         </a>
