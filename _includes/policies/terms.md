@@ -80,7 +80,7 @@ posted on the Service. You agree to use the Service at your own risk.
   will be corrected.
   10. You expressly understand and agree that {{ site.org }} shall not be liable for any direct, indirect, incidental
   special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill,
-  use, data or other intangible losses (even if {{ site.org }} has been advised of the possibility of such damages),
+  use, data or other intangible losses (even if {{ site.org }} has been adviced of the possibility of such damages),
   resulting from: (i) the use or the inability to use the service; (ii) the cost of procurement of substitute goods
   and services resulting from any goods, data, information or services purchased or obtained or messages received or
   transactions entered into through or from the service; (iii) unauthorised access to or alteration of your
