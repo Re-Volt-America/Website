@@ -41,7 +41,7 @@ to any social media you want us to relate it to! Thanks!
       </td>
       <td align="center" valign="middle">
         <h2>You?</h2>
-        <a href="" target="_blank">
+        <a href="#" target="_blank">
           <img width="222px" src="https://raw.githubusercontent.com/Re-Volt-America/Website/master/assets/img/image-missing.png" height="222"  alt=""/>
         </a>
       </td>
