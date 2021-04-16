@@ -1,0 +1,30 @@
+.example-track-thumbnail {
+  display: inline-block;
+  padding: 5.5px;
+  line-height: 1.42857143;
+  background-color: #1a1a1a;
+  border: 1px solid #242424;
+  border-radius: 25px;
+  -webkit-transition: border .2s ease-in-out;
+  -o-transition: border .2s ease-in-out;
+  transition: border .2s ease-in-out;
+  margin-bottom: 20px;
+}
+
+#tracks-example {
+  .track-example-header {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+
+  img {
+    height: 400px;
+    width: 400px;
+  }
+}
+
+#tracks {
+  img {
+    margin-bottom: 20px;
+  }
+}

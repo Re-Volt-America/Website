@@ -1,9 +1,18 @@
 ---
 ---
 
+@import "alerts";
 @import "assets";
+@import "cars";
+@import "clock";
+@import "downloads";
+@import "emoji";
 @import "footer";
+@import "nav";
 @import "play";
+@import "rules";
+@import "seasons";
+@import "tracks";
 
 @font-face {
     font-family: NissanOpti;
@@ -35,149 +44,19 @@ a:hover {
     cursor: pointer;
 }
 
-/* Navigation */
-.navbar-brand:hover {
-    border-radius: 3px;
-}
-
-.navbar-dark .navbar-nav .nav-link:focus, .navbar-dark .navbar-nav .nav-link:hover {
+.nissan-title {
+    font-family: NissanOpti, serif;
     color: #ffffff;
 }
 
-.nav-link:focus, .nav-link:hover {
-    color: #ffffff;
-}
-
-.nav-item:hover {
-    background-color: rgba(0, 0, 0, 0.5);
-    border-radius: 3px;
-}
-
-.navbar-nav > li > .dropdown-menu {
-    background-color: #000000;
-}
-
-.navbar-nav > li > .dropdown-menu a {
-    color: #fff;
-}
-
-.navbar-nav > li > .dropdown-menu a:hover {
-    background-color: #fff;
-    color: black;
-}
-
-.navbar-nav > li > .dropdown-menu a:focus {
-    background-color: #fff;
-    color: black;
-}
-
-.navbar-toggler-icon {
-    width: 1rem;
-}
-
-.navbar-dark .navbar-nav .nav-link {
-    color: #beb8bc;
-}
-
-.navbar-dark .navbar-toggler {
-    border-color: rgba(255, 255, 255, 0.31);
-}
-
-.navbar-dark .navbar-toggler:hover {
-    background-color: rgba(0, 0, 0, 0.2);
+.nissan-code {
+    font-family: NissanOpti, serif;
+    color: #f30039;
 }
 
 .bg-obscure {
     background-color: #000000;
     border-color: transparent;
-}
-
-.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
-    color: #000000;
-    background-color: #ffffff;
-    border-color: #dee2e6 #dee2e6 #fff;
-}
-
-.title {
-    font-family: NissanOpti, serif;
-    color: #ffffff;
-}
-
-/* All emojis are affected by this class */
-.emoji {
-    height: 40px;
-    width: 40px;
-}
-
-/* Emojis displayed at /emoji */
-.emoji-display {
-    height: 64px;
-    width: 64px;
-    margin-bottom: 50px;
-}
-
-/** Cup Results **/
-.result-img {
-    width: 45%;
-    height: 45%;
-    margin-top: 20px;
-    display: block;
-}
-
-.car-class-img {
-    height: 100%;
-    width: 100%;
-    border-radius: 5px;
-}
-
-.car-class-img-small {
-    height: 100%;
-    width: 30%;
-    border-radius: 3px;
-}
-
-.car-class-thumbnail {
-    position: relative;
-    margin-top: 30px;
-}
-
-.car-class-thumbnail-small {
-    position: relative;
-}
-
-.car-class-thumbnail-overlay {
-    position: relative;
-}
-
-.car-class-thumbnail-overlay:after {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: linear-gradient(to bottom right, black, black);
-    opacity: 40%;
-}
-
-.car-class-caption {
-    font-family: NissanOpti, serif;
-    font-size: 275%;
-    text-shadow: 0 1px 10px rgb(0, 0, 0), 0 0 30px rgb(0, 0, 0);
-    position: absolute;
-    top: 27%;
-    width: 100%;
-    left: 0;
-}
-
-.season-details-title {
-    font-family: NissanOpti, serif;
-    font-size: 275%;
-    text-shadow: 0 1px 10px rgb(0, 0, 0), 0 0 30px rgb(0, 0, 0);
-}
-
-.season-details-tabs {
-    margin-top: 50px;
 }
 
 .hr-light {
@@ -191,160 +70,4 @@ a:hover {
     background-color: rgba(204, 204, 204, 0.25);
     border: none;
     margin-bottom: 45px;
-}
-
-/* Downloads */
-.download-text {
-    color: #ffffff;
-}
-
-.card {
-    background-color: #000000;
-}
-
-.card-text {
-    color: #beb8bc;
-}
-
-.card-body {
-    -ms-flex: 1 1 auto;
-    flex: 1 1 auto;
-    min-height: 1px;
-    padding: 1.25rem;
-}
-
-.clarification-index {
-    margin-bottom: 0;
-    font-size: 15px;
-}
-
-.nissan-title {
-    font-family: NissanOpti, serif;
-    color: #ffffff;
-}
-
-.nissan-code {
-    font-family: NissanOpti, serif;
-    color: #f30039;
-}
-
-#clock #time {
-    margin-top: 10px;
-    font-family: NissanOpti, serif;
-    position: relative;
-    display: flex;
-    justify-content: center;
-    font-size: 60px;
-    color: #ffffff;
-}
-
-#lobby-alert {
-    margin-bottom: 40px;
-
-    input {
-        color: #f30039;
-        border: 0;
-        background-color: transparent;
-        outline: none;
-        cursor: pointer;
-        display: inline-block;
-        margin-right: 60px;
-        width: 230px;
-        font-family: SFMono-Regular, Menlo, Monaco, Consolas,"Liberation Mono", "Courier New", monospace;
-        font-size: 1em;
-    }
-
-     a {
-         color: #155724;
-     }
-}
-
-.example-track-thumbnail {
-    display: inline-block;
-    padding: 5.5px;
-    line-height: 1.42857143;
-    background-color: #1a1a1a;
-    border: 1px solid #242424;
-    border-radius: 25px;
-    -webkit-transition: border .2s ease-in-out;
-    -o-transition: border .2s ease-in-out;
-    transition: border .2s ease-in-out;
-    margin-bottom: 20px;
-}
-
-#downloads {
-    button {
-        color: #beb8bc;
-        box-shadow: none;
-    }
-
-    button:hover {
-        color: #000000;
-        background-color: #ffffff;
-    }
-
-    button:focus {
-        color: #000000;
-        background-color: #ffffff;
-    }
-
-    .btn-outline-secondary {
-        border-color: #ffffff;
-    }
-}
-
-#tracks-example {
-    .track-example-header {
-        margin-top: 10px;
-        font-weight: bold;
-    }
-
-    img {
-        height: 400px;
-        width: 400px;
-    }
-}
-
-#tracks {
-    img {
-        margin-bottom: 20px;
-    }
-}
-
-#cars {
-    img {
-        margin-bottom: 25px;
-    }
-}
-
-#cars-class-menu {
-    button {
-        color: #beb8bc;
-        box-shadow: none;
-    }
-
-    button:hover {
-        color: #ffffff;
-    }
-
-    button:focus {
-        color: #ffffff;
-    }
-
-    .show {
-        background-color: #000000;
-    }
-
-    .dropdown-item {
-        color: #ffffff;
-    }
-
-    .dropdown-item:hover {
-        color: #000000;
-    }
-
-    .dropdown-item:focus {
-        background-color: #ffffff;
-        color: #000000;
-    }
 }

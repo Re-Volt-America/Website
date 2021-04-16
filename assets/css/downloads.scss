@@ -1,0 +1,39 @@
+#downloads {
+  button {
+    color: #beb8bc;
+    box-shadow: none;
+  }
+
+  button:hover {
+    color: #000000;
+    background-color: #ffffff;
+  }
+
+  button:focus {
+    color: #000000;
+    background-color: #ffffff;
+  }
+
+  .btn-outline-secondary {
+    border-color: #ffffff;
+  }
+
+  .download-text {
+    color: #ffffff;
+  }
+
+  .card {
+    background-color: #000000;
+  }
+
+  .card-text {
+    color: #beb8bc;
+  }
+
+  .card-body {
+    -ms-flex: 1 1 auto;
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+  }
+}
