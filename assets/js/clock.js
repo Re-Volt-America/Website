@@ -1,11 +1,13 @@
-function clock() {
-    var hours = document.getElementById("hour")
-    var minutes = document.getElementById("minutes")
-    var seconds = document.getElementById("seconds")
+const UTC_OFFSET = -3; //  UTC-03:00, Buenos Aires, Argentina
 
-    var hourNow = new Date().getHours();
-    var minutesNow = new Date().getMinutes();
-    var secondsNow = new Date().getSeconds();
+function clock() {
+    let hours = document.getElementById("hour");
+    let minutes = document.getElementById("minutes");
+    let seconds = document.getElementById("seconds");
+
+    let hourNow = new Date().getUTCHours() + UTC_OFFSET;
+    let minutesNow = new Date().getUTCMinutes();
+    let secondsNow = new Date().getUTCSeconds();
 
     hours.innerHTML = hourNow < 10 ? `0${hourNow}` : hourNow;
     minutes.innerHTML = minutesNow < 10 ? `0${minutesNow}` : minutesNow;
