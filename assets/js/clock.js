@@ -1,11 +1,9 @@
-const UTC_OFFSET = -3; //  UTC-03:00, Buenos Aires, Argentina
-
 function clock() {
     let hours = document.getElementById("hour");
     let minutes = document.getElementById("minutes");
     let seconds = document.getElementById("seconds");
 
-    let hourNow = new Date().getUTCHours() + UTC_OFFSET;
+    let hourNow = new Date().getUTCHours();
     let minutesNow = new Date().getUTCMinutes();
     let secondsNow = new Date().getUTCSeconds();
 

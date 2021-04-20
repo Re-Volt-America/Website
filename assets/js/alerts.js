@@ -11,9 +11,9 @@ function nowIsBetween(min, max) {
     let maxTotalMinutes = maxHours * 60 + maxMinutes;
 
     let now = new Date();
-    let nowTotalMinutes = (now.getUTCHours() - 3) * 60 + now.getUTCMinutes();
+    let nowTotalMinutes = now.getUTCHours() * 60 + now.getUTCMinutes();
     if (minHours > 12 || maxHours > 12) {
-        if ((now.getUTCHours() - 3) < 12) {
+        if (now.getUTCHours() < 12) {
             nowTotalMinutes += 24 * 60 + 60;
         }
     }
@@ -23,7 +23,7 @@ function nowIsBetween(min, max) {
     return nowTotalMinutes >= minTotalMinutes && nowTotalMinutes <= maxTotalMinutes;
 }
 
-if (nowIsBetween("22:50", "01:30")) {
+if (nowIsBetween("01:50", "03:30")) {
     let alert = document.getElementById("lobby-alert");
     alert.classList.remove("d-none");
 }
