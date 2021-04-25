@@ -22,7 +22,7 @@ namespace :app do
 
   task :restart do
     on roles(:app) do
-      execute :sudo, 'service rva restart'
+      execute :sudo, '/bin/systemctl restart rva.service'
     end
   end
 end
