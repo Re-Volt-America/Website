@@ -23,8 +23,8 @@ Last team standing wins the competition.
 <hr class="hr-light"/>
 
 <div align="center">
-    <img src="{{ site.url }}/assets/img/2020-2021/classes/amateur/teams-tm-brackets.png" style="height: 40%; width: 95%;" alt=""/>
+    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/amateur/teams-tm-brackets.png" style="height: 40%; width: 95%;" alt=""/>
     <br/><br/>
-    <img src="{{ site.url }}/assets/img/2020-2021/classes/amateur/teams-tm-final-podium.png" style="height: 40%; width: 60%;" alt=""/>
+    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/amateur/teams-tm-final-podium.png" style="height: 40%; width: 60%;" alt=""/>
     <br/><br/>
 </div>

@@ -1,0 +1,24 @@
+name: deploy
+
+on:
+  push:
+    branches:
+      - capistrano
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      - name: Set up Ruby 2.6.6
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6.6
+      - name: Bundle gems
+        run: |
+          gem install bundler
+          bundle install --jobs 4 --retry 3
+      - uses: miloserdow/capistrano-deploy@master
+        with:
+          target: production
+          deploy_key: ${{ secrets.DEPLOY_PASSWORD }}

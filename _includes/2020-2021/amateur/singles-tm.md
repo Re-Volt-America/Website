@@ -39,11 +39,11 @@ defined with only a win difference of 1 :crown:.
 <hr class="hr-light"/>
 
 <div align="center">
-    <img src="{{ site.url }}/assets/img/2020-2021/classes/amateur/crown-cup-results-1.png" style="height: 40%; width: 60%;" alt=""/>
+    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/amateur/crown-cup-results-1.png" style="height: 40%; width: 60%;" alt=""/>
     <br/><br/>
-    <img src="{{ site.url }}/assets/img/2020-2021/classes/amateur/crown-cup-results-2.png" style="height: 40%; width: 60%;" alt=""/>
+    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/amateur/crown-cup-results-2.png" style="height: 40%; width: 60%;" alt=""/>
     <br/><br/>
-    <img src="{{ site.url }}/assets/img/2020-2021/classes/amateur/crown-cup-final-results.png" style="height: 50%; width: 50%;" alt=""/>
+    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/amateur/crown-cup-final-results.png" style="height: 50%; width: 50%;" alt=""/>
     <br/><br/>
 </div>
 

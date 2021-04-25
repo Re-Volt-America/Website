@@ -15,3 +15,6 @@ _indev_config.yml
 .jekyll-cache
 .jekyll-metadata
 vendor
+
+# Capistrano
+log/capistrano.log

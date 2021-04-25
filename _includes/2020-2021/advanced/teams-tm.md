@@ -22,8 +22,8 @@ teammates, but they first have to change their names and leave the team's acrony
 <hr class="hr-light"/>
 
 <div align="center">
-    <img src="{{ site.url }}/assets/img/2020-2021/classes/advanced/teams-tm-leaderboard.png" style="height: 40%; width: 60%;" alt=""/>
+    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/advanced/teams-tm-leaderboard.png" style="height: 40%; width: 60%;" alt=""/>
     <br/><br/>
-    <img src="{{ site.url }}/assets/img/2020-2021/classes/advanced/teams-tm-final-podium.png" style="height: 40%; width: 60%;" alt=""/>
+    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/advanced/teams-tm-final-podium.png" style="height: 40%; width: 60%;" alt=""/>
     <br/><br/>
 </div>

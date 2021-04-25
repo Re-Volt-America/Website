@@ -11,8 +11,8 @@ title: Emojis
     <div class="row">
         {% for emoji in emojis %}
             <div class="col-3">
-                <a href="{{ site.url }}{{ emoji.path }}" target="_blank">
-                    <img class="emoji-display" src="{{ site.url }}{{ emoji.path }}" alt=""/>
+                <a href="{{ site.baseurl }}{{ emoji.path }}" target="_blank">
+                    <img class="emoji-display" src="{{ site.baseurl }}{{ emoji.path }}" alt=""/>
                 </a>
             </div>
         {% endfor %}
