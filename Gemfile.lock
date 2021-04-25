@@ -124,7 +124,6 @@ GEM
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.7.0)
-    wdm (0.1.1)
     zeitwerk (2.4.2)
 
 PLATFORMS
@@ -138,10 +137,8 @@ DEPENDENCIES
   ed25519 (>= 1.2, < 2.0)
   jekyll (~> 4.0.0)
   jemoji (~> 0.12.0)
-  rake (~> 13.0, >= 13.0.3)
   rubocop
   rvm1-capistrano3
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.2.16
