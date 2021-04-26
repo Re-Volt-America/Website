@@ -6,12 +6,12 @@ title: Cars
 <div class="row">
     <div class="col-6">
         <h2 style="margin-bottom: -0.7rem;">
-            <i class="fa fa-car" aria-hidden="true"></i> <b>{{ page.title }}</b>
+            <i class="fa fa-car" aria-hidden="true"></i> <b>{% t rva.cars.title %}</b>
         </h2>
     </div>
     <div class="col-6">
         <a class="pull-right" href="{{ site.baseurl }}/points#car-ratings">
-            <i class="fa fa-link" aria-hidden="true"></i> Car Ratings
+            <i class="fa fa-link" aria-hidden="true"></i> {% t rva.cars.ratings-link %}
         </a>
     </div>
 </div>
@@ -33,7 +33,7 @@ title: Cars
         <div class="col-12">
             <div>
                 {% for i in (1..5) %}
-                <img class="img-fluid" src="{{ site.baseurl }}/assets/img/cars/rookie/{{ i }}.png" alt="" />
+                <img class="img-fluid" src="{{ site.url }}/assets/img/cars/rookie/{{ i }}.png" alt="" />
                 {% endfor %}
             </div>
         </div>
@@ -53,7 +53,7 @@ title: Cars
         <div class="col-12">
             <div>
                 {% for i in (1..5) %}
-                <img class="img-fluid" src="{{ site.baseurl }}/assets/img/cars/amateur/{{ i }}.png" alt="" />
+                <img class="img-fluid" src="{{ site.url }}/assets/img/cars/amateur/{{ i }}.png" alt="" />
                 {% endfor %}
             </div>
         </div>
@@ -73,7 +73,7 @@ title: Cars
         <div class="col-12">
             <div>
                 {% for i in (1..5) %}
-                <img class="img-fluid" src="{{ site.baseurl }}/assets/img/cars/advanced/{{ i }}.png" alt="" />
+                <img class="img-fluid" src="{{ site.url }}/assets/img/cars/advanced/{{ i }}.png" alt="" />
                 {% endfor %}
             </div>
         </div>
@@ -93,7 +93,7 @@ title: Cars
         <div class="col-12">
             <div>
                 {% for i in (1..5) %}
-                <img class="img-fluid" src="{{ site.baseurl }}/assets/img/cars/semi-pro/{{ i }}.png" alt="" />
+                <img class="img-fluid" src="{{ site.url }}/assets/img/cars/semi-pro/{{ i }}.png" alt="" />
                 {% endfor %}
             </div>
         </div>

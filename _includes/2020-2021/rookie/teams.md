@@ -2,5 +2,5 @@
 <hr class="hr-light"/>
 
 <div align="center">
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/rookie/teams-leaderboard.png" style="height: 40%; width: 40%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/rookie/teams-leaderboard.png" style="height: 40%; width: 40%;" alt=""/>
 </div>

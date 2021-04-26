@@ -7,6 +7,30 @@ description: >-
 encoding: utf-8
 markdown: kramdown
 
+languages: ["en_us", "en_gb", "es_es", "es_ar", "es_bo", "es_cl", "it", "lol", "pt_br"]
+exclude_from_localizations: ["assets", "CNAME", "README.md", "LICENCE.md"]
+defaultLang: en_us
+languageNames:
+  en_us: English, US
+  en_gb: English, UK
+  es_es: Español
+  es_ar: Español, Argentina
+  es_bo: Español, Bolivia
+  es_cl: Español, Chile
+  it: Italiano
+  lol: LOLCAT
+  pt_br: Português, Brasil
+languagePaths:
+  en_us: ""
+  en_gb: "en_gb"
+  es_es: "es_es"
+  es_ar: "es_ar"
+  es_bo: "es_bo"
+  es_cl: "es_cl"
+  it: "it"
+  lol: "lol"
+  pt_br: "pt_br"
+
 sass:
   sass_dir: assets/css
 
@@ -33,9 +57,14 @@ defaults:
       path: emoji/unicode
     values:
       emoji: true
+  - scope:
+      path: assets/img/i18n
+    values:
+      locale_flag: true
 
 emoji:
   src: "https://re-volt-america.github.io/Website" # /emoji/unicode
 
 plugins:
+  - jekyll-multiple-languages-plugin
   - jemoji

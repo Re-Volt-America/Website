@@ -36,10 +36,10 @@ reduced by 2 seconds. The last player standing wins the cup.
 <hr class="hr-light"/>
 
 <div align="center">
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/advanced/grand-turismo-cup-final-results-1.png" style="height: 40%; width: 60%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/advanced/grand-turismo-cup-final-results-1.png" style="height: 40%; width: 60%;" alt=""/>
     <br/><br/>
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/advanced/grand-turismo-cup-final-results-2.png" style="height: 40%; width: 60%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/advanced/grand-turismo-cup-final-results-2.png" style="height: 40%; width: 60%;" alt=""/>
     <br/><br/>
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/advanced/grand-turismo-cup-final-results.png" style="height: 50%; width: 50%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/advanced/grand-turismo-cup-final-results.png" style="height: 50%; width: 50%;" alt=""/>
     <br/><br/>
 </div>
