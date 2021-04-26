@@ -7,11 +7,11 @@ description: >-
 encoding: utf-8
 markdown: kramdown
 
-languages: ["en_us", "en_gb", "es_es", "es_ar", "es_bo", "es_cl", "it", "lol", "pt_br"]
+languages: ["strings", "en_gb", "es_es", "es_ar", "es_bo", "es_cl", "it", "lol", "pt_br"]
 exclude_from_localizations: ["assets", "CNAME", "README.md", "LICENCE.md"]
-defaultLang: en_us
+defaultLang: strings
 languageNames:
-  en_us: English, US
+  strings: English, US
   en_gb: English, UK
   es_es: Español
   es_ar: Español, Argentina
@@ -21,7 +21,7 @@ languageNames:
   lol: LOLCAT
   pt_br: Português, Brasil
 languagePaths:
-  en_us: ""
+  strings: ""
   en_gb: "en_gb"
   es_es: "es_es"
   es_ar: "es_ar"
