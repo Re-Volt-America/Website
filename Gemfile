@@ -3,6 +3,7 @@
 source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.0.0'                                          # Jekyll, the static site generator
+gem 'jekyll-multiple-languages-plugin', '~> 1.7'                  # Jekyll i18n plugin
 gem 'jemoji', '~> 0.12.0'                                         # Jekyll emoji plugin
 
 group :development do

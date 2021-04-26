@@ -2,5 +2,5 @@
 <hr class="hr-light"/>
 
 <div align="center">
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/advanced/recopa.png" style="height: 100%; width: 100%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/advanced/recopa.png" style="height: 100%; width: 100%;" alt=""/>
 </div>

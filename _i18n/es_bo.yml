@@ -1,0 +1,160 @@
+---
+nav:
+  play: "Jugar"
+  rules: "Reglas"
+  downloads: "Descargas"
+  rva:
+    title: "RVA"
+    tracks: "Pistas"
+    cars: "Carros"
+  ranking:
+    title: "Clasificación"
+    points: "Sistema de Puntos"
+    season20202021: "2020-2021"
+footer:
+  policies:
+    title: "Políticas"
+    rules: "Reglas"
+    terms: "Términos de Servicio"
+    privacy: "Política de privacidad"
+  organization:
+    title: "Organización"
+    logs: "Registros de desarrollo"
+    bugs: "Reportar un error"
+    sponsor: "Sponsor"
+  trademark:
+    title: "Marca Comercial"
+    assets: "Assets"
+    emoji: "Emojis"
+  social:
+    title: "Encuéntrenos"
+    discord: "Discord"
+    github: "GitHub"
+play:
+  header: "JUGAMOS DIARIAMENTE A LAS 01:50 UTC"
+  subheader: "Las Salas son publicadas en"
+  and: "y"
+downloads:
+  title: "Descargas"
+  current-version: "Versión actual:"
+  re-volt:
+    description: "Este es el juego que jugamos, Re-Volt! Consígue el RVGL Project para jugar en línea con nosotros."
+  rva:
+    description: "El paquete de contenido que utilizamos en Re-Volt America, este incluye los coches, pistas y gfx."
+rules:
+  title: "Reglas"
+  sections:
+    a:
+      title: "A. Compostura General"
+      1: "Mantenga siempre una atmosfera tranquila hacia otros usuarios."
+      2: "No haga <em>Spam</em>. Dentro de límites razonables usted puede promocionarse a usted mismo y a otros, simplemente no se pase de la raya y estará bien."
+      3: "<a class='text-primary' href='https://es.wikipedia.org/wiki/Doxing' target='_blank'>El Doxing</a>a otros usuarios está <b>prohibido</b>. Si lo respalda o participa en él RVA <b>TOMARÁ</b> acción."
+      4: "Siga las indicaciones dada por los miembros del personal en todo momento."
+      5: "Usa tu sentido común, ¡realmente no es tan difícil!"
+    b:
+      title: "B. Carreras y Puntaje"
+      1: "Puedes usar los coches de la categoria la fecha y a continuación. (rookie, amateur, avanzado, etc.)"
+      2:
+        title: "Utilizando un coche por debajo de la categoria en la fecha obtendrá puntos extra:"
+        bullet1: "Una clase debajo de: <b>25%</b>."
+        bullet2: "Dos clases debajo de: <b>50%</b>."
+        bullet3: "Tres clases debajo de: <b>75%</b>."
+        bullet4: "Cuatro clases debajo de: <b>100%</b>."
+        bullet5: "Cinco clases debajo de: <b>125%</b>."
+      3: "<b>NO USAR</b> carros de clases superiores a las del curso. <b> Al hacerlo se te anula los puntos que obtengas con él.</b>."
+      4: "<b>NO</b> dispares o desordenes posiciones no inmediatas <b>(Jugadores que te llevan una vuelta de ventaja).</b>"
+      5: "<b>NO</b> pida RE <small class='text-success'>(1)</small> a menos que llegues tarde a la carrera o experimentes dificultades técnicas. Otras razones son consideradas inválidas."
+      6: "Evite cambiar su nombre en medio de las salas, ya que esto provoca dificultad en el proceso de cálculo de las puntuaciones finales."
+      7: "Tienes que utilizar un nombre único para poder jugar las sesiones. En caso de que tengas o tomes lo mismo de otro jugador ya establecido, <b>DEBES</b> ponerte otro nombre."
+    c:
+      title: "C. Servidor de Discord"
+      1: "Debes seguir y aceptar los <a class='text-primary' href='https://discord.com/terms' target='_blank'>Términos de Servicio de Discord</a>. Si no lo haces, en Z te botan de Re-Volt America."
+      2: "Mantente en el tema dentro de los canales."
+      3: "No acoses a otros usuarios."
+      4: "Archivos multimedia que puedan causar que el cliente de Discord de otros usuarios se bloquee o crashee, o contenido <em>muy explícito</em> será eliminado, y usted puede ser castigado al publicarlo por arrecho."
+    d:
+      title: "D. Castigos"
+      1: "El incumplimiento de las reglas de las Carreras y puntuación pueden hacer que te lo digan <small class='text-success'>(2)</small> en nuestras salas, o <em> te van a sacar en dos patadas</em> si insistes en incumplir nuestras reglas."
+      2: "Los usuarios pueden ser <em>expulsados</em> de nuestro servidor de Discord por romper las reglas. Si la violación de la regla es grave, puede que estés <em>Anotado en la lista negra y Baneado</em> en su lugar."
+      3: "Evadiendo los baneos de Discord te banearán eventualmente. En Z te averiguamos."
+      4: "Todas las infracciones estan sujetas a discrecion del personal"
+  precisions:
+    1:
+      term: "(1) RE:"
+      precision: "Solicitar al host de la sala que reinicie la carrera actual."
+    2:
+      term: "(2) Speced:"
+      precision: "Cuando el anfitrión de la sala obliga a un piloto a colocarlo en espectador. En ese contexto, es una forma de castigo."
+points:
+  title: "Sistema de Puntos"
+  introduction:
+    title: "Introducción"
+    p1: "En Re-Volt America se asignan puntos a los pilotos por cada carrera que juegan, que varían dependiendo de la posición en la que terminen. La siguiente imagen ilustra en qué posiciones dan qué cantidad de puntos:"
+    p2: "Para las salas que comienzan con 10 o más pilotos, se anotan puntos de bonificación. La siguiente imagen ilustra el sistema de puntos con los puntos extra en su lugar:"
+  car-ratings:
+    title: "Puntuacion de Carros"
+    p1: "Los carros son calificados en función de su velocidad máxima, aceleración, peso, etc. Y cada calificación resulta en un multiplicador para cada coche. El <b style='color: #c6c67d'>Volt Amarillo</b> representa dicho multiplicador para los coches en la siguiente imagen:"
+    p2: "Teniendo esto en cuenta, 1° colocar puntajes de 15 puntos, en tres coches diferentes, podria variar dependiendo de sus multiplicadores:"
+  variables:
+    title: "Variables"
+    1: "Puntos obtenidos"
+    2: "Multiplicador de los Carros"
+    3: "Posición Promedio"
+    4: "Puntaje Oficial"
+    5: "0,1, factor constante para reducir los puntajes finales"
+rva:
+  tracks:
+    title: "Pistas"
+    format:
+      title: "Formato"
+      difficulty:
+        title: "Dificultad"
+        easy: "Fácil"
+        medium: "Medio"
+        hard: "Difícil"
+        extreme: "Extremo"
+      length:
+        title: "Longitud"
+        short: "Corta"
+        medium: "Media"
+        long: "Larga"
+        extralong: "Extra Larga"
+    rotation:
+      title: "Rotación de Re-Volt America"
+  cars:
+    title: "Carros"
+    ratings-link: "Puntuacion de Carros"
+    class-selector:
+      title: "Clases"
+assets:
+  title: "LOGOS Y USO"
+  subtitle: "Una colección de nuestros assets principales, fabricados por la talentosa <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, que usted puede descargar para integrarse con RVA o enlazar con nosotros!"
+  allowed:
+    title: "Uso permitido"
+    1: "Usa nuestro logotipo para enlazar a nuestro sitio web"
+    2: "Utiliza nuestro logotipo para anunciar que te integras a RVA"
+    3: "Usa nuestro logotipo en entradas de blog o artículos sobre RVA"
+  prohibited:
+    title: "Uso prohibido"
+    1: "Usar nuestro logotipo como ícono de tu aplicación"
+    2: "Crear una versión modificada de cualquiera de nuestros logos"
+    3: "Integrar cualquiera de nuestros logos en tu logo"
+    4: "Usar cualquier artwork sin permiso"
+    5: "Cambiar los colores, dimensiones o añade tu propio texto/imágenes"
+  contact:
+    title: "Por favor contáctenos"
+    1: "Si desea utilizar artwork no incluido en este repositorio"
+    2: "Si quieres usar estas imágenes en un medio de comunicacion/video"
+  naming:
+    title: "Nombrar proyectos y productos"
+    1: "Por favor, evite nombrar a sus proyectos cualquier cosa que implique el respaldo de Re-Volt América. Esto también se aplica a los nombres del dominio."
+  attribution:
+    title: "Atribución"
+    1: "Otros assets como imágenes de los ratings de coches, imágenes de pistas, emojis, etc. son hechos por miembros de nuestra comunidad, y todos los derechos pertenecen a sus respectivos autores"
+    2: "Estas directrices se basaron fuertemente en <a href='https://github.com/logos' target='_blank'>Directrices de uso y logos de GitHub</a>"
+error:
+  404:
+    title: "Error 404"
+    caption: "Página no encontrada :("
+misc:
+  download: "Descargar"

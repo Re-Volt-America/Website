@@ -51,13 +51,13 @@ score wins the cup.
 <hr class="hr-light"/>
 
 <div align="center">
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/rookie/teams-participants-ffa.png" style="height: 60%; width: 50%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/rookie/teams-participants-ffa.png" style="height: 60%; width: 50%;" alt=""/>
     <br/><br/>
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/rookie/teams-round1-ffa.png" style="height: 40%; width: 60%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/rookie/teams-round1-ffa.png" style="height: 40%; width: 60%;" alt=""/>
     <br/><br/>
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/rookie/teams-round2-ffa.png" style="height: 40%; width: 60%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/rookie/teams-round2-ffa.png" style="height: 40%; width: 60%;" alt=""/>
     <br/><br/>
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/rookie/teams-round3-ffa.png" style="height: 40%; width: 60%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/rookie/teams-round3-ffa.png" style="height: 40%; width: 60%;" alt=""/>
     <br/><br/>
 </div>
 
@@ -65,9 +65,9 @@ score wins the cup.
 <hr class="hr-light"/>
 
 <div align="center">
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/rookie/teams-groups1-ffa.png" style="height: 60%; width: 80%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/rookie/teams-groups1-ffa.png" style="height: 60%; width: 80%;" alt=""/>
     <br/><br/>
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/rookie/teams-3rd-place-ffa.png" style="height: 50%; width: 50%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/rookie/teams-3rd-place-ffa.png" style="height: 50%; width: 50%;" alt=""/>
     <br/><br/>
 </div>
 
@@ -75,8 +75,8 @@ score wins the cup.
 <hr class="hr-light"/>
 
 <div align="center">
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/rookie/teams-finals-tm-results.png" style="height: 60%; width: 80%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/rookie/teams-finals-tm-results.png" style="height: 60%; width: 80%;" alt=""/>
     <br/><br/>
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/rookie/teams-final-tm-podium.png" style="height: 50%; width: 50%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/rookie/teams-final-tm-podium.png" style="height: 50%; width: 50%;" alt=""/>
     <br/><br/>
 </div>

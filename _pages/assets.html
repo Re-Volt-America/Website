@@ -5,26 +5,22 @@ title: Assets
 
 <div class="row text-center">
     <div class="col-12">
-        <h1 class="nissan-title"><b>LOGOS & USAGE</b></h1>
+        <h1 class="nissan-title"><b>{% t assets.title %}</b></h1>
     </div>
 </div>
 <div id="assets" class="container">
     <div class="row text-center">
         <div class="col-md-12">
-            <p>
-                A collection of our main assets, crafted by the talented
-                <a class="text-primary" href="https://twitter.com/hylia_js" target="_blank">Hylia</a>,
-                which you can download to integrate with RVA or link back to us!
-            </p>
+            <p>{% t assets.subtitle %}</p>
         </div>
         <div class="col-md-12">
-            <img class="img-fluid assets-logo" src="{{ site.baseurl }}/assets/img/rva-logo-transparent.png" alt=""/>
+            <img class="img-fluid assets-logo" src="{{ site.url }}/assets/img/rva-logo-transparent.png" alt=""/>
         </div>
         <div class="col-md-12">
             <a class="download-text"
                href="{{ site.baseurl }}/distribute/RVA-Mark.zip">
                 <button type="button" class="btn btn-sm btn-outline-secondary">
-                    Download
+                    {% t misc.download %}
                 </button>
             </a>
         </div>
@@ -32,13 +28,13 @@ title: Assets
     <div id="guidelines" class="row">
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
             <div class="pb-2 mt-4 mb-2">
-                <h3><b>Allowed Usage</b></h3>
+                <h3><b>{% t assets.allowed.title %}</b></h3>
                 <div class="row">
                     <div class="col-md-12">
                         <ul class="list-unstyled">
-                            <li><i class="fa fa-check text-success" aria-hidden="true"></i> Use our logo to link to our website</li>
-                            <li><i class="fa fa-check text-success" aria-hidden="true"></i> Use our logo to advertise that you integrate with RVA</li>
-                            <li><i class="fa fa-check text-success" aria-hidden="true"></i> Use our logo in blog posts or articles about RVA</li>
+                            <li><i class="fa fa-check text-success" aria-hidden="true"></i> {% t assets.allowed.1 %}</li>
+                            <li><i class="fa fa-check text-success" aria-hidden="true"></i> {% t assets.allowed.2 %}</li>
+                            <li><i class="fa fa-check text-success" aria-hidden="true"></i> {% t assets.allowed.3 %}</li>
                         </ul>
                     </div>
                 </div>
@@ -46,15 +42,15 @@ title: Assets
         </div>
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
             <div class="pb-2 mt-4 mb-2">
-                <h3><b>Forbidden Usage</b></h3>
+                <h3><b>{% t assets.prohibited.title %}</b></h3>
                 <div class="row">
                     <div class="col-md-12">
                         <ul class="list-unstyled">
-                            <li><i class="fa fa-times text-danger" aria-hidden="true"></i> Use our logo as your application's icon</li>
-                            <li><i class="fa fa-times text-danger" aria-hidden="true"></i> Create a modified version of any of our logos</li>
-                            <li><i class="fa fa-times text-danger" aria-hidden="true"></i> Integrate any of our logos into your logo</li>
-                            <li><i class="fa fa-times text-danger" aria-hidden="true"></i> Use any of our artwork without permission</li>
-                            <li><i class="fa fa-times text-danger" aria-hidden="true"></i> Change the colours, dimensions or add your own text/images</li>
+                            <li><i class="fa fa-times text-danger" aria-hidden="true"></i> {% t assets.prohibited.1 %}</li>
+                            <li><i class="fa fa-times text-danger" aria-hidden="true"></i> {% t assets.prohibited.2 %}</li>
+                            <li><i class="fa fa-times text-danger" aria-hidden="true"></i> {% t assets.prohibited.3 %}</li>
+                            <li><i class="fa fa-times text-danger" aria-hidden="true"></i> {% t assets.prohibited.4 %}</li>
+                            <li><i class="fa fa-times text-danger" aria-hidden="true"></i> {% t assets.prohibited.5 %}</li>
                         </ul>
                     </div>
                 </div>
@@ -62,12 +58,12 @@ title: Assets
         </div>
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
             <div class="pb-2 mt-4 mb-2">
-                <h3><b>Please contact us</b></h3>
+                <h3><b>{% t assets.contact.title %}</b></h3>
                 <div class="row">
                     <div class="col-md-12">
                         <ul class="list-unstyled">
-                            <li>If you want to use artwork not included in this repository</li>
-                            <li>If you want to use these images in a video/mainstream media</li>
+                            <li>{% t assets.contact.1 %}</li>
+                            <li>{% t assets.contact.2 %}</li>
                         </ul>
                     </div>
                 </div>
@@ -75,15 +71,11 @@ title: Assets
         </div>
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
             <div class="pb-2 mt-4 mb-2">
-                <h3><b>Naming Projects and products</b></h3>
+                <h3><b>{% t assets.naming.title %}</b></h3>
                 <div class="row">
                     <div class="col-md-12">
                         <ul class="list-unstyled">
-                            <li>
-                                Please avoid naming your projects anything that implies {{ site.org }}'s endorsement.
-                                This also applies to domain names.
-
-                            </li>
+                            <li>{% t assets.naming.1 %}</li>
                         </ul>
                     </div>
                 </div>
@@ -91,18 +83,12 @@ title: Assets
         </div>
         <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
             <div class="pb-2 mt-4 mb-2">
-                <h3><b>Attribution</b></h3>
+                <h3><b>{% t assets.attribution.title %}</b></h3>
                 <div class="row">
                     <div class="col-md-12">
                         <ul class="list-unstyled">
-                            <li>
-                                Other assets like car rating images, track images, emojis, etc. are made by members of
-                                our community, and all rights belong to their respective authors
-                            </li>
-                            <li>
-                                These guidelines were heavily based on
-                                <a href="https://github.com/logos" target="_blank">GitHub's Logos and Usage Guidelines</a>
-                            </li>
+                            <li>{% t assets.attribution.1 %}</li>
+                            <li>{% t assets.attribution.2 %}</li>
                         </ul>
                     </div>
                 </div>

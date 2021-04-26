@@ -40,9 +40,9 @@ is reset. The last prey standing is the champion.
 <hr class="hr-light"/>
 
 <div align="center">
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/rookie/hunt_cup_results-1.png" style="height: 60%; width: 100%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/rookie/hunt_cup_results-1.png" style="height: 60%; width: 100%;" alt=""/>
     <br/><br/>
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/rookie/hunt_cup_results-2.png" style="height: 30%; width: 30%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/rookie/hunt_cup_results-2.png" style="height: 30%; width: 30%;" alt=""/>
     <br/><br/>
-    <img src="{{ site.baseurl }}/assets/img/2020-2021/classes/rookie/hunt_cup_results.png" style="height: 50%; width: 50%;" alt=""/>
+    <img src="{{ site.url }}/assets/img/2020-2021/classes/rookie/hunt_cup_results.png" style="height: 50%; width: 50%;" alt=""/>
 </div>
