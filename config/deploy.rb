@@ -7,7 +7,7 @@ require 'rvm1/capistrano3'
 
 set :application, 'rva'
 set :repo_url, 'https://github.com/Re-Volt-America/Website.git'
-set :branch, 'capistrano'
+set :branch, 'production'
 set :user, 'deploy'
 set :stages, %w(production)
 set :deploy_to, '/home/deploy/rva'
