@@ -6,7 +6,7 @@ The Website for the Re-Volt America Community.
 Software you will need in order to run the website.
 
   * [Ruby 2.6.6](https://www.ruby-lang.org/en/).
-      * Windows: [Ruby Installer](https://rubyinstaller.org/downloads/) is recommended. Default options should do fine.
+      * Windows: [Ruby Installer](https://github.com/oneclick/rubyinstaller2/releases/tag/RubyInstaller-2.6.6-2) is recommended. Default options should do fine.
       * OS X: [RVM](http://rvm.io) is recommended over the default OS X Ruby.
        Here's a one-liner: `\curl -sSL https://get.rvm.io | bash -s stable --ruby`.
        
