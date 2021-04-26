@@ -1,7 +1,7 @@
 i18n [![Crowdin](https://badges.crowdin.net/rva/localized.svg)](https://crowdin.com/project/rva)
 ===
 
-Re-Volt America uses Crowdin to maintain its extensive amount of translations. Any message, alert, or user interface
+Re-Volt America uses [Crowdin](https://translate.revolt-america.com) to maintain its extensive amount of translations. Any message, alert, or user interface
 should be properly translated using this guide. All translation keys are centralised within the `strings.yml` file. 
 
 If you want to add a new translation key or edit an existing key in English make a PR on Github.
