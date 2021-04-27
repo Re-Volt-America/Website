@@ -1,83 +1,83 @@
+---
 nav:
-  play: "Play"
-  rules: "Rules"
-  downloads: "Downloads"
+  play: "Gioca"
+  rules: "Regole"
+  downloads: "Scarica"
   rva:
     title: "RVA"
-    tracks: "Tracks"
-    cars: "Cars"
+    tracks: "Circuiti"
+    cars: "Auto"
   ranking:
-    title: "Ranking"
-    points: "Points System"
+    title: "Classifica"
+    points: "Sistema Assegnazioni Punti"
     season20202021: "2020-2021"
-
 footer:
   policies:
-    title: "Policies"
-    rules: "Rules"
-    terms: "Terms of Service"
-    privacy: "Privacy Policy"
+    title: "Norme e sicurezza"
+    rules: "Regole"
+    terms: "Termini di Servizio"
+    privacy: "Norme sulla Privacy"
   organization:
-    title: "Organization"
-    logs: "Development Logs"
-    bugs: "Report a Bug"
+    title: "Organismo"
+    logs: "Registri di Sviluppo"
+    bugs: "Segnala un Problema"
     sponsor: "Sponsor"
   trademark:
-    title: "Trademark"
-    assets: "Assets"
-    emoji: "Emoji"
+    title: "Marchi"
+    assets: "Risorse"
+    emoji: "Simboli"
   social:
-    title: "Find Us"
+    title: "Trovaci"
     discord: "Discord"
     github: "GitHub"
-
 play:
-  header: "WE PLAY DAILY AT 01:50 UTC"
-  subheader: "Lobbies are posted at"
+  header: "GIOCHIAMO OGNI GIORNO ALLE 01:50 UTC"
+  subheader: "Le stanze per le partite sono pubblicate su"
   and: "&"
-
 downloads:
-  title: "Downloads"
-  current-version: "Current version:"
+  title: "Scarica"
+  current-version: "Versione attuale:"
   re-volt:
-    description: "This is the game we play, Re-Volt! Get it from the RVGL project in order to play online with us."
+    description: "Questo è il gioco a cui giochiamo, Re-Volt! Scaricalo dal sito del progetto RVGL per poter giocare online insieme a noi."
   rva:
-    description: "The content pack we use at Re-Volt America. This includes the cars, tracks & gfx."
-
+    description: "Il nostro pacchetto di contenuti scaricabile che utilizziamo in Re-Volt America. Include le auto, i circuiti e le relative immagini."
 rules:
-  title: "Rules"
+  title: "Regole"
   sections:
     a:
-      title: "A. General Composure"
-      1: "Always keep a calm atmosphere towards other users."
-      2: "Do not <em>Spam</em>. Within reasonable limits you may promote yourself and others, just do not cross the line and you should be fine."
-      3: "<a class='text-primary' href='https://es.wikipedia.org/wiki/Doxing' target='_blank'>Doxing</a> other users is <b>prohibited</b>. If you endorse it or take part in it RVA <b>WILL</b> take action."
-      4: "Follow directions given by staff members at all times."
-      5: "Use your common sense. It really is not that difficult!"
+      title: "A. Comportamento Generale"
+      1: "Mantieni sempre un atteggiamento calmo nei confronti degli altri utenti."
+      2: "Non <em>Spammare</em>. Nei limiti ragionevoli puoi promuovere te stesso o altri utenti, basta che non si esageri e tutto dovrebbe filar liscio."
+      3: "Il <a class='text-primary' href='https://it.wikipedia.org/wiki/Doxing' target='_blank'>Doxing</a> nei confronti degli altri utenti è <b>proibito</b>. Se lo approvi o ne fai parte RVA <b>DOVRÀ</b> prendere provvedimenti."
+      4: "Segui le indicazioni fornite dai membri dello staff in qualsiasi momento."
+      5: "Utilizza il buon senso. Non è poi così difficile!"
     b:
-      title: "B. Races & Scoring"
-      1: "You may use cars from the class in course & below. (rookie, amateur, advanced, etc.)"
+      title: "B. Gare & Punteggi"
+      1: "È possibile utilizzare un'auto di una classe uguale a quella in gioco o di una classe inferiore. (principiante, appassionato, avanzato, ecc.)"
       2:
-        title: "Using a car below the class in course will grant the following score bonuses:"
-        bullet1: "One class below: <b>25%</b>."
-        bullet2: "Two classes below: <b>50%</b>."
-        bullet3: "Three classes below: <b>75%</b>."
-        bullet4: "Four classes below: <b>100%</b>."
-        bullet5: "Five classes below: <b>125%</b>."
-      3: "Do <b>NOT</b> use cars from a higher class than the one in course. <b>Doing so will invalidate the points you get with it</b>."
-      4: "Do <b>NOT</b> purposely shoot or mess up non-immediate positions (players who lap you)."
-      5: "Do <b>NOT</b> ask for RE <small class='text-success'>(1)</small> unless you are late to a race or experience technical difficulties. Other reasons are deemed invalid."
-      6: "Avoid changing your name in the middle of lobbies, as this may difficult the process of calculating the final scores."
-      7: "You must use a unique name in order to play the sessions. In case you have or take the same of another already established player you <b>MUST</b> choose another name."
+        title: "Utilizzare un'auto di una classe inferiore rispetto alla classe in gioco attualmente comporterà nei seguenti benefici al punteggio:"
+        bullet1: "Una classe al di sotto di quella in gioco: <b>25%</b> di bonus al modificatore punteggio dell'auto."
+        bullet2: "Due classi al di sotto di quella in gioco: <b>50%</b> di bonus al modificatore punteggio dell'auto."
+        bullet3: "Tre classi al di sotto di quella in gioco: <b>75%</b> di bonus al modificatore punteggio dell'auto."
+        bullet4: "Quattro classi al di sotto di quella in gioco: <b>100%</b> di bonus al modificatore punteggio dell'auto."
+        bullet5: "Cinque classi al di sotto di quella in gioco: <b>125%</b> di bonus al modificatore punteggio dell'auto."
+      3: "<b>NON</b> usare auto di una classe superiore rispetta a quella in gioco attualmente. <b>Far ciò invaliderà i punti che guadagnerai con essa</b>."
+      4: "<b>NON</b> disturbare o utilizzare gli oggetti sulle auto in posizioni non immediate intenzionalmente (auto che ti doppiano)."
+      5: "<b>NON</b> chiedere un RE <small class='text-success'>(1)</small> a meno che tu non sei in ritardo per una gara o ci sono difficoltà tecniche. Altre ragioni saranno considerate come non valide."
+      6: "Evita di cambiare il tuo nome durante una sessione di gare, poichè questo potrebbe rendere difficile il processo di calcolo dei punteggi finali."
+      7: "È necessario usare un nome univoco per poter giocare nelle sessioni. Nel caso in cui si usi o si selezioni lo stesso nome di un altro giocatore esistente si<b>DOVRÀ</b> scegliere un altro nome."
+      8:
+        title: "Puoi scrivere RE durante i primi 40 secondi di una gara a causa di un fattore esterno non correlato al gioco."
+        subtitle: "È consentito solo un \"RE\" per ogni gara."
     c:
-      title: "C. Discord Server"
-      1: "You must follow and abide to the <a class='text-primary' href='https://discord.com/terms' target='_blank'>Discord Terms of Service</a>. Failure to do so will get you banned from Re-Volt America."
-      2: "Stay on-topic within channels."
-      3: "Do not harass other users."
-      4: "Media that may cause other users' Discord client to crash or <em>very explicit</em> content will be deleted, and you may be punished for posting it."
+      title: "C. Server di Discord"
+      1: "Devi seguire e rispettare i <a class='text-primary' href='https://discord.com/terms' target='_blank'>Termini di Servizio di Discord</a>. In caso contrario sarai bannato da Re-Volt America."
+      2: "Rimani sugli argomenti relativi ai canali."
+      3: "Non molestare gli altri utenti."
+      4: "I media che potrebbero causare il malfunzionamento o il crash del client di Discord oppure contenuti <em>molto espliciti</em> verranno cancellati e potresti essere punito per averli pubblicati."
     d:
-      title: "D. Punishments"
-      1: "Failure to follow any of the Races & Scoring rules may get you speced <small class='text-success'>(2)</small> in our lobbies, or <em>kicked</em> if you insist on breaking our rules."
+      title: "D. Punizioni"
+      1: "Il mancato rispetto di una qualsiasi delle regole di \"Gare & Punteggi\" comporterà nell'essere speccati <small class='text-success'>(2)</small> all'interno delle nostre sessioni di gioco, oppure <em>espulso</em> se si insisterà nella violazione delle nostre regole."
       2: "Users may be <em>kicked</em> from our Discord server for breaking the rules. If the rule violation is severe, you may be <em>banned</em> instead."
       3: "Evading Discord bans will get you banned eventually. We will find out."
       4: "All infractions are subject to staff team's discretion"
@@ -88,7 +88,6 @@ rules:
     2:
       term: "(2) Speced:"
       precision: "When the lobby host forces a racer into spectator. In this context, as a form of punishment."
-
 points:
   title: "Points System"
   introduction:
@@ -106,7 +105,6 @@ points:
     3: "Average Position"
     4: "Official Score"
     5: "0.1, constant factor for reducing final scores"
-
 rva:
   tracks:
     title: "Tracks"
@@ -131,7 +129,6 @@ rva:
     ratings-link: "Car Ratings"
     class-selector:
       title: "Classes"
-
 assets:
   title: "LOGOS & USAGE"
   subtitle: "A collection of our main assets, crafted by the talented <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, which you can download to integrate with RVA or link back to us!"
@@ -158,11 +155,9 @@ assets:
     title: "Attribution"
     1: "Other assets like car rating images, track images, emojis, etc. are made by members of our community, and all rights belong to their respective authors"
     2: "These guidelines were heavily based on <a href='https://github.com/logos' target='_blank'>GitHub's Logos and Usage Guidelines</a>"
-
 error:
   404:
     title: "Error 404"
     caption: "Page not found :("
-
 misc:
   download: "Download"

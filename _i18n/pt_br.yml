@@ -1,61 +1,58 @@
+---
 nav:
-  play: "Play"
-  rules: "Rules"
+  play: "Jogar"
+  rules: "Regras"
   downloads: "Downloads"
   rva:
     title: "RVA"
-    tracks: "Tracks"
-    cars: "Cars"
+    tracks: "Pistas"
+    cars: "Carros"
   ranking:
     title: "Ranking"
-    points: "Points System"
+    points: "Sistema de Pontos"
     season20202021: "2020-2021"
-
 footer:
   policies:
-    title: "Policies"
-    rules: "Rules"
-    terms: "Terms of Service"
-    privacy: "Privacy Policy"
+    title: "Políticas"
+    rules: "Regras"
+    terms: "Termos de Serviço"
+    privacy: "Política de Privacidade"
   organization:
-    title: "Organization"
+    title: "Organização"
     logs: "Development Logs"
-    bugs: "Report a Bug"
-    sponsor: "Sponsor"
+    bugs: "Reportar um erro"
+    sponsor: "Patrocine"
   trademark:
-    title: "Trademark"
-    assets: "Assets"
-    emoji: "Emoji"
+    title: "Marca"
+    assets: "Recursos"
+    emoji: "Emojis"
   social:
     title: "Find Us"
     discord: "Discord"
     github: "GitHub"
-
 play:
-  header: "WE PLAY DAILY AT 01:50 UTC"
-  subheader: "Lobbies are posted at"
+  header: "NÓS JOGAMOS DIARIAMENTE ÀS 01:50 UTC"
+  subheader: "Salas são postadas no"
   and: "&"
-
 downloads:
   title: "Downloads"
-  current-version: "Current version:"
+  current-version: "Versão atual:"
   re-volt:
-    description: "This is the game we play, Re-Volt! Get it from the RVGL project in order to play online with us."
+    description: "Este é o jogo que jogamos, re-Volt! Pegue no sitio do projeto RVGL para jogar online com nós."
   rva:
-    description: "The content pack we use at Re-Volt America. This includes the cars, tracks & gfx."
-
+    description: "O pack de conteúdo que nós usamos na Re-Volt América. Inclui carros, pistas e gfx."
 rules:
-  title: "Rules"
+  title: "Regras"
   sections:
     a:
-      title: "A. General Composure"
+      title: "A. Comportamento geral"
       1: "Always keep a calm atmosphere towards other users."
       2: "Do not <em>Spam</em>. Within reasonable limits you may promote yourself and others, just do not cross the line and you should be fine."
-      3: "<a class='text-primary' href='https://es.wikipedia.org/wiki/Doxing' target='_blank'>Doxing</a> other users is <b>prohibited</b>. If you endorse it or take part in it RVA <b>WILL</b> take action."
+      3: "<a class='text-primary' href='https://en.wikipedia.org/wiki/Doxing' target='_blank'>Doxing</a> other users is <b>prohibited</b>. If you endorse it or take part in it RVA <b>WILL</b> take action."
       4: "Follow directions given by staff members at all times."
       5: "Use your common sense. It really is not that difficult!"
     b:
-      title: "B. Races & Scoring"
+      title: "B. Corridas e Pontuação"
       1: "You may use cars from the class in course & below. (rookie, amateur, advanced, etc.)"
       2:
         title: "Using a car below the class in course will grant the following score bonuses:"
@@ -69,6 +66,9 @@ rules:
       5: "Do <b>NOT</b> ask for RE <small class='text-success'>(1)</small> unless you are late to a race or experience technical difficulties. Other reasons are deemed invalid."
       6: "Avoid changing your name in the middle of lobbies, as this may difficult the process of calculating the final scores."
       7: "You must use a unique name in order to play the sessions. In case you have or take the same of another already established player you <b>MUST</b> choose another name."
+      8:
+        title: "You may type RE during the first 40 seconds of a race due to an external non-game related factor."
+        subtitle: "Only 1 RE per track is allowed."
     c:
       title: "C. Discord Server"
       1: "You must follow and abide to the <a class='text-primary' href='https://discord.com/terms' target='_blank'>Discord Terms of Service</a>. Failure to do so will get you banned from Re-Volt America."
@@ -88,7 +88,6 @@ rules:
     2:
       term: "(2) Speced:"
       precision: "When the lobby host forces a racer into spectator. In this context, as a form of punishment."
-
 points:
   title: "Points System"
   introduction:
@@ -106,63 +105,59 @@ points:
     3: "Average Position"
     4: "Official Score"
     5: "0.1, constant factor for reducing final scores"
-
 rva:
   tracks:
     title: "Tracks"
     format:
       title: "Format"
       difficulty:
-        title: "Difficulty"
-        easy: "Easy"
-        medium: "Medium"
-        hard: "Hard"
-        extreme: "Extreme"
+        title: "Dificuldade"
+        easy: "Fácil"
+        medium: "Média"
+        hard: "Difícil"
+        extreme: "Extrema"
       length:
-        title: "Length"
-        short: "Short"
-        medium: "Medium"
-        long: "Long"
-        extralong: "Extra Long"
+        title: "Tamanho"
+        short: "Curta"
+        medium: "Média"
+        long: "Longa"
+        extralong: "Extra Longa"
     rotation:
       title: "Re-Volt America Rotation"
   cars:
-    title: "Cars"
+    title: "Carros"
     ratings-link: "Car Ratings"
     class-selector:
       title: "Classes"
-
 assets:
-  title: "LOGOS & USAGE"
+  title: "LOGOS & USAGEM"
   subtitle: "A collection of our main assets, crafted by the talented <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, which you can download to integrate with RVA or link back to us!"
   allowed:
-    title: "Allowed Usage"
+    title: "Uso permitido"
     1: "Use our logo to link to our website"
     2: "Use our logo to advertise that you integrate with RVA"
     3: "Use our logo in blog posts or articles about RVA"
   prohibited:
-    title: "Forbidden Usage"
+    title: "Uso Proibido"
     1: "Use our logo as your application's icon"
     2: "Create a modified version of any of our logos"
     3: "Integrate any of our logos into your logo"
     4: "Use any of our artwork without permission"
     5: "Change the colours, dimensions or add your own text/images"
   contact:
-    title: "Please contact us"
+    title: "Por favor, entre em contato"
     1: "If you want to use artwork not included in this repository"
     2: "If you want to use these images in a video/mainstream media"
   naming:
     title: "Naming Projects and products"
     1: "Please avoid naming your projects anything that implies Re-Volt America's endorsement. This also applies to domain names."
   attribution:
-    title: "Attribution"
+    title: "Atribuições"
     1: "Other assets like car rating images, track images, emojis, etc. are made by members of our community, and all rights belong to their respective authors"
     2: "These guidelines were heavily based on <a href='https://github.com/logos' target='_blank'>GitHub's Logos and Usage Guidelines</a>"
-
 error:
   404:
-    title: "Error 404"
-    caption: "Page not found :("
-
+    title: "Erro 404"
+    caption: "Página não encontrada :("
 misc:
-  download: "Download"
+  download: "Baixar"

@@ -1,5 +1,6 @@
+---
 nav:
-  play: "Play"
+  play: "Jugar"
   rules: "Rules"
   downloads: "Downloads"
   rva:
@@ -10,7 +11,6 @@ nav:
     title: "Ranking"
     points: "Points System"
     season20202021: "2020-2021"
-
 footer:
   policies:
     title: "Policies"
@@ -30,12 +30,10 @@ footer:
     title: "Find Us"
     discord: "Discord"
     github: "GitHub"
-
 play:
   header: "WE PLAY DAILY AT 01:50 UTC"
   subheader: "Lobbies are posted at"
   and: "&"
-
 downloads:
   title: "Downloads"
   current-version: "Current version:"
@@ -43,7 +41,6 @@ downloads:
     description: "This is the game we play, Re-Volt! Get it from the RVGL project in order to play online with us."
   rva:
     description: "The content pack we use at Re-Volt America. This includes the cars, tracks & gfx."
-
 rules:
   title: "Rules"
   sections:
@@ -51,7 +48,7 @@ rules:
       title: "A. General Composure"
       1: "Always keep a calm atmosphere towards other users."
       2: "Do not <em>Spam</em>. Within reasonable limits you may promote yourself and others, just do not cross the line and you should be fine."
-      3: "<a class='text-primary' href='https://es.wikipedia.org/wiki/Doxing' target='_blank'>Doxing</a> other users is <b>prohibited</b>. If you endorse it or take part in it RVA <b>WILL</b> take action."
+      3: "<a class='text-primary' href='https://en.wikipedia.org/wiki/Doxing' target='_blank'>Doxing</a> other users is <b>prohibited</b>. If you endorse it or take part in it RVA <b>WILL</b> take action."
       4: "Follow directions given by staff members at all times."
       5: "Use your common sense. It really is not that difficult!"
     b:
@@ -69,6 +66,9 @@ rules:
       5: "Do <b>NOT</b> ask for RE <small class='text-success'>(1)</small> unless you are late to a race or experience technical difficulties. Other reasons are deemed invalid."
       6: "Avoid changing your name in the middle of lobbies, as this may difficult the process of calculating the final scores."
       7: "You must use a unique name in order to play the sessions. In case you have or take the same of another already established player you <b>MUST</b> choose another name."
+      8:
+        title: "You may type RE during the first 40 seconds of a race due to an external non-game related factor."
+        subtitle: "Only 1 RE per track is allowed."
     c:
       title: "C. Discord Server"
       1: "You must follow and abide to the <a class='text-primary' href='https://discord.com/terms' target='_blank'>Discord Terms of Service</a>. Failure to do so will get you banned from Re-Volt America."
@@ -88,7 +88,6 @@ rules:
     2:
       term: "(2) Speced:"
       precision: "When the lobby host forces a racer into spectator. In this context, as a form of punishment."
-
 points:
   title: "Points System"
   introduction:
@@ -106,7 +105,6 @@ points:
     3: "Average Position"
     4: "Official Score"
     5: "0.1, constant factor for reducing final scores"
-
 rva:
   tracks:
     title: "Tracks"
@@ -131,7 +129,6 @@ rva:
     ratings-link: "Car Ratings"
     class-selector:
       title: "Classes"
-
 assets:
   title: "LOGOS & USAGE"
   subtitle: "A collection of our main assets, crafted by the talented <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, which you can download to integrate with RVA or link back to us!"
@@ -158,11 +155,9 @@ assets:
     title: "Attribution"
     1: "Other assets like car rating images, track images, emojis, etc. are made by members of our community, and all rights belong to their respective authors"
     2: "These guidelines were heavily based on <a href='https://github.com/logos' target='_blank'>GitHub's Logos and Usage Guidelines</a>"
-
 error:
   404:
     title: "Error 404"
     caption: "Page not found :("
-
 misc:
   download: "Download"

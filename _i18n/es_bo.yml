@@ -66,6 +66,9 @@ rules:
       5: "<b>NO</b> pida RE <small class='text-success'>(1)</small> a menos que llegues tarde a la carrera o experimentes dificultades técnicas. Otras razones son consideradas inválidas."
       6: "Evite cambiar su nombre en medio de las salas, ya que esto provoca dificultad en el proceso de cálculo de las puntuaciones finales."
       7: "Tienes que utilizar un nombre único para poder jugar las sesiones. En caso de que tengas o tomes lo mismo de otro jugador ya establecido, <b>DEBES</b> ponerte otro nombre."
+      8:
+        title: "Puedes escribir RE durante los primeros 40 segundos de una carrera debido a un factor externo no relacionado con el juego."
+        subtitle: "Sólo 1 RE por pista es permitido."
     c:
       title: "C. Servidor de Discord"
       1: "Debes seguir y aceptar los <a class='text-primary' href='https://discord.com/terms' target='_blank'>Términos de Servicio de Discord</a>. Si no lo haces, en Z te botan de Re-Volt America."
