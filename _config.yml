@@ -63,7 +63,7 @@ defaults:
       locale_flag: true
 
 emoji:
-  src: "https://re-volt-america.github.io/Website" # /emoji/unicode
+  src: "https://revolt-america.com" # /emoji/unicode
 
 plugins:
   - jekyll-multiple-languages-plugin
