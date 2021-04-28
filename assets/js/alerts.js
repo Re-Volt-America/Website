@@ -23,7 +23,31 @@ function nowIsBetween(min, max) {
     return nowTotalMinutes >= minTotalMinutes && nowTotalMinutes <= maxTotalMinutes;
 }
 
-if (nowIsBetween("01:50", "03:30")) {
-    let alert = document.getElementById("lobby-alert");
-    alert.classList.remove("d-none");
+function showAlert() {
+    let now = new Date();
+    let day = now.getDay();
+    var lobbyIsUp = false;
+
+    switch (day) {
+        case 0:
+        case 1:
+        case 3:
+        case 6:
+            if (nowIsBetween("00:00", "01:30")) lobbyIsUp = true;
+            break;
+        case 2:
+        case 4:
+            if (nowIsBetween("01:00", "02:30")) lobbyIsUp = true;
+            break;
+        case 5:
+            if (nowIsBetween("23:00", "00:30")) lobbyIsUp = true;
+            break;
+    }
+
+    if (lobbyIsUp) {
+        let alert = document.getElementById("lobby-alert");
+        alert.classList.remove("d-none");
+    }
 }
+
+showAlert();

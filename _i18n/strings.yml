@@ -32,7 +32,6 @@ footer:
     github: "GitHub"
 
 play:
-  header: "WE PLAY DAILY AT 01:50 UTC"
   subheader: "Lobbies are posted at"
   and: "&"
 
@@ -166,6 +165,9 @@ error:
   404:
     title: "Error 404"
     caption: "Page not found :("
+
+alerts:
+  1: "We're playing right now! Lobby IP:"
 
 misc:
   download: "Download"

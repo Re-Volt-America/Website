@@ -31,7 +31,6 @@ footer:
     discord: "Discord"
     github: "GitHub"
 play:
-  header: "WE PLAY DAILY AT 01:50 UTC"
   subheader: "Lobbies are posted at"
   and: "&"
 downloads:
