@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-md navbar-dark navbar-default bg-obscure">
     <div class="container">
-        <a class="navbar-brand" href="{{ site.baseurl }}">
+        <a class="navbar-brand" href="/{{ site.languagePaths[site.lang] }}">
             <img style="width: 45px; height: 45px; border-radius: 50px;"
                  src="{{ site.url }}/assets/img/rva-logo-dark.png" alt="">
         </a>
@@ -64,10 +64,17 @@
                     </a>
                     <div class="dropdown-menu dropdown-menu-right" aria-labelledby="dropdown02">
                         {% for language in site.languages %}
-                        <a class="dropdown-item" href="{{ site.url }}/{{ site.languagePaths[language] }}">
-                            <img class="locale-flag" src="{{ site.url }}/assets/img/i18n/{{ language }}.png" alt="" />
-                            {{ site.languageNames[language] }}
-                        </a>
+                            {% if site.languagePaths[language] == "" %}
+                                <a class="dropdown-item" href="{{ site.url }}{{ site.languagePaths[language] }}{{ page.url }}">
+                                    <img class="locale-flag" src="{{ site.url }}/assets/img/i18n/{{ language }}.png" alt="" />
+                                    {{ site.languageNames[language] }}
+                                </a>
+                            {% else %}
+                                <a class="dropdown-item" href="{{ site.url }}/{{ site.languagePaths[language] }}{{ page.url }}">
+                                    <img class="locale-flag" src="{{ site.url }}/assets/img/i18n/{{ language }}.png" alt="" />
+                                    {{ site.languageNames[language] }}
+                                </a>
+                            {% endif %}
                         {% endfor %}
                     </div>
                 </li>
