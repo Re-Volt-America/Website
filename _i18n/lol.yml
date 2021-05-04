@@ -158,5 +158,7 @@ error:
   404:
     title: "NO! kitteh got lozt 404"
     caption: "Cant load :((("
+alerts:
+  1: "KATZ R PLAYIN RNNNN!!!: IP: "
 misc:
   download: "dowuload"

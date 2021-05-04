@@ -1,0 +1,164 @@
+---
+nav:
+  play: "플레이"
+  rules: "규칙"
+  downloads: "다운로드"
+  rva:
+    title: "RVA"
+    tracks: "트랙"
+    cars: "차"
+  ranking:
+    title: "랭킹"
+    points: "포인트 시스템"
+    season20202021: "2020-2021"
+footer:
+  policies:
+    title: "정책"
+    rules: "규칙"
+    terms: "서비스 이용약관"
+    privacy: "개인정보 보호방침"
+  organization:
+    title: "기관"
+    logs: "개발 로그"
+    bugs: "버그 신고"
+    sponsor: "스폰서"
+  trademark:
+    title: "상표"
+    assets: "자산"
+    emoji: "이모지"
+  social:
+    title: "문의하기"
+    discord: "Discord"
+    github: "GitHub"
+play:
+  subheader: "로비에 다음이 계시되었습니다:"
+  and: "&"
+downloads:
+  title: "다운로드"
+  current-version: "현재 버전:"
+  re-volt:
+    description: "Re-Volt! 우리가 하는 게임이예요, RVGL 프로젝트에서 가져와서 온라인 게임을 할 수 있습니다."
+  rva:
+    description: "Re-Volt America에서 사용하는 컨텐츠 팩입니다. 차, 트랙 & 그래픽이 포함되어 있습니다."
+rules:
+  title: "규칙"
+  sections:
+    a:
+      title: "A. 기본 평정"
+      1: "다른 사용자에게는 항상 침착한 분위기를 유지해야 합니다."
+      2: "메시지를 <em>스팸</em> 하지마세요. 다른 사람과 귀하 자신의 홍보는 사유없이 제한됩니다. 오직 다른 라인으로 pass"
+      3: "다른 유저를 <a class='text-primary' href='https://en.wikipedia.org/wiki/Doxing' target='_blank'>독싱</a> 하는 것은 <b>금지</b>되어 있습니다. 만약 귀하가 독싱을 RVA에서 지지한다면 <b>곧</b> 처분이 내려질 것입니다."
+      4: "직원분들의 설명을 따라주세요."
+      5: "네티켓을 지켜주세요. 정말 어렵지 않습니다!"
+    b:
+      title: "B. 레이스 & 점수"
+      1: "코스 & 아래에 있는 규칙을 따르는 클래스의 차만 사용이 가능합니다. (입문자, 아마추어, 숙련자 등)"
+      2:
+        title: "아래에 있는 차량을 사용할 시 큰 점수 보너스가 지급됩니다:"
+        bullet1: "1 클래스 아래: <b>25%</b>."
+        bullet2: "2 클래스 아래: <b>50%</b>."
+        bullet3: "3 클래스 아래: <b>75%</b>."
+        bullet4: "4 클래스 아래: <b>100%</b>."
+        bullet5: "5 클래스 아래: <b>125%</b>."
+      3: "한 코스보다 높은 클래스의 차량을 사용하지 <b>마세요</b>. <b>얻은 점수는 무효화될 것입니다.</b>."
+      4: "가깝지 않은 (한 바퀴 차이 나는) 순위의 플레이어를 일부로 쏘거나 괴롭히지 <b>마세요</b>."
+      5: "레이스에 늦거나 기술적 어려움을 겪지 않는 한, RE(재시작)<small class='text-success'>(1)</small>을 요청하지 <b>마세요</b>. 그 밖의 사유는 유효하지 않은 것으로 간주됩니다."
+      6: "로비의 중간에서 이름을 변경하지 마십시오. 최종 점수를 계산하는 과정이 어려울 수 있습니다."
+      7: "세션을 플레이하려면 고유한 이름을 사용해야 합니다. 이미 같은 이름의 준비된 플레이어가 있을 경우 <b>무조건</b> 다른 이름을 선택해야합니다."
+      8:
+        title: "외부 비 게임 관련 요인으로 인해 레이스의 처음 40초 동안 RE(재시작)을 입력할 수 있습니다."
+        subtitle: "트랙당 1개의 RE(재시작)만 허용됩니다."
+    c:
+      title: "C. Discord 서버"
+      1: "<a class='text-primary' href='https://discord.com/terms' target='_blank'>Discord 서비스 이용 약관</a>을 따르고 준수해야 합니다. 그렇지 않으면 Re-Volt America에서 차단될 것입니다."
+      2: "채널 내에서 주제를 벗어나지 마세요."
+      3: "다른 사용자를 괴롭히지 마세요."
+      4: "다른 사용자의 Discord 클라이언트를 중단시킬 수 있는 미디어 또는 매우 노골적인 콘텐츠는 삭제되며 게시한 것에 대해 처벌을 받을 수 있습니다."
+    d:
+      title: "D. 처벌"
+      1: "레이스 및 채점 규칙을 따르지 않으면 로비에 speced<small class='text-success'>(2)</small> 될 수 있으며 규칙 위반을 고집하면 <em>추방</em>당할 수 있습니다."
+      2: "Discord 서버의 규칙을 위반 시 사용자는 <em>추방</em>당할 것 입니다. 규칙의 위반이 심하다면 <em>차단</em>될 것입니다."
+      3: "Discord 금지를 회피하면 결국 금지됩니다. 저희는 찾아낼 것입니다."
+      4: "모든 위반 사항은 직원 팀의 재량에 따라 결정됩니다."
+  precisions:
+    1:
+      term: "(1) RE(재시작):"
+      precision: "로비 호스트에게 현재 레이스를 다시 시작하도록 요청합니다."
+    2:
+      term: "(2) Speced:"
+      precision: "로비 진행자가 레이서를 강제로 관중으로 끌어들일 때 이런 맥락에서, 처벌의 한 형태입니다."
+points:
+  title: "포인트 시스템"
+  introduction:
+    title: "소개"
+    p1: "Re-Volt America에서 레이서는 경기하는 각 레이스에 대해 포인트를 할당받는데, 레이서는 완주하는 위치에 따라 다르다. 다음 이미지에서는 점의 양을 나타내는 위치를 보여줍니다:"
+    p2: "10명 이상의 선수부터 시작하는 로비의 경우 보너스 점수가 매겨진다. 다음 이미지에서는 보너스 포인트가 있는 포인트 시스템을 보여 줍니다."
+  car-ratings:
+    title: "차 레이팅"
+    p1: "자동차는 최고 속도, 가속도, 중량 등에 따라 등급이 매겨진다. 그리고 각 등급은 각 자동차에 대해 승수를 낳습니다. <b style='color: #c6c67d'>노란색 볼트</b>는 다음 이미지에서 차량에 대해 지정된 승수를 나타냅니다:"
+    p2: "이를 염두에 둔다면, 세 대의 자동차에서 15점의 1° 순위의 점수는 승수에 따라 달라집니다:"
+  variables:
+    title: "변수"
+    1: "획득 포인트"
+    2: "차 배율"
+    3: "평균 순위"
+    4: "공식 점수"
+    5: "0.1 최종 점수 감소를 위한 상수 요소"
+rva:
+  tracks:
+    title: "트랙"
+    format:
+      title: "형식"
+      difficulty:
+        title: "난이도"
+        easy: "쉬움"
+        medium: "보통"
+        hard: "어려움"
+        extreme: "익스트림"
+      length:
+        title: "길이"
+        short: "짧음"
+        medium: "중간"
+        long: "긺"
+        extralong: "특대"
+    rotation:
+      title: "Re-Volt America 로테이션"
+  cars:
+    title: "차"
+    ratings-link: "차 레이팅"
+    class-selector:
+      title: "클래스"
+assets:
+  title: "로고 & 사용법"
+  subtitle: "유능한 인재들이 만든 주요 자산의 컬렉션 <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, RVA와 통합하거나 저희에게 링크하기 위해 다운로드 할 수 있습니다."
+  allowed:
+    title: "허용된 사용법"
+    1: "웹 사이트의 출처를 밝힌 로고 사용"
+    2: "RVA와 통합 홍보용으로 로고 사용"
+    3: "RVA에 대한 블로그 게시물 또는 기사에서 로고를 사용"
+  prohibited:
+    title: "금지된 사용법"
+    1: "어플리케이션의 아이콘으로 로고를 사용합니다."
+    2: "로고를 사용하여 2차 창작물 제작"
+    3: "로고를 귀하의 로고로 통합"
+    4: "모든 예술품을 무단으로 사용"
+    5: "색상, 치수 변경 또는 자신의 텍스트/이미지 추가"
+  contact:
+    title: "연락주세요"
+    1: "이 리포지토리에 포함되지 않은 아트워크를 사용하려면"
+    2: "비디오/메인스트림 미디어에서 이러한 이미지를 사용하려면"
+  naming:
+    title: "프로젝트 및 제품 명명"
+    1: "Re-Volt America의 승인을 암시하는 프로젝트를 명명하지 마세요. 이는 도메인 이름에도 적용됩니다."
+  attribution:
+    title: "출처"
+    1: "자동차 등급 이미지, 트랙 이미지, 이모티콘 등과 같은 다른 자산은 우리 커뮤니티의 구성원에 의해 만들어지며, 모든 권리는 각 저자의 것입니다."
+    2: "이 지침은 <a href='https://github.com/logos' target='_blank'>GitHub의 로고 및 사용 지침</a>에 큰 기본이 되었습니다."
+error:
+  404:
+    title: "Error 404"
+    caption: "페이지를 찾을 수 없습니다 ㅠㅠ"
+alerts:
+  1: "우리는 현재 플레이 중입니다! 로비 IP:"
+misc:
+  download: "다운로드"

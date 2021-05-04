@@ -18,7 +18,7 @@ footer:
     terms: "Termini di Servizio"
     privacy: "Norme sulla Privacy"
   organization:
-    title: "Organismo"
+    title: "Gestione"
     logs: "Registri di Sviluppo"
     bugs: "Segnala un Problema"
     sponsor: "Sponsor"
@@ -64,7 +64,7 @@ rules:
       4: "<b>NON</b> disturbare o utilizzare gli oggetti sulle auto in posizioni non immediate intenzionalmente (auto che ti doppiano)."
       5: "<b>NON</b> chiedere un RE <small class='text-success'>(1)</small> a meno che tu non sei in ritardo per una gara o ci sono difficoltà tecniche. Altre ragioni saranno considerate come non valide."
       6: "Evita di cambiare il tuo nome durante una sessione di gare, poichè questo potrebbe rendere difficile il processo di calcolo dei punteggi finali."
-      7: "È necessario usare un nome univoco per poter giocare nelle sessioni. Nel caso in cui si usi o si selezioni lo stesso nome di un altro giocatore esistente si<b>DOVRÀ</b> scegliere un altro nome."
+      7: "È necessario usare un nome univoco per poter giocare nelle sessioni. Nel caso in cui si usi o si selezioni lo stesso nome di un altro giocatore esistente si <b>DOVRÀ</b> scegliere un altro nome."
       8:
         title: "Puoi scrivere RE durante i primi 40 secondi di una gara a causa di un fattore esterno non correlato al gioco."
         subtitle: "È consentito solo un \"RE\" per ogni gara."
@@ -77,26 +77,26 @@ rules:
     d:
       title: "D. Punizioni"
       1: "Il mancato rispetto di una qualsiasi delle regole di \"Gare & Punteggi\" comporterà nell'essere speccati <small class='text-success'>(2)</small> all'interno delle nostre sessioni di gioco, oppure <em>espulso</em> se si insisterà nella violazione delle nostre regole."
-      2: "Users may be <em>kicked</em> from our Discord server for breaking the rules. If the rule violation is severe, you may be <em>banned</em> instead."
-      3: "Evading Discord bans will get you banned eventually. We will find out."
-      4: "All infractions are subject to staff team's discretion"
+      2: "Gli utenti possono essere <em>cacciati</em> dal nostro server di Discord per aver infranto le regole. Se la violazione delle regole è severa, si può, invece, essere <em>bannati</em>."
+      3: "Evadere i ban di Discord ti farà comunque bannare eventualmente. Lo scopriremo."
+      4: "Tutte le infrazioni sono soggette alla discrezione del team dello staff"
   precisions:
     1:
       term: "(1) RE:"
-      precision: "Requesting the lobby host to restart the current race."
+      precision: "Richiedere al gestore della sessione di riavviare la gara in corso."
     2:
-      term: "(2) Speced:"
-      precision: "When the lobby host forces a racer into spectator. In this context, as a form of punishment."
+      term: "(2) Speccati:"
+      precision: "Quando il gestore della sessione imposta un giocatore da \"in gioco\" a spettatore. In questo caso, come forma di punizione."
 points:
-  title: "Points System"
+  title: "Sistema Assegnazioni Punti"
   introduction:
-    title: "Introduction"
-    p1: "In Re-Volt America, racers are assigned points for each race they play, which vary depending on the position they finish in. The following image illustrates which positions give what amount of points:"
-    p2: "For lobbies which start with 10 or more racers, bonus points are scored. The following image illustrates the points system with the bonus points in place:"
+    title: "Introduzione"
+    p1: "In Re-Volt America, i giocatori ricevono punti per ogni gara a cui partecipano che variano in base alla posizione in cui finiscono. L'immagine seguente illustra i punti guadagnati a seconda della posizione conseguita:"
+    p2: "Vengono guadagnati punti bonus per le sessioni di gare che iniziano con 10 o più partecipanti. L'immagine seguente illustra il sistema di punti con i punti bonus applicati:"
   car-ratings:
-    title: "Car Ratings"
-    p1: "Cars are rated depending on their top speed, acceleration, weight, etc. And each rating results in a multiplier for each car. The <b style='color: #c6c67d'>yellow bolt</b> represents said multiplier for the cars in the following image:"
-    p2: "With that in mind, 1° place scores of 15 points, on three different cars, would vary depending on their multipliers:"
+    title: "Valutazioni Auto"
+    p1: "Le auto sono valutate a seconda della loro velocità massima, accelerazione, peso, ecc. Ed ad ogni valutazione si ricava un moltiplicatore auto. Il <b style='color: #c6c67d'>fulmine giallo</b> nella seguente immagine indica questo moltiplicatore auto:"
+    p2: "Con questa informazione, se al primo posto vengono assegnati 15 punti, su tre auto diverse i punti effettivi guadgnati variano in base ai loro moltiplicatori:"
   variables:
     title: "Variables"
     1: "Obtained Points"
@@ -158,5 +158,7 @@ error:
   404:
     title: "Error 404"
     caption: "Page not found :("
+alerts:
+  1: "We're playing right now! Lobby IP:"
 misc:
   download: "Download"

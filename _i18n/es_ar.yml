@@ -158,5 +158,7 @@ error:
   404:
     title: "Error 404"
     caption: "Página no encontrada :("
+alerts:
+  1: "¡Estamos jugando ahora! IP de Lobby:"
 misc:
   download: "Descargar"
