@@ -77,8 +77,8 @@ rules:
     d:
       title: "D. Punizioni"
       1: "Il mancato rispetto di una qualsiasi delle regole di \"Gare & Punteggi\" comporterà nell'essere speccati <small class='text-success'>(2)</small> all'interno delle nostre sessioni di gioco, oppure <em>espulso</em> se si insisterà nella violazione delle nostre regole."
-      2: "Gli utenti possono essere <em>cacciati</em> dal nostro server di Discord per aver infranto le regole. Se la violazione delle regole è severa, si può, invece, essere <em>bannati</em>."
-      3: "Evadere i ban di Discord ti farà comunque bannare eventualmente. Lo scopriremo."
+      2: "Gli utenti possono essere <em>cacciati</em> dal nostro server di Discord per aver infranto le regole. Se la violazione delle regole è severa, si verrà <em>bannati</em>."
+      3: "Evadere i ban dal Discord ti farà bannare comunque eventualmente. Lo scopriremo."
       4: "Tutte le infrazioni sono soggette alla discrezione del team dello staff"
   precisions:
     1:
@@ -91,74 +91,74 @@ points:
   title: "Sistema Assegnazioni Punti"
   introduction:
     title: "Introduzione"
-    p1: "In Re-Volt America, i giocatori ricevono punti per ogni gara a cui partecipano che variano in base alla posizione in cui finiscono. L'immagine seguente illustra i punti guadagnati a seconda della posizione conseguita:"
+    p1: "In Re-Volt America, i giocatori ricevono punti per ogni gara in cui partecipano che variano in base alla posizione conseguita in gara. L'immagine seguente illustra i punti guadagnati a seconda della posizione conseguita:"
     p2: "Vengono guadagnati punti bonus per le sessioni di gare che iniziano con 10 o più partecipanti. L'immagine seguente illustra il sistema di punti con i punti bonus applicati:"
   car-ratings:
     title: "Valutazioni Auto"
     p1: "Le auto sono valutate a seconda della loro velocità massima, accelerazione, peso, ecc. Ed ad ogni valutazione si ricava un moltiplicatore auto. Il <b style='color: #c6c67d'>fulmine giallo</b> nella seguente immagine indica questo moltiplicatore auto:"
-    p2: "Con questa informazione, se al primo posto vengono assegnati 15 punti, su tre auto diverse i punti effettivi guadgnati variano in base ai loro moltiplicatori:"
+    p2: "Al corrente di ciò, se al primo posto vengono assegnati 15 punti, su tre auto diverse i punti effettivi guadgnati variano in base ai loro moltiplicatori:"
   variables:
-    title: "Variables"
-    1: "Obtained Points"
-    2: "Car Multiplier"
-    3: "Average Position"
-    4: "Official Score"
-    5: "0.1, constant factor for reducing final scores"
+    title: "Variabili"
+    1: "Punti Ottenuti"
+    2: "Moltiplicatore Auto"
+    3: "Posizione media"
+    4: "Punteggio ufficiale"
+    5: "0.1, fattore costante per ridurre i risultati finali"
 rva:
   tracks:
-    title: "Tracks"
+    title: "Circuiti"
     format:
-      title: "Format"
+      title: "Formato/Legenda"
       difficulty:
-        title: "Difficulty"
-        easy: "Easy"
-        medium: "Medium"
-        hard: "Hard"
-        extreme: "Extreme"
+        title: "Difficoltà"
+        easy: "Facile"
+        medium: "Medio"
+        hard: "Difficile"
+        extreme: "Estremo"
       length:
-        title: "Length"
-        short: "Short"
-        medium: "Medium"
-        long: "Long"
-        extralong: "Extra Long"
+        title: "Lunghezza"
+        short: "Corto"
+        medium: "Medio"
+        long: "Lungo"
+        extralong: "Molto Lungo"
     rotation:
-      title: "Re-Volt America Rotation"
+      title: "Rotazione Corrente di Re-Volt America"
   cars:
-    title: "Cars"
-    ratings-link: "Car Ratings"
+    title: "Auto"
+    ratings-link: "Valutazioni Auto"
     class-selector:
-      title: "Classes"
+      title: "Classi"
 assets:
-  title: "LOGOS & USAGE"
-  subtitle: "A collection of our main assets, crafted by the talented <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, which you can download to integrate with RVA or link back to us!"
+  title: "Logo & Utilizzi"
+  subtitle: "Una collezzione delle nostre risorse principali, realizzate dalla talentuosa <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, che puoi scaricare per integrarti con RVA o per riferirti a noi!"
   allowed:
-    title: "Allowed Usage"
-    1: "Use our logo to link to our website"
-    2: "Use our logo to advertise that you integrate with RVA"
-    3: "Use our logo in blog posts or articles about RVA"
+    title: "Uso Consentito"
+    1: "Usa il nostro logo per riferirti al nostro sito"
+    2: "L'utilizzo del nostro logo per avvertire la tua partecipazione/integrazione a RVA"
+    3: "L'utilizzo del nostro logo nei blog post o per articoli su RVA"
   prohibited:
-    title: "Forbidden Usage"
-    1: "Use our logo as your application's icon"
-    2: "Create a modified version of any of our logos"
-    3: "Integrate any of our logos into your logo"
-    4: "Use any of our artwork without permission"
-    5: "Change the colours, dimensions or add your own text/images"
+    title: "Uso Non Consentito"
+    1: "L'uso del nostro logo come icona della tua applicazione"
+    2: "La creazione di una versione modificata di un qualsiasi nostro logo"
+    3: "L'integrazione di qualsiasi dei nostri loghi nel tuo logo"
+    4: "L'utilizzo dei nostri artwork senza permesso"
+    5: "Il cambiamento di colori, dimensioni o l'aggiunta di testo o immagini proprie"
   contact:
-    title: "Please contact us"
-    1: "If you want to use artwork not included in this repository"
-    2: "If you want to use these images in a video/mainstream media"
+    title: "Vi preghiamo di contattarci"
+    1: "Se si desidera utilizzare dell'artwork non incluso in questo archivio"
+    2: "Se si desidera utilizzare queste immagini in un video/portale mainstream"
   naming:
-    title: "Naming Projects and products"
-    1: "Please avoid naming your projects anything that implies Re-Volt America's endorsement. This also applies to domain names."
+    title: "Rinominazione Progetti e prodotti"
+    1: "Si prega di evitare di rinominare i propri progetti in tutto ciò che posso implicare l'approvazione di Re-Volt America- Questo si applica anche ai nomi di dominio."
   attribution:
-    title: "Attribution"
-    1: "Other assets like car rating images, track images, emojis, etc. are made by members of our community, and all rights belong to their respective authors"
-    2: "These guidelines were heavily based on <a href='https://github.com/logos' target='_blank'>GitHub's Logos and Usage Guidelines</a>"
+    title: "Attribuzione"
+    1: "Altri assetti come le immagini di valutazioni auto, le immagini dei circuiti, emoji, ecc. sono creati dai membri della nostra comunità. e tutti i diritti appartengono ai rispettivi autori"
+    2: "Queste linee guida si basano prevalentemente sulle <a href='https://github.com/logos' target='_blank'>Linee Guida di GitHub per gli usi e i loghi</a>"
 error:
   404:
-    title: "Error 404"
-    caption: "Page not found :("
+    title: "Errore 404"
+    caption: "Pagina non trovata :("
 alerts:
-  1: "We're playing right now! Lobby IP:"
+  1: "Siamo giocando adesso! IP Sessione:"
 misc:
-  download: "Download"
+  download: "Scarica"
