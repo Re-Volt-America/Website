@@ -1,6 +1,12 @@
 ---
 permalink: /cars
 title: Cars
+rookie_path: /cars/rookie
+amateur_path: /cars/amateur
+advanced_path: /cars/advanced
+semi-pro_path: /cars/semi-pro
+pro_path: /cars/pro
+super-pro_path: /cars/super-pro
 ---
 
 <div class="row">
@@ -15,107 +21,8 @@ title: Cars
         </a>
     </div>
 </div>
-<hr class="hr-light-title"/>
+<hr class="hr-light"/>
 
-<div id="cars" class="container">
-    <div class="row">
-        <div class="col-6">
-            <div class="">
-                <h2 id="rookie">Rookie</h2>
-            </div>
-        </div>
-        <div class="col-6">
-            {% include car_class_selector.html %}
-        </div>
-    </div>
-    <hr class="hr-light-title"/>
-    <div class="row">
-        <div class="col-12">
-            <div>
-                {% for i in (1..5) %}
-                <img class="img-fluid" src="{{ site.url }}/assets/img/cars/rookie/{{ i }}.png" alt="" />
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-6">
-            <div class="">
-                <h2 id="amateur">Amateur</h2>
-            </div>
-        </div>
-        <div class="col-6">
-            {% include car_class_selector.html %}
-        </div>
-    </div>
-    <hr class="hr-light-title"/>
-    <div class="row">
-        <div class="col-12">
-            <div>
-                {% for i in (1..5) %}
-                <img class="img-fluid" src="{{ site.url }}/assets/img/cars/amateur/{{ i }}.png" alt="" />
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-6">
-            <div class="">
-                <h2 id="advanced">advanced</h2>
-            </div>
-        </div>
-        <div class="col-6">
-            {% include car_class_selector.html %}
-        </div>
-    </div>
-    <hr class="hr-light-title"/>
-    <div class="row">
-        <div class="col-12">
-            <div>
-                {% for i in (1..5) %}
-                <img class="img-fluid" src="{{ site.url }}/assets/img/cars/advanced/{{ i }}.png" alt="" />
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-6">
-            <div class="">
-                <h2 id="semi-pro">Semi-Pro</h2>
-            </div>
-        </div>
-        <div class="col-6">
-            {% include car_class_selector.html %}
-        </div>
-    </div>
-    <hr class="hr-light-title"/>
-    <div class="row">
-        <div class="col-12">
-            <div>
-                {% for i in (1..5) %}
-                <img class="img-fluid" src="{{ site.url }}/assets/img/cars/semi-pro/{{ i }}.png" alt="" />
-                {% endfor %}
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-6">
-            <div>
-                <h2 id="pro">Pro</h2>
-            </div>
-        </div>
-        <div class="col-6">
-            {% include car_class_selector.html %}
-        </div>
-    </div>
-    <hr class="hr-light-title"/>
-    <div class="row">
-        <div class="col-12">
-            <div class="text-center">
-                <h4>
-                    <b>To be rated...</b>
-                </h4>
-            </div>
-        </div>
-    </div>
-</div>
+
+{% assign hide_random = true %}
+{% include classes_splash.html %}

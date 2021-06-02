@@ -169,5 +169,22 @@ error:
 alerts:
   1: "We're playing right now! Lobby IP:"
 
+emoji:
+  title: "RVA Emojis"
+
+seasons:
+  season: "Season"
+  unavailable: "Results unavailable"
+
+classes:
+  rookie: "Rookie"
+  amateur: "Amateur"
+  advanced: "Advanced"
+  semi-pro: "Semi-Pro"
+  pro: "Pro"
+  super-pro: "Super-Pro"
+  clockwork: "Clockwork"
+  random: "Random"
+
 misc:
   download: "Download"

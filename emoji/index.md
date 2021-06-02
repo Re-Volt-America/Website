@@ -2,7 +2,7 @@
 title: Emojis
 ---
 
-<h2 style="margin-bottom: -0.7rem;"><b>RVA Emojis</b></h2>
+<h2 style="margin-bottom: -0.7rem;"><b>{% t emoji.title %}</b></h2>
 <hr class="hr-light-title"/>
 
 {% assign emojis = site.static_files | where: 'emoji', true %}

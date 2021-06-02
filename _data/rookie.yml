@@ -1,0 +1,211 @@
+rookie:
+  phat_trucker:
+    name: Phat Trucker
+    slug: phat_trucker
+    speed: 47.9
+    acc: 2.23
+    weight: 3.50
+    multiplier: 0.7
+  tesla:
+    name: Tesla
+    slug: tesla
+    speed: 53.7
+    acc: 1.51
+    weight: 3.00
+    multiplier: 1.0
+  yella:
+    name: Yella
+    slug: yella
+    speed: 50.8
+    acc: 1.59
+    weight: 2.50
+    multiplier: 1.0
+  phat_slug:
+    name: Phat Slug
+    slug: phat_slug
+    speed: 51.0
+    acc: 1.4
+    weight: 2.50
+    multiplier: 1.6
+  bigvolt:
+    name: Bigvolt
+    slug: bigvolt
+    speed: 52.6
+    acc: 2.36
+    weight: 2.30
+    multiplier: 0.8
+  high_rod:
+    name: High Rod
+    slug: high_rod
+    speed: 48.8
+    acc: 2.17
+    weight: 1.90
+    multiplier: 0.7
+  angus_400:
+    name: Angus 400
+    slug: angus_400
+    speed: 50.1
+    acc: 2.24
+    weight: 1.80
+    multiplier: 1.0
+  speeder:
+    name: Speeder
+    slug: speeder
+    speed: 48.1
+    acc: 2.37
+    weight: 1.75
+    multiplier: 0.8
+  crazy_pat:
+    name: Crazy Pat
+    slug: crazy_pat
+    speed: 49.0
+    acc: 2.30
+    weight: 1.70
+    multiplier: 1.0
+  harvester:
+    name: Harvester
+    slug: harvester
+    speed: 48.0
+    acc: 2.31
+    weight: 1.70
+    multiplier: 0.9
+  vaanbus:
+    name: Vaanbus
+    slug: vaanbus
+    speed: 53.4
+    acc: 1.81
+    weight: 1.70
+    multiplier: 1.2
+  lr_64:
+    name: LR 64
+    slug: lr_64
+    speed: 53.7
+    acc: 1.55
+    weight: 1.70
+    multiplier: 0.7
+  volken_turbo:
+    name: Volken Turbo
+    slug: volken_turbo
+    speed: 50.0
+    acc: 2.22
+    weight: 1.60
+    multiplier: 0.8
+  porumbarul:
+    name: Porumbarul
+    slug: porumbarul
+    speed: 53.0
+    acc: 1.75
+    weight: 1.60
+    multiplier: 1.1
+  rebound_4x4:
+    name: Rebound 4x4
+    slug: rebound_4x4
+    speed: 53.6
+    acc: 2.25
+    weight: 1.50
+    multiplier: 1.3
+  col_moss:
+    name: Col Moss
+    slug: col_moss
+    speed: 53.0
+    acc: 2.16
+    weight: 1.50
+    multiplier: 0.8
+  sunset_light:
+    name: Sunset Light
+    slug: sunset_light
+    speed: 48.4
+    acc: 2.35
+    weight: 1.50
+    multiplier: 1.0
+  hurricane:
+    name: Hurricane
+    slug: hurricane
+    speed: 48.7
+    acc: 2.30
+    weight: 1.50
+    multiplier: 0.6
+  nesbitt:
+    name: Nesbitt
+    slug: nesbitt
+    speed: 53.2
+    acc: 1.81
+    weight: 1.50
+    multiplier: 0.9
+  dr._grudge:
+    name: Dr. Grudge
+    slug: dr._grudge
+    speed: 51.0
+    acc: 2.53
+    weight: 1.40
+    multiplier: 0.6
+  panorama:
+    name: Panorama
+    slug: panorama
+    speed: 50.4
+    acc: 2.31
+    weight: 1.35
+    multiplier: 1.3
+  naranja_turbo:
+    name: Naranja Turbo
+    slug: naranja_turbo
+    speed: 47.0
+    acc: 2.78
+    weight: 1.30
+    multiplier: 0.9
+  rc_bandit:
+    name: Rc Bandit
+    slug: rc_bandit
+    speed: 52.0
+    acc: 2.08
+    weight: 1.20
+    multiplier: 0.6
+  bed_bug:
+    name: Bed Bug
+    slug: bed_bug
+    speed: 52.1
+    acc: 1.98
+    weight: 1.20
+    multiplier: 0.9
+  el_gekko:
+    name: El Gekko
+    slug: el_gekko
+    speed: 51.1
+    acc: 2.01
+    weight: 1.20
+    multiplier: 0.9
+  dust_mite:
+    name: Dust Mite
+    slug: dust_mite
+    speed: 51.0
+    acc: 1.97
+    weight: 1.20
+    multiplier: 1.2
+  micro:
+    name: Micro
+    slug: micro
+    speed: 50.7
+    acc: 2.32
+    weight: 1.10
+    multiplier: 1.1
+  kanberra_kruiser:
+    name: Kanberra Kruiser
+    slug: kanberra_kruiser
+    speed: 50.6
+    acc: 2.39
+    weight: 1.00
+    multiplier: 0.6
+  sprinter_xl:
+    name: Sprinter XL
+    slug: sprinter_xl
+    speed: 51.0
+    acc: 3.18
+    weight: 0.90
+    multiplier: 0.7
+  road_star:
+    name: Road Star
+    slug: road_star
+    speed: 50.1
+    acc: 2.49
+    weight: 0.80
+    multiplier: 0.9

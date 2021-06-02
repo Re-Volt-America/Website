@@ -1,0 +1,211 @@
+semi-pro:
+  adeon:
+    name: Adeon
+    slug: adeon
+    speed: 59.0
+    acc: 2.97
+    weight: 1.20
+    multiplier: 0.7
+  ancile:
+    name: Ancile
+    slug: ancile
+    speed: 60.0
+    acc: 2.29
+    weight: 2.50
+    multiplier: 0.7
+  arnoux:
+    name: Arnoux
+    slug: arnoux
+    speed: 59.8
+    acc: 2.46
+    weight: 1.50
+    multiplier: 0.9
+  big_match_jim:
+    name: Big Match Jim
+    slug: big_match_jim
+    speed: 60.7
+    acc: 2.92
+    weight: 2.90
+    multiplier: 0.6
+  canary_xl:
+    name: Canary XL
+    slug: canary_xl
+    speed: 58.8
+    acc: 2.08
+    weight: 2.30
+    multiplier: 0.7
+  chubba:
+    name: Chubba
+    slug: chubba
+    speed: 58.9
+    acc: 2.67
+    weight: 3.00
+    multiplier: 1.0
+  cloromorph:
+    name: Cloromorph
+    slug: cloromorph
+    speed: 59.6
+    acc: 2.92
+    weight: 1.40
+    multiplier: 1.2
+  dual_signal:
+    name: Dual Signal
+    slug: dual_signal
+    speed: 59.2
+    acc: 2.58
+    weight: 1.70
+    multiplier: 0.7
+  heritage:
+    name: Heritage
+    slug: heritage
+    speed: 57.0
+    acc: 3.09
+    weight: 1.70
+    multiplier: 0.9
+  hydrox:
+    name: Hydrox
+    slug: hydrox
+    speed: 60.1
+    acc: 3.13
+    weight: 1.50
+    multiplier: 0.7
+  jackal:
+    name: Jackal
+    slug: jackal
+    speed: 63.6
+    acc: 2.10
+    weight: 2.50
+    multiplier: 1.0
+  jet_astro:
+    name: Jet Astro
+    slug: jet_astro
+    speed: 58.5
+    acc: 2.85
+    weight: 1.80
+    multiplier: 1.0
+  jg-7:
+    name: JG-7
+    slug: jg-7
+    speed: 58.9
+    acc: 2.72
+    weight: 1.20
+    multiplier: 0.8
+  lunar_roader:
+    name: Lunar Roader
+    slug: lunar_roader
+    speed: 61.4
+    acc: 2.02
+    weight: 3.00
+    multiplier: 1.0
+  nitrox_xli:
+    name: Nitrox XLI
+    slug: nitrox_xli
+    speed: 59.7
+    acc: 2.05
+    weight: 1.20
+    multiplier: 1.4
+  pemto:
+    name: Pemto
+    slug: pemto
+    speed: 65.4
+    acc: 2.57
+    weight: 1.50
+    multiplier: 1.2
+  pest_control:
+    name: Pest Control
+    slug: pest_control
+    speed: 66.0
+    acc: 1.65
+    weight: 2.00
+    multiplier: 1.6
+  pole_poz:
+    name: Pole Poz
+    slug: pole_poz
+    speed: 60.0
+    acc: 2.52
+    weight: 1.70
+    multiplier: 1.5
+  predator:
+    name: Predator
+    slug: predator
+    speed: 62.2
+    acc: 2.16
+    weight: 3.40
+    multiplier: 0.8
+  rc_vector:
+    name: RC Vector
+    slug: rc_vector
+    speed: 58.3
+    acc: 3.64
+    weight: 1.75
+    multiplier: 0.6
+  rc-erra:
+    name: RC-Erra
+    slug: rc-erra
+    speed: 59.7
+    acc: 2.53
+    weight: 1.60
+    multiplier: 0.7
+  rg1:
+    name: RG1
+    slug: rg1
+    speed: 57.8
+    acc: 2.81
+    weight: 1.40
+    multiplier: 0.9
+  rothams_racing:
+    name: Rothams Racing
+    slug: rothams_racing
+    speed: 59.7
+    acc: 3.04
+    weight: 1.60
+    multiplier: 1.0
+  rotor:
+    name: Rotor
+    slug: rotor
+    speed: 65.0
+    acc: 2.01
+    weight: 3.00
+    multiplier: 2.3
+  rv_loco:
+    name: RV Loco
+    slug: rv_loco
+    speed: 63.3
+    acc: 1.98
+    weight: 2.25
+    multiplier: 3.0
+  sizzler:
+    name: Sizzler
+    slug: sizzler
+    speed: 58.3
+    acc: 3.27
+    weight: 1.20
+    multiplier: 0.9
+  touga:
+    name: Touga
+    slug: touga
+    speed: 65.6
+    acc: 3.08
+    weight: 2.00
+    multiplier: 0.9
+  tribute:
+    name: Tribute
+    slug: tribute
+    speed: 64.6
+    acc: 2.95
+    weight: 2.00
+    multiplier: 0.7
+  yuurei_v8:
+    name: Yuurei V8
+    slug: yuurei_v8
+    speed: 58.0
+    acc: 3.04
+    weight: 1.70
+    multiplier: 0.7
+  zipper:
+    name: Zipper
+    slug: zipper
+    speed: 61.0
+    acc: 2.80
+    weight: 1.40
+    multiplier: 0.8

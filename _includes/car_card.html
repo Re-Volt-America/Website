@@ -1,0 +1,52 @@
+<div class="car-card col-xl-3 col-lg-4 cl-md-4 col-sm-6 col-12">
+    <div class="card">
+        <div class="card-header">
+            <div class="text-center">
+                <h2 class="car-title">{{ name }}</h2>
+            </div>
+        </div>
+        <div class="card-body">
+            <img class="card-img-top" src="{{ site.url }}/assets/img/boxes/{{ class }}/{{ slug }}.bmp" alt="">
+        </div>
+        <div class="card-footer">
+            <div class="row">
+                <div class="col-6">
+                    <p>Speed</p>
+                </div>
+                <div class="col-6">
+                    <p>{{ speed }} km/h</p>
+                </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <div class="row">
+                <div class="col-6">
+                    <p>Acc</p>
+                </div>
+                <div class="col-6">
+                    <p>{{ acc }} m/s&sup2;</p>
+                </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <div class="row">
+                <div class="col-6">
+                    <p>Weight</p>
+                </div>
+                <div class="col-6">
+                    <p>{{ weight }} Kg</p>
+                </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <div class="row">
+                <div class="col-6">
+                    <p>Multiplier</p>
+                </div>
+                <div class="col-6">
+                    <p>{{ multiplier }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

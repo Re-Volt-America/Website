@@ -1,0 +1,211 @@
+amateur:
+  toy-volt_towing:
+    name: Toy-volt Towing
+    slug: toy-volt_towing
+    speed: 55.1
+    acc: 1.99
+    weight: 3.50
+    multiplier: 1.0
+  big_rock:
+    name: Big Rock
+    slug: big_rock
+    speed: 56.4
+    acc: 1.71
+    weight: 3.30
+    multiplier: 1.1
+  bad_bison:
+    name: Bad Bison
+    slug: bad_bison
+    speed: 54.9
+    acc: 1.77
+    weight: 2.80
+    multiplier: 1.1
+  mouse:
+    name: Mouse
+    slug: mouse
+    speed: 55.0
+    acc: 2.88
+    weight: 2.30
+    multiplier: 1.0
+  nitro_crusher:
+    name: Nitro Crusher
+    slug: nitro_crusher
+    speed: 53.9
+    acc: 2.51
+    weight: 2.30
+    multiplier: 1.0
+  jungle_ranger:
+    name: Jungle Ranger
+    slug: jungle_ranger
+    speed: 52.8
+    acc: 2.39
+    weight: 2.30
+    multiplier: 0.6
+  badd_rc:
+    name: Badd RC
+    slug: badd_rc
+    speed: 54.2
+    acc: 2.27
+    weight: 2.00
+    multiplier: 0.8
+  genghis_kar:
+    name: Genghis Kar
+    slug: genghis_kar
+    speed: 57.0
+    acc: 1.65
+    weight: 2.00
+    multiplier: 1.5
+  off_gear:
+    name: Off Gear
+    slug: off_gear
+    speed: 50.4
+    acc: 2.31
+    weight: 1.90
+    multiplier: 0.8
+  koin_karp:
+    name: Koin Karp
+    slug: koin_karp
+    speed: 54.8
+    acc: 1.96
+    weight: 1.70
+    multiplier: 0.7
+  tempest:
+    name: Tempest
+    slug: tempest
+    speed: 51.6
+    acc: 2.36
+    weight: 1.60
+    multiplier: 1.0
+  rc_phink:
+    name: RC Phink
+    slug: rc_phink
+    speed: 49.6
+    acc: 2.28
+    weight: 1.60
+    multiplier: 1.2
+  frograph:
+    name: Frograph
+    slug: frograph
+    speed: 49.6
+    acc: 2.70
+    weight: 1.55
+    multiplier: 0.6
+  hotknife:
+    name: Hotknife
+    slug: hotknife
+    speed: 53.6
+    acc: 2.56
+    weight: 1.50
+    multiplier: 0.9
+  vixen:
+    name: Vixen
+    slug: vixen
+    speed: 51.3
+    acc: 2.39
+    weight: 1.50
+    multiplier: 0.6
+  ultra_gamma:
+    name: Ultra Gamma
+    slug: ultra_gamma
+    speed: 55.5
+    acc: 1.80
+    weight: 1.50
+    multiplier: 0.6
+  aquasonic:
+    name: Aquasonic
+    slug: aquasonic
+    speed: 55.0
+    acc: 2.41
+    weight: 1.40
+    multiplier: 0.6
+  strax:
+    name: Strax
+    slug: strax
+    speed: 50.2
+    acc: 2.58
+    weight: 1.40
+    multiplier: 0.9
+  emilia:
+    name: Emilia
+    slug: emilia
+    speed: 53.4
+    acc: 2.36
+    weight: 1.40
+    multiplier: 0.7
+  matra_xl:
+    name: Matra XL
+    slug: matra_xl
+    speed: 55.6
+    acc: 2.12
+    weight: 1.40
+    multiplier: 0.7
+  star_carbs:
+    name: Star Carbs
+    slug: star_carbs
+    speed: 51.2
+    acc: 2.22
+    weight: 1.40
+    multiplier: 0.7
+  mongoose:
+    name: Mongoose
+    slug: mongoose
+    speed: 52.8
+    acc: 1.99
+    weight: 1.40
+    multiplier: 0.7
+  flatter_4v:
+    name: Flatter 4V
+    slug: flatter_4v
+    speed: 51.8
+    acc: 2.17
+    weight: 1.30
+    multiplier: 0.6
+  power_cap:
+    name: Power Cap
+    slug: power_cap
+    speed: 54.4
+    acc: 1.93
+    weight: 1.30
+    multiplier: 0.9
+  candy_pebbles:
+    name: Candy Pebbles
+    slug: candy_pebbles
+    speed: 55.0
+    acc: 1.82
+    weight: 1.30
+    multiplier: 0.8
+  mirage:
+    name: Mirage
+    slug: mirage
+    speed: 54.8
+    acc: 2.20
+    weight: 1.25
+    multiplier: 0.8
+  exceed:
+    name: Exceed
+    slug: exceed
+    speed: 55.7
+    acc: 2.41
+    weight: 1.20
+    multiplier: 0.9
+  la_54:
+    name: LA 54
+    slug: la_54
+    speed: 51.8
+    acc: 2.53
+    weight: 1.20
+    multiplier: 0.9
+  bumblebee:
+    name: Bumblebee
+    slug: bumblebee
+    speed: 50.2
+    acc: 2.28
+    weight: 1.10
+    multiplier: 0.7
+  rc_san:
+    name: Rc San
+    slug: rc_san
+    speed: 53.0
+    acc: 3.16
+    weight: 1.00
+    multiplier: 0.7
