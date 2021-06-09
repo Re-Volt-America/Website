@@ -12,7 +12,7 @@ title: Emojis
         {% for emoji in emojis %}
             <div class="col-3">
                 <a href="{{ site.baseurl }}{{ emoji.path }}" target="_blank">
-                    <img class="emoji-display" src="{{ site.baseurl }}{{ emoji.path }}" alt=""/>
+                    <img class="emoji-display" src="{{ site.url }}{{ emoji.path }}" alt=""/>
                 </a>
             </div>
         {% endfor %}
