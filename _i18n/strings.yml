@@ -37,6 +37,8 @@ play:
 
 downloads:
   title: "Downloads"
+  rvgl-rva: "RVGL + RVA Pack"
+  rva-standalone: "RVA Pack"
   current-version: "Current version:"
   re-volt:
     description: "This is the game we play, Re-Volt! Get it from the RVGL project in order to play online with us."

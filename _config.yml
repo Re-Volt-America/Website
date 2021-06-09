@@ -8,7 +8,7 @@ encoding: utf-8
 markdown: kramdown
 
 languages: ["strings", "en_gb", "es_es", "es_ar", "es_bo", "es_cl", "it", "lol", "pt_br", "ko"]
-exclude_from_localizations: ["distribute", "config", "emoji/unicode", "assets", "CNAME", "README.md", "LICENCE.md"]
+exclude_from_localizations: ["config", "emoji/unicode", "assets", "CNAME", "README.md", "LICENCE.md"]
 defaultLang: strings
 languageNames:
   strings: English, US

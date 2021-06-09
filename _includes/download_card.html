@@ -1,0 +1,23 @@
+<div class="download-card col-xl-3 col-lg-4 cl-md-4 col-sm-6 col-12">
+    <div class="card">
+        <div class="card-header">
+            <div class="text-center">
+                <h2 class="car-title"><i class="{{ icon }}" aria-hidden="true"></i> {{ file_name }}</h2>
+            </div>
+        </div>
+        <div class="card-body">
+            <img class="card-img-top" src="{{ site.url }}/assets/img/{{ img_file }}" alt="">
+        </div>
+        <div class="card-footer">
+            <div class="row">
+                <div class="col text-center">
+                    <a href="{{ distribute_link }}">
+                        <button type="button" class="btn btn-sm btn-outline-secondary">
+                            {% t misc.download %}
+                        </button>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -3,55 +3,36 @@ permalink: /downloads
 title: Downloads
 ---
 
-<h2 style="margin-bottom: -0.7rem;">
-    <i class="fa fa-download" aria-hidden="true"></i> <b>{% t downloads.title %}</b>
-</h2>
-<hr class="hr-light-title"/>
+<div id="downloads">
+    <div class="pb-2 mt-4 mb-2 border-bottom">
+        <h2><b>{% t downloads.rvgl-rva %}</b></h2>
+    </div>
+    <div class="container">
+        <div class="row">
+            {% assign file_name = "Windows 32 Bits" %}
+            {% assign distribute_link = site.data.distribute.rvgl-full-win32-rva %}
+            {% assign img_file = "re-volt-logo.png" %}
+            {% assign icon = "fa fa-windows" %}
+            {% include download_card.html %}
 
-<div id="downloads" class="container">
-    <div class="row">
-        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
-            <div class="card mb-4 box-shadow">
-                <img class="card-img-top img-fluid" alt="" style="height: 350px;"
-                     src="{{ site.url }}/assets/img/re-volt-logo.png" data-holder-rendered="true">
-                <div class="card-body">
-                    <p class="card-text">
-                        {% t downloads.re-volt.description %}
-                    </p>
-                    <p class="card-text">
-                        {% t downloads.current-version %} <code>21.0125a</code>
-                    </p>
-                    <div class="d-flex justify-content-between align-items-center">
-                        <div class="btn-group">
-                            <a class="download-text" href="https://rvgl.re-volt.io/" target="_blank">
-                                <button type="button" class="btn btn-sm btn-outline-secondary">
-                                    {% t misc.download %}
-                                </button>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+            {% assign file_name = "Windows 64 Bits" %}
+            {% assign distribute_link = site.data.distribute.rvgl-full-win64-rva %}
+            {% assign img_file = "re-volt-logo.png" %}
+            {% assign icon = "fa fa-windows" %}
+            {% include download_card.html %}
         </div>
-        <div class="col-xl-4 col-lg-6 col-md-6 col-sm-12 col-12">
-            <div class="card mb-4 box-shadow">
-                <img class="card-img-top img-fluid" alt=""
-                     src="{{ site.url }}/assets/img/rva-logo-dark.png" data-holder-rendered="true">
-                <div class="card-body">
-                    <p class="card-text">
-                        {% t downloads.rva.description %}
-                    </p>
-                    <p>{% t downloads.current-version %} <code>1.1</code></p>
-                    <div class="d-flex justify-content-between align-items-center">
-                        <a class="download-text"
-                           href="https://github.com/Re-Volt-America/rva/releases/download/1.1/rva.zip">
-                            <button type="button" class="btn btn-sm btn-outline-secondary">
-                                {% t misc.download %}
-                            </button>
-                        </a>
-                    </div>
-                </div>
-            </div>
+    </div>
+
+    <div class="pb-2 mt-4 mb-2 border-bottom">
+        <h2><b>{% t downloads.rva-standalone %}</b></h2>
+    </div>
+    <div class="container">
+        <div class="row">
+            {% assign file_name = "RVA Pack" %}
+            {% assign distribute_link = site.data.distribute.rva %}
+            {% assign img_file = "rva-logo-dark.png" %}
+            {% assign icon = "fa fa-folder-open" %}
+            {% include download_card.html %}
         </div>
     </div>
 </div>
