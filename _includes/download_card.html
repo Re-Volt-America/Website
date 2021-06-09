@@ -2,7 +2,7 @@
     <div class="card">
         <div class="card-header">
             <div class="text-center">
-                <h2 class="car-title"><i class="{{ icon }}" aria-hidden="true"></i> {{ file_name }}</h2>
+                <h2 class="car-title"><i class="{{ icon }}" aria-hidden="true"></i> {{ download_name }}</h2>
             </div>
         </div>
         <div class="card-body">
@@ -11,7 +11,7 @@
         <div class="card-footer">
             <div class="row">
                 <div class="col text-center">
-                    <a href="{{ distribute_link }}">
+                    <a href="{{ download_link }}">
                         <button type="button" class="btn btn-sm btn-outline-secondary">
                             {% t misc.download %}
                         </button>
