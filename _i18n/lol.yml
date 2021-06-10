@@ -35,6 +35,8 @@ play:
   and: "AND"
 downloads:
   title: "dowoloads"
+  rvgl-rva: "rVgL + rVa stufzz"
+  rva-standalone: "rVa stuffz"
   current-version: "rn:"
   re-volt:
     description: "We paly Ri-Vult! Get frum RVGL page to play with cat"
@@ -127,7 +129,7 @@ rva:
     title: "Cars 3"
     ratings-link: "Carz gud or bad"
     class-selector:
-      title: "da clazzez"
+      title: "clazzez"
 assets:
   title: "LOGOWOS & USAEG"
   subtitle: "Logos maed by Hylia! u can get :DDDD"
@@ -160,5 +162,20 @@ error:
     caption: "Cant load :((("
 alerts:
   1: "KATZ R PLAYIN RNNNN!!!: IP: "
+emoji:
+  title: "rva eMoJiS"
+seasons:
+  season: "Seasun"
+  unavailable: "Resultz unavialble"
+classes:
+  rookie: "noob"
+  amateur: "Less Noob"
+  advanced: "Progressive"
+  semi-pro: "ALMOST PROFESSIONAL"
+  pro: "PROFESSIONAL"
+  super-pro: "f1 kat driver"
+  clockwork: "clockiesss"
+  random: "U nevur know"
 misc:
   download: "dowuload"
+  search: "Scratch"

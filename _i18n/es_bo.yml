@@ -35,6 +35,8 @@ play:
   and: "y"
 downloads:
   title: "Descargas"
+  rvgl-rva: "RVGL + RVA Pack"
+  rva-standalone: "RVA Pack"
   current-version: "Versión actual:"
   re-volt:
     description: "Este es el juego que jugamos, Re-Volt! Consígue el RVGL Project para jugar en línea con nosotros."
@@ -160,5 +162,20 @@ error:
     caption: "Página no encontrada :("
 alerts:
   1: "¡Estamos jugando ya! IP de la Sala:"
+emoji:
+  title: "RVA Emojis"
+seasons:
+  season: "Season"
+  unavailable: "Results unavailable"
+classes:
+  rookie: "Rookie"
+  amateur: "Amateur"
+  advanced: "Advanced"
+  semi-pro: "Semi-Pro"
+  pro: "Pro"
+  super-pro: "Super-Pro"
+  clockwork: "Clockwork"
+  random: "Random"
 misc:
   download: "Descargar"
+  search: "Search"

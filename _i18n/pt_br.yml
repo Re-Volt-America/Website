@@ -20,7 +20,7 @@ footer:
   organization:
     title: "Organização"
     logs: "Logs de Desenvolvimento"
-    bugs: "Reportar um erro"
+    bugs: "Reportar um Bug"
     sponsor: "Patrocínio"
   trademark:
     title: "Marca"
@@ -35,16 +35,18 @@ play:
   and: "&"
 downloads:
   title: "Downloads"
+  rvgl-rva: "RVGL + RVA Pack"
+  rva-standalone: "RVA Pack"
   current-version: "Versão atual:"
   re-volt:
-    description: "Este é o jogo que jogamos, re-Volt! Pegue no sitio do projeto RVGL para jogar online com nós."
+    description: "Este é o jogo que jogamos, Re-Volt! Pegue o jogo no projeto RVGL para jogar online conosco."
   rva:
     description: "O pack de conteúdo que nós usamos na Re-Volt América. Inclui carros, pistas e gfx."
 rules:
   title: "Regras"
   sections:
     a:
-      title: "A. Comportamento geral"
+      title: "A. Comportamento Geral"
       1: "Sempre manter o respeito e ser cordial com outros usuários."
       2: "Não <em>\"Spame\"</em>. Você pode se promover ou promover aos outros, mas sempre respeitando os limites."
       3: "<a class='text-primary' href='https://pt.wikipedia.org/wiki/Doxing' target='_blank'>Doxing</a> outros usuários é <b>proibido</b>. Se você participar ou incentivar isso no servidor RVA, você <b>SERÁ</b> penalizado."
@@ -54,7 +56,7 @@ rules:
       title: "B. Corridas e Pontuação"
       1: "Você pode utilizar carros de classes equivalentes ou menor. (Novato, Amador, Avançado, etc.)"
       2:
-        title: "Usar um carro de classe menor lhe dará os seguintes benefícios:"
+        title: "Usar um carro de classe menor lhe dará os seguintes benefícios de pontuação:"
         bullet1: "Uma classe abaixo: <b>25%</b>."
         bullet2: "Duas classes abaixo: <b>50%</b>."
         bullet3: "Três classes abaixo: <b>75%</b>."
@@ -112,7 +114,7 @@ rva:
       difficulty:
         title: "Dificuldade"
         easy: "Fácil"
-        medium: "Média"
+        medium: "Médio"
         hard: "Difícil"
         extreme: "Extrema"
       length:
@@ -129,8 +131,8 @@ rva:
     class-selector:
       title: "Classes"
 assets:
-  title: "LOGOS & USAGEM"
-  subtitle: "Uma coleção dos nossos principais recursos, elaborados pelo talentoso <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, que você pode baixar para integrar com a RVA ou \"linkar\" de volta para nós!"
+  title: "LOGOS & UTILIZAÇÃO"
+  subtitle: "Uma coleção dos nossos principais recursos, elaborados pela talentosa <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, que você pode baixar para integrar com a RVA ou \"linkar\" de volta para nós!"
   allowed:
     title: "Uso permitido"
     1: "Use o nosso logotipo pra vincular ao nosso site"
@@ -145,7 +147,7 @@ assets:
     5: "Alterar cores, dimensões ou adicionar seu próprio texto/imagens"
   contact:
     title: "Por favor, entre em contato"
-    1: "Se você quiser usar arte não incluída neste repositório"
+    1: "Se você quiser usar arte, não incluída neste repositório"
     2: "Se você quiser usar estas imagens em uma mídia de vídeo/mainstream"
   naming:
     title: "Nomear projetos e produtos"
@@ -160,5 +162,20 @@ error:
     caption: "Página não encontrada :("
 alerts:
   1: "Estamos jogando agora mesmo! IP do Lobby:"
+emoji:
+  title: "RVA Emojis"
+seasons:
+  season: "Temporada"
+  unavailable: "Resultados Indisponíveis"
+classes:
+  rookie: "Novato"
+  amateur: "Amador"
+  advanced: "Avançado"
+  semi-pro: "Semi-Pro"
+  pro: "Pro"
+  super-pro: "Super-Pro"
+  clockwork: "Clockwork"
+  random: "Aleatório"
 misc:
-  download: "Baixar"
+  download: "Download"
+  search: "Search"
