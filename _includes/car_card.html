@@ -11,37 +11,37 @@
         <div class="card-footer">
             <div class="row">
                 <div class="col-6">
-                    <p>Speed</p>
+                    <p>{% t car-card.speed %}</p>
                 </div>
                 <div class="col-6">
-                    <p>{{ speed }} km/h</p>
-                </div>
-            </div>
-        </div>
-        <div class="card-footer">
-            <div class="row">
-                <div class="col-6">
-                    <p>Acc</p>
-                </div>
-                <div class="col-6">
-                    <p>{{ acc }} m/s&sup2;</p>
+                    <p>{{ speed }} {% t car-card.kmh %}</p>
                 </div>
             </div>
         </div>
         <div class="card-footer">
             <div class="row">
                 <div class="col-6">
-                    <p>Weight</p>
+                    <p>{% t car-card.acc %}</p>
                 </div>
                 <div class="col-6">
-                    <p>{{ weight }} Kg</p>
+                    <p>{{ acc }} {% t car-card.ms2 %}</p>
                 </div>
             </div>
         </div>
         <div class="card-footer">
             <div class="row">
                 <div class="col-6">
-                    <p>Multiplier</p>
+                    <p>{% t car-card.weight %}</p>
+                </div>
+                <div class="col-6">
+                    <p>{{ weight }} {% t car-card.kg %}</p>
+                </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <div class="row">
+                <div class="col-6">
+                    <p>{% t car-card.multiplier %}</p>
                 </div>
                 <div class="col-6">
                     <p>{{ multiplier }}</p>

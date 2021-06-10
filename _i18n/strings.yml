@@ -191,3 +191,12 @@ classes:
 misc:
   download: "Download"
   search: "Search"
+
+car-card:
+  speed: "Speed"
+  kmh: "km/h"
+  acc: "Acc"
+  ms2: "ms²"
+  weight: "Weight"
+  kg: "Kg"
+  multiplier: "Multiplier"
