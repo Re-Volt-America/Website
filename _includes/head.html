@@ -38,6 +38,7 @@
 
     <title>{{ site.title }} - {{ page.title }}</title>
 
-    <script>$(function () { $("[data-toggle='tooltip']").tooltip(); });</script>
+    <script>$(function() { $("[data-toggle='tooltip']").tooltip(); });</script>
+    <script>$(document).ready(function() { $('[data-toggle="popover"]').popover(); });</script>
     <script>$(document).ready(function() { $('span.highlight > code').each(function(i, block) { hljs.highlightBlock(block); }); });</script>
 </head>
