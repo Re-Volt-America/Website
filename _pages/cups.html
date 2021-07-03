@@ -1,0 +1,47 @@
+---
+permalink: /cups
+title: Cups
+singles_path: /cars/singles
+teams_path: /cars/teams
+---
+
+<div class="row">
+    <div class="col-6">
+        <h2 style="margin-bottom: -0.7rem;">
+            <i class="fa fa-car" aria-hidden="true"></i> <b>{% t rva.cups.title %}</b>
+        </h2>
+    </div>
+</div>
+<hr class="hr-light"/>
+
+<div class="row">
+
+<div class="col-xl-4 col-lg-6 col-md-12 col-sm-12 col-12">
+    <div class="car-class-thumbnail text-center">
+        <a href="{{ site.baseurl }}{{ page.singles_path }}">
+            <div class="car-class-thumbnail-overlay">
+                <img src="{{ site.url }}/assets/img/2020-2021/classes/rookie/rookie.png" alt=""
+                             class="img-responsive car-class-img"/>
+             </div>
+             <div class="car-class-caption">
+                <p>{Singles}</p>
+            </div>
+        </a>
+    </div>
+</div>
+
+
+<div class="col-xl-4 col-lg-6 col-md-12 col-sm-12 col-12">
+    <div class="car-class-thumbnail text-center">
+        <a href="{{ site.baseurl }}{{ page.teams_path }}">
+            <div class="car-class-thumbnail-overlay">
+                <img src="{{ site.url }}/assets/img/2020-2021/classes/amateur/amateur.png" alt=""
+                    class="img-responsive car-class-img"/>
+            </div>
+            <div class="car-class-caption">
+                <p>{Teams}</p>
+            </div>
+        </a>
+    </div>
+</div>
+    
