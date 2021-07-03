@@ -1,0 +1,48 @@
+---
+permalink: /staff
+title: Staff
+---
+
+<div id="staff">
+    <h2 style="margin-bottom: -0.7rem;">
+        <i class="fa fa-user-md" aria-hidden="true"></i>
+        <b>Staff</b>
+    </h2>
+    <hr class="hr-light-title"/>
+
+    {% for group in site.data.staff %}
+        <div class="row staff-group">
+            <div class="col-md-12">
+                <h2 style="color: {{ group[1].color }}">{{ group[1].name }} <small class="staff-group-count">{{ group[1].members.size }}</small></h2>
+                <hr class="hr-light-title"/>
+            </div>
+        </div>
+        <div class="row">
+            {% for member in group[1].members %}
+                <div class="col-md-3 col-sm-6 text-center">
+                    <div class="staff-entry">
+                        <img style="width: 120px; height: 120px; border-radius: 100%;" class="avatar" src="{{ site.url }}/assets/img/staff/{{ member.image }}" width="90" height="90" alt=""/>
+                        <br/>
+                        <h4 class="staff-username" style="color: {{ group[1].color }}; border-bottom-color: {{ group[1].color }};">{{ member.name }}</h4>
+                        <h5 class="staff-role">{{ member.role }}</h5>
+                        {% if member.media.email %}
+                            <a style="cursor: pointer; color: #beb8bc;" data-toggle="popover" data-content="{{ member.media.email }}" data-placement="bottom">
+                                <i class="fa fa-envelope" aria-hidden="true"></i>
+                            </a>
+                        {% endif %}
+                        {% if member.media.discord %}
+                            <a style="cursor: pointer; color: #beb8bc;" data-toggle="popover" data-content="{{ member.media.discord }}" data-placement="top">
+                                <i class="fab fa-discord" aria-hidden="true"></i>
+                            </a>
+                        {% endif %}
+                        {% if member.media.github %}
+                            <a href="https://github.com/{{ member.media.github }}" target="_blank">
+                                <i class="fab fa-github" aria-hidden="true"></i>
+                            </a>
+                        {% endif %}
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    {% endfor %}
+</div>

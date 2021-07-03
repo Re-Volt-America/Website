@@ -1,0 +1,31 @@
+#staff {
+  .staff-group-count {
+    color: #beb8bc;
+  }
+
+  .staff-entry {
+    display: block;
+    text-align: center;
+    color: #666;
+    margin-bottom: 40px;
+  }
+
+  .avatar {
+    display: inline-block;
+    background-color: #000;
+  }
+
+  .staff-entry .staff-username {
+    display: inline-block;
+    margin: 0.75em auto 0.3em;
+    padding-bottom: 0.3em;
+    border-bottom: 0.125em solid #666;
+    font-size: 150%;
+    overflow: hidden;
+  }
+
+  .staff-entry .staff-role {
+    font-size: 85%;
+    color: #beb8bc;
+  }
+}

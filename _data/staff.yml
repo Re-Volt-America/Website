@@ -1,0 +1,85 @@
+administrator:
+  name: "Administrators"
+  color: "#f89406"
+  priority: 0
+  members:
+    - name: "BGM"
+      role: "Programming & Technology"
+      image: "BGM.gif"
+      media:
+        email: "jose@bgmp.cl"
+        discord: "BGM#1559"
+        github: "BGMP"
+    - name: "Gorgonzola"
+      role: "Competitive Administration"
+      image: "gorgon.png"
+      media:
+        discord: "Gorgonzola#2081"
+    - name: "TT"
+      role: "RVA Pack Management"
+      image: "tt.png"
+      media:
+        discord: "Y100XTT#9497"
+    - name: "Gforce"
+      image: "gforce.png"
+      media:
+        discord: "gforce#2990"
+    - name: "SrPringlesArg"
+      image: "santi.gif"
+    - name: "AnteloCAZO"
+      image: "antel.gif"
+    - name: "Nicbass"
+      image: "nicbass.png"
+developer:
+  name: "Developers"
+  color: "purple"
+  priority: 100
+  members:
+    - name: "BGM"
+      role: "Lead Developer"
+      image: "BGM.gif"
+      media:
+        email: "jose@bgmp.cl"
+        discord: "BGM#1559"
+        github: "BGMP"
+    - name: "ChoquePumper"
+      image: "choque.png"
+      role: "Score Logistics"
+moderator:
+  name: "Moderators"
+  color: "#F20"
+  priority: 200
+  members:
+    - name: "EstebanMz"
+      image: "esteban.gif"
+      media:
+        discord: "EstebanMz#0893"
+    - name: "Michel"
+      image: "michel.png"
+    - name: "WaluigiMB"
+      image: "walele.png"
+    - name: "Mighty"
+      image: "mighty.png"
+    - name: "ChoquePumper"
+      image: "choque.png"
+    - name: "Guigo"
+      image: "guigo.png"
+    - name: "Santitatu"
+      image: "santitatu.png"
+    - name: "Vendett"
+      image: "vendett.png"
+organizer:
+  name: "Organizers"
+  color: "#36f971"
+  priority: 300
+  members:
+    - name: "Honk"
+      image: "honk.png"
+      media:
+        discord: "lilhearthie#0513"
+    - name: "DarkHunt"
+      image: "darkhunt.png"
+    - name: "RAF"
+      image: "raf.png"
+    - name: "Vendett"
+      image: "vendett.png"
