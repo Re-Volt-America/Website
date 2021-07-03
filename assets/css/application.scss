@@ -15,6 +15,7 @@
 @import "play";
 @import "rules";
 @import "seasons";
+@import "staff";
 @import "tracks";
 
 @font-face {
@@ -73,4 +74,16 @@ a:hover {
     background-color: rgba(204, 204, 204, 0.25);
     border: none;
     margin-bottom: 45px;
+}
+
+.popover-body {
+    font-weight: bold;
+    background-color: #2E2F30;
+    color: #bdbdbd;
+    border-radius: 3px;
+}
+
+.arrow:after {
+    border-bottom-color: #2E2F30 !important;
+    border-top-color: #2E2F30 !important;
 }
