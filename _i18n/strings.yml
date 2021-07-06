@@ -6,6 +6,9 @@ nav:
     title: "RVA"
     tracks: "Tracks"
     cars: "Cars"
+  players:
+    title: "Players"
+    staff: "Staff"
   ranking:
     title: "Ranking"
     points: "Points System"
@@ -200,3 +203,12 @@ car-card:
   weight: "Weight"
   kg: "Kg"
   multiplier: "Multiplier"
+
+staff:
+  title: "Staff"
+  description: "The people who help run Re-Volt America!"
+  groups:
+    administrator: "Administrators"
+    developer: "Developers"
+    moderator: "Moderators"
+    organizer: "Organizers"

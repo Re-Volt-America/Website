@@ -1,5 +1,10 @@
+# Rank names are to be named using translatable keys.
+#
+# Refer to https://github.com/Re-Volt-America/Website/tree/master/_i18n#i18n- for more information.
+#
+
 administrator:
-  name: "Administrators"
+  name: "staff.groups.administrator"
   color: "#f89406"
   priority: 0
   members:
@@ -31,7 +36,7 @@ administrator:
     - name: "Nicbass"
       image: "nicbass.png"
 developer:
-  name: "Developers"
+  name: "staff.groups.developer"
   color: "purple"
   priority: 100
   members:
@@ -46,7 +51,7 @@ developer:
       image: "choque.png"
       role: "Score Logistics"
 moderator:
-  name: "Moderators"
+  name: "staff.groups.moderator"
   color: "#F20"
   priority: 200
   members:
@@ -69,7 +74,7 @@ moderator:
     - name: "Vendett"
       image: "vendett.png"
 organizer:
-  name: "Organizers"
+  name: "staff.groups.organizer"
   color: "#36f971"
   priority: 300
   members:
