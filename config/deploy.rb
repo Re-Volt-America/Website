@@ -13,7 +13,7 @@ set :stages, %w(production)
 set :deploy_to, '/home/deploy/rva'
 set :linked_dirs, %w(.bundle)
 set :pty, true
-set :rvm1_ruby_version, '2.6.6'
+set :rvm1_ruby_version, '2.7.3'
 
 namespace :app do
   task :update_rvm_key do
