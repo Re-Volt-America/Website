@@ -6,14 +6,14 @@ title: Staff
 <div id="staff">
     <h2 style="margin-bottom: -0.7rem;">
         <i class="fa fa-user-md" aria-hidden="true"></i>
-        <b>Staff</b>
+        <b>{% t staff.title %} <small class="staff-description">{% t staff.description %}</small></b>
     </h2>
     <hr class="hr-light-title"/>
 
     {% for group in site.data.staff %}
         <div class="row staff-group">
             <div class="col-md-12">
-                <h2 style="color: {{ group[1].color }}">{{ group[1].name }} <small class="staff-group-count">{{ group[1].members.size }}</small></h2>
+                <h2 style="color: {{ group[1].color }}">{% t group[1].name %} <small class="staff-group-count">{{ group[1].members.size }}</small></h2>
                 <hr class="hr-light-title"/>
             </div>
         </div>
