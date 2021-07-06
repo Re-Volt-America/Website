@@ -1,10 +1,14 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
+git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+
+ruby '2.7.3'
 
 gem 'jekyll', '~> 4.0.0'                                          # Jekyll, the static site generator
 gem 'jekyll-multiple-languages-plugin', '~> 1.7'                  # Jekyll i18n plugin
 gem 'jemoji', '~> 0.12.0'                                         # Jekyll emoji plugin
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?                        # Enhanced performance for Windows environments
 
 group :development do
   gem 'bcrypt_pbkdf', '>= 1.0', '< 2.0'                           # Resolve OpenSSH problems with capistrano
