@@ -206,3 +206,8 @@ car-card:
   weight: "Weight"
   kg: "Kg"
   multiplier: "Multiplier"
+
+singles:
+  title: "Singles Cups"
+  hunt: "Hunt"
+  crown: "Crown Fight"
