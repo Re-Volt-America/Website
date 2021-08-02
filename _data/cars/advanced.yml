@@ -97,6 +97,13 @@ advanced:
     acc: 2.15
     weight: 1.30
     multiplier: 0.7
+  groovster:
+    name: Groovster
+    slug: groovster
+    speed: 56
+    acc: 1.65
+    weight: 2.0
+    multiplier: 1.0
   griffin:
     name: Griffin
     slug: griffin
