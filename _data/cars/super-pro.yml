@@ -125,9 +125,9 @@ super-pro:
     acc: 4.15
     weight: 2.00
     multiplier: 0.8
-  maxxas_xl38:
-    name: Maxxas XL38
-    slug: maxxas_xl38
+  maxxas_xlr38:
+    name: Maxxas XLR38
+    slug: maxxas_xlr38
     speed: 72.1
     acc: 2.99
     weight: 2.56
