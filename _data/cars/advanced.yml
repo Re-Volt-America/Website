@@ -93,7 +93,7 @@ advanced:
   frostbite:
     name: Frostbite
     slug: frostbite
-    speed: 58
+    speed: 58.0
     acc: 2.15
     weight: 1.30
     multiplier: 0.7
@@ -107,84 +107,84 @@ advanced:
   griffin:
     name: Griffin
     slug: griffin
-    speed: 58
+    speed: 58.0
     acc: 2.35
     weight: 1.60
     multiplier: 0.6
   grimlock:
     name: Grimlock
     slug: grimlock
-    speed: 57
+    speed: 57.0
     acc: 2.21
     weight: 2.50
     multiplier: 0.8
   kyoki:
     name: Kyoki
     slug: kyoki
-    speed: 57
+    speed: 57.0
     acc: 2.73
     weight: 1.40
     multiplier: 0.6
   le_pastel:
     name: Le Pastel
     slug: le_pastel
-    speed: 57
+    speed: 57.0
     acc: 2.18
     weight: 2.00
     multiplier: 0.7
   marauder:
     name: Marauder
     slug: marauder
-    speed: 58
+    speed: 58.0
     acc: 1.96
     weight: 1.70
     multiplier: 0.7
   piran'attack:
     name: Piran'Attack
     slug: piran'attack
-    speed: 53
+    speed: 53.0
     acc: 2.89
     weight: 1.30
     multiplier: 0.7
   prizmer:
     name: Prizmer
     slug: prizmer
-    speed: 53
+    speed: 53.0
     acc: 2.89
     weight: 1.20
     multiplier: 0.7
   rc_action:
     name: RC Action
     slug: rc_action
-    speed: 55
+    speed: 55.0
     acc: 2.56
     weight: 1.20
     multiplier: 0.7
   sarge:
     name: Sarge
     slug: sarge
-    speed: 56
+    speed: 56.0
     acc: 2.51
     weight: 1.60
     multiplier: 0.7
   sturm:
     name: Sturm
     slug: sturm
-    speed: 52
+    speed: 52.0
     acc: 2.99
     weight: 2.00
     multiplier: 0.9
   the_corporal:
     name: The Corporal
     slug: the_corporal
-    speed: 57
+    speed: 57.0
     acc: 2.72
     weight: 2.30
     multiplier: 0.6
   whiplash:
     name: Whiplash
     slug: whiplash
-    speed: 56
+    speed: 56.0
     acc: 2.28
     weight: 1.40
     multiplier: 0.7
