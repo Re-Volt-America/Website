@@ -5,26 +5,7 @@ title: Downloads
 
 <div id="downloads">
     <div class="pb-2 mt-4 mb-2 border-bottom">
-        <h2><b>{% t downloads.rvgl-rva %}</b></h2>
-    </div>
-    <div class="container">
-        <div class="row">
-            {% assign download_name = "Windows 32 Bits" %}
-            {% assign download_link = site.data.distribute.rvgl-full-win32-rva %}
-            {% assign img_file = "re-volt-logo.png" %}
-            {% assign icon = "fa fa-windows" %}
-            {% include download_card.html %}
-
-            {% assign download_name = "Windows 64 Bits" %}
-            {% assign download_link = site.data.distribute.rvgl-full-win64-rva %}
-            {% assign img_file = "re-volt-logo.png" %}
-            {% assign icon = "fa fa-windows" %}
-            {% include download_card.html %}
-        </div>
-    </div>
-
-    <div class="pb-2 mt-4 mb-2 border-bottom">
-        <h2><b>{% t downloads.rva-standalone %}</b></h2>
+        <h2><b><i class="fa fa-download" aria-hidden="true"></i> {% t downloads.title %}</b></h2>
     </div>
     <div class="container">
         <div class="row">
