@@ -9,10 +9,18 @@ title: Downloads
     </div>
     <div class="container">
         <div class="row">
+            {% assign download_name = "RVGL Launcher" %}
+            {% assign download_link = site.data.distribute.rvgl-launcher %}
+            {% assign img_file = "rvgl_launcher.png" %}
+            {% assign icon = "fa fa-folder-open" %}
+            {% assign target = "_blank" %}
+            {% include download_card.html %}
+
             {% assign download_name = "RVA Pack" %}
             {% assign download_link = site.data.distribute.rva %}
             {% assign img_file = "rva-logo-dark.png" %}
             {% assign icon = "fa fa-folder-open" %}
+            {% assign target = "_self" %}
             {% include download_card.html %}
         </div>
     </div>
