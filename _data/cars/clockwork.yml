@@ -2,105 +2,112 @@ clockwork:
   clockwork_ghibli:
     name: Clockwork Ghibli
     slug: clockwork_ghibli
-    speed:  52.9
-    acc:  2.48
-    weight:  1.25
-    multiplier:  0.7
+    speed: 52.9
+    acc: 2.47
+    weight: 1.25
+    multiplier: 0.9
   clockwork_peak:
     name: Clockwork Peak
     slug: clockwork_peak
-    speed:  51.2
-    acc:  4.57
-    weight:  0.9
-    multiplier:  0.7
+    speed: 51.1
+    acc: 4.57
+    weight: 0.9
+    multiplier: 0.8
   clockwork_rally:
     name: Clockwork Rally
     slug: clockwork_rally
-    speed:  55.0
-    acc:  2.97
-    weight:  1.25
-    multiplier:  0.7
+    speed: 55.0
+    acc: 2.96
+    weight: 1.25
+    multiplier: 0.7
   clockwork_rod:
     name: Clockwork Rod
     slug: clockwork_rod
-    speed:  53.0
-    acc:  2.5
-    weight:  1.18
-    multiplier:  0.7
+    speed: 52.9
+    acc: 2.50
+    weight: 1.18
+    multiplier: 0.7
   clockwork_super:
     name: Clockwork Super
     slug: clockwork_super
-    speed:  54.4
-    acc:  3.23
-    weight:  1.1
-    multiplier:  0.7
+    speed: 54.3
+    acc: 3.23
+    weight: 1.1
+    multiplier: 1
   clockwork_turbo:
     name: Clockwork Turbo
     slug: clockwork_turbo
-    speed:  55.6
-    acc:  3.3
-    weight:  1.14
-    multiplier:  0.7
+    speed: 55.5
+    acc: 3.29
+    weight: 1.14
+    multiplier: 0.7
   clockwork_banger:
     name: Clockwork Banger
     slug: clockwork_banger
-    speed:  52.5
-    acc:  1.93
-    weight:  1.33
-    multiplier:  0.9
+    speed: 52.4
+    acc: 1.92
+    weight: 1.33
+    multiplier: 0.9
   clockwork_mud:
     name: Clockwork Mud
     slug: clockwork_mud
-    speed:  54.0
-    acc:  2.21
-    weight:  1.21
-    multiplier:  0.9
+    speed: 54.0
+    acc: 2.21
+    weight: 1.21
+    multiplier: 0.9
   clockwork_sport:
     name: Clockwork Sport
     slug: clockwork_sport
-    speed:  52.5
-    acc:  2.35
-    weight:  1.28
-    multiplier:  0.9
+    speed: 52.4
+    acc: 2.34
+    weight: 1.28
+    multiplier: 0.9
   clockwork_baja:
     name: Clockwork Baja
     slug: clockwork_baja
-    speed:  53.6
-    acc:  1.94
-    weight:  1.3
-    multiplier:  1.0
+    speed: 53.5
+    acc: 1.93
+    weight: 1.3
+    multiplier: 1
   clockwork_beast:
     name: Clockwork Beast
     slug: clockwork_beast
-    speed:  54.9
-    acc:  1.73
-    weight:  1.5
-    multiplier:  1.0
+    speed: 54.9
+    acc: 1.73
+    weight: 1.5
+    multiplier: 1
   clockwork_midget:
     name: Clockwork Midget
     slug: clockwork_midget
-    speed:  52.7
-    acc:  2.36
-    weight:  1.16
-    multiplier:  1.0
+    speed: 52.7
+    acc: 2.35
+    weight: 1.16
+    multiplier: 1
   clockwork_trial:
     name: Clockwork Trial
     slug: clockwork_trial
-    speed:  53.7
-    acc:  1.64
-    weight:  1.7
-    multiplier:  1.2
+    speed: 53.6
+    acc: 1.64
+    weight: 1.7
+    multiplier: 1.2
   clockwork_stream:
     name: Clockwork Stream
     slug: clockwork_stream
-    speed:  53.2
-    acc:  2.22
-    weight:  1.22
-    multiplier:  1.5
+    speed: 53.2
+    acc: 2.21
+    weight: 1.22
+    multiplier: 1.5
   clockwork_buggy:
     name: Clockwork Buggy
     slug: clockwork_buggy
-    speed:  52.5
-    acc:  2.27
-    weight:  1.2
-    multiplier:  2.0
+    speed: 52.5
+    acc: 2.26
+    weight: 1.2
+    multiplier: 1.5
+  clockwork_kart:
+    name: Clockwork Kart
+    slug: clockwork_kart
+    speed: 53.6
+    acc: 2.31
+    weight: 1.3
+    multiplier: 0.7
