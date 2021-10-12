@@ -173,6 +173,7 @@ error:
 
 alerts:
   1: "We're playing right now! Lobby IP:"
+  2: "New RVA Pack Update Available!"
 
 emoji:
   title: "RVA Emojis"
