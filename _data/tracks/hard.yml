@@ -1,0 +1,42 @@
+toys_in_the_hood_1:
+  name: "Toys in the Hood 1"
+  length: "L"
+toys_in_the_hood_2:
+  name: "Toys in the Hood 2"
+  length: "M"
+toytanic_1:
+  name: "Toytanic 1"
+  length: "L"
+ghost_town_2:
+  name: "Ghost Town 2"
+  length: "M"
+airport_1:
+  name: "Airport 1"
+  length: "M"
+metro-volt:
+  name: "Metro-Volt: Redux"
+  length: "M"
+helios_lunar:
+  name: "Helios/Lunar"
+  length: "M"
+petro-volt:
+  name: "Petro-Volt"
+  length: "XL"
+sakura:
+  name: "Sakura"
+  length: "M"
+toysoldierz:
+  name: "Toysoldierz"
+  length: "M"
+mysterious_toy-volt_factory_2:
+  name: "Mysterious Toy-Volt Factory 2"
+  length: "L"
+moon_dawn:
+  name: "Moon Dawn"
+  length: "XL"
+home_2:
+  name: "Home 2"
+  length: "M"
+calaboq:
+  name: "Calaboq"
+  length: "M"

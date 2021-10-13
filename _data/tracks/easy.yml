@@ -1,0 +1,39 @@
+toy_world_1:
+  name: "Toy World 1"
+  length: "S"
+supermarket_2:
+  name: "Supermarket 2"
+  length: "S"
+botanical_garden:
+  name: "Botanical Garden"
+  length: "S"
+aspenside:
+  name: "Aspenside"
+  length: "S"
+medieval_redux:
+  name: "Medieval: Redux"
+  length: "S"
+home_1:
+  name: "Home 1"
+  length: "S"
+museum_2:
+  name: "Museum 2"
+  length: "M"
+airport_2:
+  name: "Airport 2"
+  length: "M"
+junkyard_1:
+  name: "Junkyard 1"
+  length: "M"
+snowland_1:
+  name: "Snowland 1"
+  length: "M"
+sbx_alpine:
+  name: "SBX Alpine"
+  length: "M"
+santorini:
+  name: "Santorini"
+  length: "M"
+smashride_circuit:
+  name: "Smashride Circuit"
+  length: "L"

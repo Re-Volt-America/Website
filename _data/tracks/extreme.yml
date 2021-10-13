@@ -1,0 +1,54 @@
+spaceship:
+  name: "Spaceship"
+  length: "M"
+museum_1:
+  name: "Museum 1"
+  length: "M"
+venice:
+  name: "Venice"
+  length: "M"
+spa-volt_1:
+  name: "Spa-Volt 1"
+  length: "M"
+toy_world_mayhem:
+  name: "Toy World Mayhem"
+  length: "M"
+hull_breach_3000:
+  name: "Hull Breach 3000"
+  length: "M"
+grisville:
+  name: "Grisville"
+  length: "M"
+rooftop_chase_redux:
+  name: "Rooftop Chase: Redux"
+  length: "M"
+toytanic_2:
+  name: "Toytanic 2"
+  length: "L"
+quake!:
+  name: "Quake!"
+  length: "L"
+jailhouse_rock:
+  name: "Jailhouse Rock"
+  length: "L"
+spa-volt_2:
+  name: "Spa-Volt 2"
+  length: "M"
+the_great_silence:
+  name: "The Great Silence"
+  length: "M"
+route_77:
+  name: "Route 77"
+  length: "M"
+castle_1:
+  name: "Castle 1"
+  length: "L"
+castle_2:
+  name: "Castle 2"
+  length: "L"
+skating_toys_redux:
+  name: "Skating Toys: Redux"
+  length: "XL"
+schools_out_2:
+  name: "School's Out 2"
+  length: "XL"

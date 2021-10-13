@@ -133,6 +133,8 @@ rva:
         extralong: "Extra Long"
     rotation:
       title: "Re-Volt America Rotation"
+    collection:
+      title: "Re-Volt America Track Collection"
   cars:
     title: "Cars"
     ratings-link: "Car Ratings"

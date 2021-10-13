@@ -39,16 +39,78 @@ title: Tracks
         </div>
     </div>
     <div class="mt-4">
-        <h2>:game_die: {% t rva.tracks.rotation.title %}</h2>
+        <h2>:game_die: {% t rva.tracks.collection.title %}</h2>
         <hr class="hr-light-title"/>
     </div>
-    <div id="tracks" class="row">
-        {% for i in (1..5) %}
-        <div class="col-12">
-            <div class="thumbnail">
-                <img class="img-fluid" src="{{ site.url }}/assets/img/tracks/{{ i }}.png" alt="" />
+
+    <nav class="season-details-tabs">
+        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+            <a class="nav-item nav-link active" id="easy-tab" data-toggle="tab" href="#easy" role="tab"
+               aria-controls="singles" aria-selected="true">
+                {% t rva.tracks.format.difficulty.easy %}
+            </a>
+            <a class="nav-item nav-link" id="medium-tab" data-toggle="tab" href="#medium" role="tab"
+               aria-controls="medium" aria-selected="false">
+                {% t rva.tracks.format.difficulty.medium %}
+            </a>
+            <a class="nav-item nav-link" id="hard-tab" data-toggle="tab" href="#hard" role="tab"
+               aria-controls="hard" aria-selected="false">
+                {% t rva.tracks.format.difficulty.hard %}
+            </a>
+            <a class="nav-item nav-link" id="extreme-tab" data-toggle="tab" href="#extreme" role="tab"
+               aria-controls="extreme" aria-selected="false">
+                {% t rva.tracks.format.difficulty.extreme %}
+            </a>
+        </div>
+    </nav>
+    <div class="tab-content" id="nav-tabContent">
+        <div class="tab-pane fade show active" id="easy" role="tabpanel" aria-labelledby="easy-tab">
+            <br/>
+            <div class="row">
+                {% for track in site.data.tracks.easy %}
+                    {% assign name = track[1].name %}
+                    {% assign slug = track[0] %}
+                    {% assign length = track[1].length %}
+
+                    {% include track_card.html %}
+                {% endfor %}
             </div>
         </div>
-        {% endfor %}
+        <div class="tab-pane fade" id="medium" role="tabpanel" aria-labelledby="medium-tab">
+            <br/>
+            <div class="row">
+                {% for track in site.data.tracks.medium %}
+                    {% assign name = track[1].name %}
+                    {% assign slug = track[0] %}
+                    {% assign length = track[1].length %}
+
+                    {% include track_card.html %}
+                {% endfor %}
+            </div>
+        </div>
+        <div class="tab-pane fade" id="hard" role="tabpanel" aria-labelledby="hard-tab">
+            <br/>
+            <div class="row">
+                {% for track in site.data.tracks.hard %}
+                    {% assign name = track[1].name %}
+                    {% assign slug = track[0] %}
+                    {% assign length = track[1].length %}
+
+                    {% include track_card.html %}
+                {% endfor %}
+            </div>
+        </div>
+        <div class="tab-pane fade" id="extreme" role="tabpanel" aria-labelledby="extreme-tab">
+            <br/>
+            <div class="row">
+                {% for track in site.data.tracks.extreme %}
+                    {% assign name = track[1].name %}
+                    {% assign slug = track[0] %}
+                    {% assign length = track[1].length %}
+
+                    {% include track_card.html %}
+                {% endfor %}
+            </div>
+        </div>
     </div>
 </div>

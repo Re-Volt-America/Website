@@ -1,0 +1,48 @@
+ghost_town_1:
+  name: "Ghost Town 1"
+  length: "S"
+toy_world_2:
+  name: "Toy World 2"
+  length: "M"
+supermarket_1:
+  name: "Supermarket 1"
+  length: "M"
+schools_out_1:
+  name: "School's Out 1"
+  length: "M"
+stadvolt:
+  name: "StadVolt"
+  length: "M"
+rooftops:
+  name: "Rooftops"
+  length: "M"
+holiday_camp:
+  name: "Holiday Camp"
+  length: "XL"
+junkyard_2:
+  name: "Junkyard 2"
+  length: "M"
+toy_world_ex:
+  name: "Toy World EX"
+  length: "M"
+museum_3:
+  name: "Museum 3"
+  length: "M"
+fairground_1:
+  name: "Fairground 1"
+  length: "S"
+wonderful_skylands_1:
+  name: "Wonderful Skylands 1"
+  length: "M"
+mysterious_toy-volt_factory_1:
+  name: "Mysterious Toy-Volt Factory 1"
+  length: "M"
+genghis_kastle:
+  name: "Genghis Kastle"
+  length: "M"
+botanical_garden_ex:
+  name: "Botanical Garden EX"
+  length: "L"
+tetanic:
+  name: "Tetanic"
+  length: "M"
