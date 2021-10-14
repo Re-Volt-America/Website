@@ -36,4 +36,16 @@
     min-height: 1px;
     padding: 1.25rem;
   }
+
+  input {
+    color: white;
+    border: 0;
+    background-color: transparent;
+    outline: none;
+    cursor: pointer;
+    display: inline-block;
+    font-family: SFMono-Regular, Menlo, Monaco, Consolas,"Liberation Mono", "Courier New", monospace;
+    font-size: 1em;
+    width: 100%;
+  }
 }
