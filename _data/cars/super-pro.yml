@@ -82,7 +82,7 @@ super-pro:
     speed: 78.1
     acc: 1.72
     weight: 1.6
-    multiplier: 1
+    multiplier: 1.2
   nain:
     name: Nain
     slug: nain
@@ -103,7 +103,7 @@ super-pro:
     speed: 83.1
     acc: 2.38
     weight: 3.5
-    multiplier: 1
+    multiplier: 1.5
   orbitron:
     name: Orbitron
     slug: orbitron

@@ -62,9 +62,9 @@ semi-pro:
     acc: 2.72
     weight: 1.2
     multiplier: 0.8
-  big_tory:
-    name: Big Tory
-    slug: big_tory
+  big-tory:
+    name: Big-Tory
+    slug: big-tory
     speed: 61.1
     acc: 3.14
     weight: 3

@@ -5,7 +5,7 @@ advanced:
     speed: 57
     acc: 2.16
     weight: 3.5
-    multiplier: 0.8
+    multiplier: 1
   bertha_ballistics:
     name: Bertha Ballistics
     slug: bertha_ballistics
@@ -111,9 +111,9 @@ advanced:
     acc: 1.95
     weight: 2.72
     multiplier: 0.7
-  micro_tashe:
-    name: Micro Tashe
-    slug: micro_tashe
+  micro_tache:
+    name: Micro Tache
+    slug: micro_tache
     speed: 54.9
     acc: 2.26
     weight: 1.4
