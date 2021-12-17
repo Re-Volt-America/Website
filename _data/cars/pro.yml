@@ -26,7 +26,7 @@ pro:
     speed: 67.6
     acc: 2.72
     weight: 2
-    multiplier: 0.8
+    multiplier: 0.7
   cougar:
     name: Cougar
     slug: cougar
@@ -61,21 +61,21 @@ pro:
     speed: 62.2
     acc: 2.05
     weight: 1.2
-    multiplier: 3
+    multiplier: 4
   amw:
     name: AMW
     slug: amw
     speed: 67.8
     acc: 2.3
     weight: 1
-    multiplier: 2
+    multiplier: 2.5
   abomin8r:
     name: Abomin8r
     slug: abomin8r
     speed: 65.7
     acc: 3.12
     weight: 2.5
-    multiplier: 1
+    multiplier: 0.8
   cerberus:
     name: Cerberus
     slug: cerberus
@@ -138,7 +138,7 @@ pro:
     speed: 61.3
     acc: 4.71
     weight: 1.8
-    multiplier: 1.1
+    multiplier: 1.5
   skyraptor:
     name: Skyraptor
     slug: skyraptor

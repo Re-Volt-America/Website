@@ -34,9 +34,9 @@ rookie:
     acc: 2.23
     weight: 1.6
     multiplier: 0.9
-  col_moss:
-    name: Col Moss
-    slug: col_moss
+  col._moss:
+    name: Col. Moss
+    slug: col._moss
     speed: 52.5
     acc: 2.16
     weight: 1.5
@@ -82,7 +82,7 @@ rookie:
     speed: 48.3
     acc: 2.36
     weight: 1.4
-    multiplier: 0.7
+    multiplier: 0.8
   condor_grv:
     name: Condor GRV
     slug: condor_grv
@@ -138,7 +138,7 @@ rookie:
     speed: 48.6
     acc: 3.57
     weight: 0.65
-    multiplier: 1.5
+    multiplier: 2
   super_wheat:
     name: Super Wheat
     slug: super_wheat

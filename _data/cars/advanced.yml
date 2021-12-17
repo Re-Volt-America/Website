@@ -89,14 +89,14 @@ advanced:
     speed: 57.6
     acc: 2.75
     weight: 1.6
-    multiplier: 1.4
+    multiplier: 1.1
   hammerhead:
     name: Hammerhead
     slug: hammerhead
     speed: 57.9
     acc: 2.01
     weight: 1.85
-    multiplier: 0.8
+    multiplier: 0.7
   junker:
     name: Junker
     slug: junker
