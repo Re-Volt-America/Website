@@ -138,7 +138,7 @@ semi-pro:
     speed: 56
     acc: 2.79
     weight: 1
-    multiplier: 1.1
+    multiplier: 1.2
   winch:
     name: Winch
     slug: winch
@@ -152,4 +152,4 @@ semi-pro:
     speed: 59
     acc: 2.76
     weight: 1.4
-    multiplier: 0.8
+    multiplier: 1

@@ -47,14 +47,14 @@ amateur:
     speed: 54.7
     acc: 2.19
     weight: 1.25
-    multiplier: 0.9
+    multiplier: 0.8
   la_54:
     name: LA 54
     slug: la_54
     speed: 51.7
     acc: 2.52
     weight: 1.2
-    multiplier: 0.9
+    multiplier: 0.8
   rc_san:
     name: Rc San
     slug: rc_san
@@ -89,7 +89,7 @@ amateur:
     speed: 52
     acc: 3.15
     weight: 1.3
-    multiplier: 1.2
+    multiplier: 1
   locker:
     name: Locker
     slug: locker

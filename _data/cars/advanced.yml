@@ -82,7 +82,7 @@ advanced:
     speed: 60
     acc: 2.46
     weight: 1.5
-    multiplier: 0.9
+    multiplier: 1
   flower_power:
     name: Flower Power
     slug: flower_power
@@ -103,7 +103,7 @@ advanced:
     speed: 58.5
     acc: 2.18
     weight: 2.3
-    multiplier: 0.9
+    multiplier: 1
   melon_crusher:
     name: Melon Crusher
     slug: melon_crusher
@@ -138,7 +138,7 @@ advanced:
     speed: 55.6
     acc: 2.26
     weight: 2
-    multiplier: 0.8
+    multiplier: 0.9
   vibe_box:
     name: Vibe Box
     slug: vibe_box

@@ -110,7 +110,7 @@ rookie:
     speed: 51.6
     acc: 3.3
     weight: 2.7
-    multiplier: 1.1
+    multiplier: 1.1.2
   myrmech:
     name: Myrmech
     slug: myrmech
@@ -145,7 +145,7 @@ rookie:
     speed: 52
     acc: 1.86
     weight: 2.4
-    multiplier: 0.9
+    multiplier: 1
   vikbird:
     name: Vikbird
     slug: vikbird

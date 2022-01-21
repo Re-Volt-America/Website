@@ -96,14 +96,14 @@ pro:
     speed: 65.4
     acc: 3.68
     weight: 3
-    multiplier: 1
+    multiplier: 1.2
   giro-5:
     name: Giro-5
     slug: giro-5
     speed: 64.6
     acc: 3.78
     weight: 1.7
-    multiplier: 0.9
+    multiplier: 1
   hydro_flame:
     name: Hydro Flame
     slug: hydro_flame

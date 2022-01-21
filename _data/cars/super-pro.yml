@@ -12,7 +12,7 @@ super-pro:
     speed: 68.2
     acc: 3.33
     weight: 2.1
-    multiplier: 0.7
+    multiplier: 0.8
   saeger:
     name: Saeger
     slug: saeger
@@ -68,14 +68,14 @@ super-pro:
     speed: 74.8
     acc: 3.82
     weight: 1.9
-    multiplier: 1.1
+    multiplier: 1.5
   megalodon_xl:
     name: Megalodon XL
     slug: megalodon_xl
     speed: 77.1
     acc: 3.74
     weight: 2.2
-    multiplier: 0.8
+    multiplier: 0.9
   moderata:
     name: Moderata
     slug: moderata
@@ -145,7 +145,7 @@ super-pro:
     speed: 72.7
     acc: 3.87
     weight: 1.3
-    multiplier: 0.8
+    multiplier: 0.9
   wind_slicer:
     name: Wind Slicer
     slug: wind_slicer
