@@ -16,12 +16,20 @@ title: Downloads
             {% assign target = "_blank" %}
             {% include download_card.html %}
 
-            {% assign download_name = "RVA Pack" %}
-            {% assign download_link = site.data.distribute.rva %}
+            {% assign download_name = "RVA Car Pack" %}
+            {% assign download_link = site.data.distribute.rva_cars %}
             {% assign img_file = "rva-logo-dark.png" %}
             {% assign icon = "fa fa-folder-open" %}
             {% assign target = "_self" %}
             {% include download_card.html %}
+
+            {% assign download_name = "RVA Track Pack" %}
+            {% assign download_link = site.data.distribute.rva_tracks %}
+            {% assign img_file = "rva-logo-dark.png" %}
+            {% assign icon = "fa fa-folder-open" %}
+            {% assign target = "_self" %}
+            {% include download_card.html %}
+
 
             {% assign download_name = "Points Parser" %}
             {% assign download_link = site.data.distribute.rva-points %}
