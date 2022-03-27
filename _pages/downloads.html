@@ -12,29 +12,36 @@ title: Downloads
             {% assign download_name = "RVGL Launcher" %}
             {% assign download_link = site.data.distribute.rvgl-launcher %}
             {% assign img_file = "rvgl_launcher.png" %}
-            {% assign icon = "fa fa-folder-open" %}
+            {% assign icon = "fa-folder-open" %}
             {% assign target = "_blank" %}
             {% include download_card.html %}
 
             {% assign download_name = "RVA Car Pack" %}
             {% assign download_link = site.data.distribute.rva_cars %}
             {% assign img_file = "rva-logo-dark.png" %}
-            {% assign icon = "fa fa-folder-open" %}
+            {% assign icon = "fa-folder-open" %}
             {% assign target = "_self" %}
             {% include download_card.html %}
 
             {% assign download_name = "RVA Track Pack" %}
             {% assign download_link = site.data.distribute.rva_tracks %}
             {% assign img_file = "rva-logo-dark.png" %}
-            {% assign icon = "fa fa-folder-open" %}
+            {% assign icon = "fa-folder-open" %}
             {% assign target = "_self" %}
             {% include download_card.html %}
 
 
             {% assign download_name = "Points Parser" %}
-            {% assign download_link = site.data.distribute.rva-points %}
+            {% assign download_link = site.data.distribute.rva-points_win64 %}
             {% assign img_file = "rva-logo-dark.png" %}
-            {% assign icon = "fa fa-calculator" %}
+            {% assign icon = "fa-windows" %}
+            {% assign target = "_self" %}
+            {% include download_card.html %}
+
+            {% assign download_name = "Points Parser" %}
+            {% assign download_link = site.data.distribute.rva-points_linux %}
+            {% assign img_file = "rva-logo-dark.png" %}
+            {% assign icon = "fa-linux" %}
             {% assign target = "_self" %}
             {% include download_card.html %}
         </div>
