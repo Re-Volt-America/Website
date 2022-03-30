@@ -89,7 +89,7 @@ rookie:
     speed: 49.6
     acc: 2.73
     weight: 1.5
-    multiplier: 1
+    multiplier: 0.9
   eggy_thump:
     name: Eggy Thump
     slug: eggy_thump
@@ -103,7 +103,7 @@ rookie:
     speed: 51
     acc: 2.26
     weight: 1.85
-    multiplier: 0.9
+    multiplier: 0.8
   get_air:
     name: Get Air
     slug: get_air
