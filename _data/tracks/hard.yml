@@ -22,9 +22,6 @@ petro-volt:
 sakura:
   name: "Sakura"
   length: "M"
-toysoldierz:
-  name: "Toysoldierz"
-  length: "M"
 mysterious_toy-volt_factory_2:
   name: "Mysterious Toy-Volt Factory 2"
   length: "L"
@@ -34,6 +31,27 @@ moon_dawn:
 home_2:
   name: "Home 2"
   length: "M"
-calaboq:
-  name: "Calaboq"
+hospital_1:
+  name: "Hospital 1"
   length: "M"
+hospital_2:
+  name: "Hospital 2"
+  length: "S"
+game_room_2:
+  name: "Game Room 2"
+  length: "M"
+toy_world_3:
+  name: "Toy World 3"
+  length: "M"
+rv_temple:
+  name: "RV Temple"
+  length: "XL"
+museum_unleashed:
+  name: "Museum Unleashed"
+  length: "XL"
+toy_world_mayhem:
+  name: "Toy World Mayhem"
+  length: "M"
+castle_2:
+  name: "Castle 2"
+  length: "L"
