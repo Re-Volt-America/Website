@@ -7,10 +7,14 @@ nav:
     title: "RVA"
     tracks: "Pistas"
     cars: "Carros"
+  players:
+    title: "Players"
+    staff: "Staff"
   ranking:
     title: "Clasificación"
     points: "Sistema de Puntos"
     season20202021: "2020-2021"
+    season20212021: "2021-2022"
 footer:
   policies:
     title: "Políticas"
@@ -31,8 +35,8 @@ footer:
     discord: "Discord"
     github: "GitHub"
 play:
-  subheader: "Las Salas son publicadas en"
-  and: "y"
+  subheader: "We play daily at 23:00 UTC"
+  subheader2: "Lobbies are posted at <code class='nissan-code'>#lobby-rva</code>"
 downloads:
   title: "Descargas"
   rvgl-rva: "RVGL + RVA Pack"
@@ -125,6 +129,8 @@ rva:
         extralong: "Extra Larga"
     rotation:
       title: "Rotación de Re-Volt America"
+    collection:
+      title: "Re-Volt America Track Collection"
   cars:
     title: "Carros"
     ratings-link: "Puntuacion de Carros"
@@ -162,6 +168,7 @@ error:
     caption: "Página no encontrada :("
 alerts:
   1: "¡Estamos jugando ya! IP de la Sala:"
+  2: "New RVA Pack Update Available!"
 emoji:
   title: "RVA Emojis"
 seasons:
@@ -179,3 +186,20 @@ classes:
 misc:
   download: "Descargar"
   search: "Search"
+  and: "&"
+car-card:
+  speed: "Speed"
+  kmh: "km/h"
+  acc: "Acc"
+  ms2: "ms²"
+  weight: "Weight"
+  kg: "Kg"
+  multiplier: "Multiplier"
+staff:
+  title: "Staff"
+  description: "The people who help run Re-Volt America!"
+  groups:
+    administrator: "Administrators"
+    developer: "Developers"
+    moderator: "Moderators"
+    organizer: "Organizers"

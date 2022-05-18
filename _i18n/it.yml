@@ -7,10 +7,14 @@ nav:
     title: "RVA"
     tracks: "Circuiti"
     cars: "Auto"
+  players:
+    title: "Giocatori"
+    staff: "Staff"
   ranking:
     title: "Classifica"
     points: "Sistema Assegnazioni Punti"
     season20202021: "2020-2021"
+    season20212021: "2021-2022"
 footer:
   policies:
     title: "Norme e sicurezza"
@@ -31,12 +35,12 @@ footer:
     discord: "Discord"
     github: "GitHub"
 play:
-  subheader: "Le stanze per le partite sono pubblicate su"
-  and: "&"
+  subheader: "We play daily at 23:00 UTC"
+  subheader2: "Lobbies are posted at <code class='nissan-code'>#lobby-rva</code>"
 downloads:
   title: "Scarica"
-  rvgl-rva: "RVGL + RVA Pack"
-  rva-standalone: "RVA Pack"
+  rvgl-rva: "Pacchetto RVGL + RVA"
+  rva-standalone: "Pacchetto RVA"
   current-version: "Versione attuale:"
   re-volt:
     description: "Questo è il gioco a cui giochiamo, Re-Volt! Scaricalo dal sito del progetto RVGL per poter giocare online insieme a noi."
@@ -125,6 +129,8 @@ rva:
         extralong: "Molto Lungo"
     rotation:
       title: "Rotazione Corrente di Re-Volt America"
+    collection:
+      title: "Collezione Circuiti di Re-Volt America"
   cars:
     title: "Auto"
     ratings-link: "Valutazioni Auto"
@@ -162,6 +168,7 @@ error:
     caption: "Pagina non trovata :("
 alerts:
   1: "Siamo giocando adesso! IP Sessione:"
+  2: "Nuovo Aggiornamento del Pacchetto RVA disponibile!"
 emoji:
   title: "Emojis di RVA"
 seasons:
@@ -178,4 +185,21 @@ classes:
   random: "Casuale"
 misc:
   download: "Scarica"
-  search: "Search"
+  search: "Cerca"
+  and: "e"
+car-card:
+  speed: "Velocità"
+  kmh: "km/h"
+  acc: "Accelerazione"
+  ms2: "ms2"
+  weight: "Peso"
+  kg: "Kg"
+  multiplier: "Moltiplicatore"
+staff:
+  title: "Staff"
+  description: "Le persone che contribuiscono alla gestione di Re-Volt America!"
+  groups:
+    administrator: "Amministratori"
+    developer: "Sviluppatori"
+    moderator: "Moderatori"
+    organizer: "Organizzatori"

@@ -7,10 +7,14 @@ nav:
     title: "RVA"
     tracks: "트랙"
     cars: "차량"
+  players:
+    title: "플레이어"
+    staff: "직원"
   ranking:
     title: "랭킹"
     points: "포인트 시스템"
     season20202021: "2020-2021"
+    season20212021: "2021-2022"
 footer:
   policies:
     title: "정책"
@@ -31,12 +35,12 @@ footer:
     discord: "Discord"
     github: "GitHub"
 play:
-  subheader: "로비에 다음이 계시되었습니다:"
-  and: "&"
+  subheader: "We play daily at 23:00 UTC"
+  subheader2: "Lobbies are posted at <code class='nissan-code'>#lobby-rva</code>"
 downloads:
   title: "다운로드"
-  rvgl-rva: "RVGL + RVA Pack"
-  rva-standalone: "RVA Pack"
+  rvgl-rva: "RVGL + RVA 팩"
+  rva-standalone: "RVA 팩"
   current-version: "현재 버전:"
   re-volt:
     description: "Re-Volt! 우리가 하는 게임, RVGL 프로젝트에서 가져와 온라인으로 함께할 수 있습니다."
@@ -125,6 +129,8 @@ rva:
         extralong: "특대"
     rotation:
       title: "Re-Volt America 로테이션"
+    collection:
+      title: "Re-Volt America Track Collection"
   cars:
     title: "차량"
     ratings-link: "차량 등급"
@@ -162,20 +168,38 @@ error:
     caption: "페이지를 찾을 수 없습니다 ㅠㅠ"
 alerts:
   1: "우리는 현재 플레이 중입니다! 로비 IP:"
+  2: "New RVA Pack Update Available!"
 emoji:
-  title: "RVA Emojis"
+  title: "RVA 이모지"
 seasons:
-  season: "Season"
-  unavailable: "Results unavailable"
+  season: "시즌"
+  unavailable: "사용 불가능한 결과"
 classes:
-  rookie: "Rookie"
-  amateur: "Amateur"
-  advanced: "Advanced"
-  semi-pro: "Semi-Pro"
-  pro: "Pro"
-  super-pro: "Super-Pro"
-  clockwork: "Clockwork"
-  random: "Random"
+  rookie: "루키"
+  amateur: "아마추어"
+  advanced: "상급자"
+  semi-pro: "준프로"
+  pro: "프로"
+  super-pro: "슈퍼프로"
+  clockwork: "태엽"
+  random: "무작위"
 misc:
   download: "다운로드"
-  search: "Search"
+  search: "찾기"
+  and: "&"
+car-card:
+  speed: "속도"
+  kmh: "km/h"
+  acc: "Acc"
+  ms2: "ms²"
+  weight: "중량"
+  kg: "Kg"
+  multiplier: "배율"
+staff:
+  title: "직원"
+  description: "Re-volt America를 운영하는 사람들!"
+  groups:
+    administrator: "관리자"
+    developer: "개발자"
+    moderator: "운영자"
+    organizer: "주최자"

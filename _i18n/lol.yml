@@ -7,10 +7,14 @@ nav:
     title: "rVa"
     tracks: "trkx"
     cars: "Cars 2"
+  players:
+    title: "Playazz"
+    staff: "Stuuuff"
   ranking:
     title: "KATISTICS"
     points: "pointz stuffz"
     season20202021: "DIS YEAR"
+    season20212021: "2021-2022"
 footer:
   policies:
     title: "Politicals"
@@ -31,8 +35,8 @@ footer:
     discord: "Discoword"
     github: "Da codin site"
 play:
-  subheader: "Join kitten at:"
-  and: "AND"
+  subheader: "we plya dly @ 23:00 uTc"
+  subheader2: "lubbis r postd at <code class='nissan-code'>#lobby-rva</code>"
 downloads:
   title: "dowoloads"
   rvgl-rva: "rVgL + rVa stufzz"
@@ -125,6 +129,8 @@ rva:
         extralong: "EXTRA LARGE :OOO"
     rotation:
       title: "Ri-Vult Amerika rotati"
+    collection:
+      title: "Rivult Murica Trickzz Culliktiumm"
   cars:
     title: "Cars 3"
     ratings-link: "Carz gud or bad"
@@ -162,6 +168,7 @@ error:
     caption: "Cant load :((("
 alerts:
   1: "KATZ R PLAYIN RNNNN!!!: IP: "
+  2: "Mew rVa Kat Ratdate Avuilabluuu!"
 emoji:
   title: "rva eMoJiS"
 seasons:
@@ -179,3 +186,20 @@ classes:
 misc:
   download: "dowuload"
   search: "Scratch"
+  and: "N"
+car-card:
+  speed: "sped"
+  kmh: "litres"
+  acc: "Accz"
+  ms2: "kg"
+  weight: "how haevy"
+  kg: "ms²"
+  multiplier: "math thing"
+staff:
+  title: "Stuuuff"
+  description: "The Kittehs cat hilp run Rivult Murica!"
+  groups:
+    administrator: "Kitteminitrutorz"
+    developer: "Divilupurrrz"
+    moderator: "Modekatorzzz"
+    organizer: "Urganizurrzzz"
