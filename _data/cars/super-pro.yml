@@ -9,8 +9,8 @@ super-pro:
   endo:
     name: Endo
     slug: endo
-    speed: 75.3
-    acc: 4.50
+    speed: 71.1
+    acc: 4.74
     weight: 2.7
     multiplier: 0.7
   xm250:

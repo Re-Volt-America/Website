@@ -23,8 +23,8 @@ pro:
   outlaw:
     name: Outlaw
     slug: outlaw
-    speed: 67.6
-    acc: 2.73
+    speed: 65.9
+    acc: 2.63
     weight: 2.0
     multiplier: 0.7
   snw_35:
