@@ -229,14 +229,14 @@ rookie:
     speed: 49.8
     acc: 1.45
     weight: 1.6
-    multiplier: 1.4
+    multiplier: 1.5
   phat_slug:
     name: Phat Slug
     slug: phat_slug
     speed: 50.4
     acc: 1.41
     weight: 2.5
-    multiplier: 1.6
+    multiplier: 1.7
   strini:
     name: Strini
     slug: strini

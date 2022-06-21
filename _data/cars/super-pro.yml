@@ -209,6 +209,13 @@ super-pro:
     acc: 5.66
     weight: 2.0
     multiplier: 1.0
+  identity_x:
+    name: Identity X
+    slug: identity_x
+    speed: 78.2
+    acc: 3.38
+    weight: 2.5
+    multiplier: 1.0
   type_xiii:
     name: Type XIII
     slug: type_xiii
@@ -223,13 +230,6 @@ super-pro:
     acc: 3.82
     weight: 1.2
     multiplier: 1.1
-  identity_x:
-    name: Identity X
-    slug: identity_x
-    speed: 78.2
-    acc: 3.38
-    weight: 2.5
-    multiplier: 1.1
   napalm:
     name: Napalm
     slug: napalm
@@ -243,4 +243,4 @@ super-pro:
     speed: 74.8
     acc: 3.82
     weight: 1.9
-    multiplier: 1.5
+    multiplier: 1.8

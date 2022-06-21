@@ -20,6 +20,13 @@ advanced:
     acc: 3.03
     weight: 1.7
     multiplier: 0.7
+  top_tier:
+    name: Top Tier
+    slug: top_tier
+    speed: 55.0
+    acc: 2.28
+    weight: 1.4
+    multiplier: 0.7
   urban_jungle:
     name: Urban Jungle
     slug: urban_jungle
@@ -62,26 +69,26 @@ advanced:
     acc: 2.36
     weight: 1.6
     multiplier: 0.8
-  top_tier:
-    name: Top Tier
-    slug: top_tier
-    speed: 55.0
-    acc: 2.28
-    weight: 1.4
-    multiplier: 0.7
-  sunnyboy:
-    name: Sunnyboy
-    slug: sunnyboy
-    speed: 57.1
-    acc: 2.72
-    weight: 2.2
-    multiplier: 0.9
   bertha_ballistics:
     name: Bertha Ballistics
     slug: bertha_ballistics
     speed: 56.6
     acc: 2.24
     weight: 3.0
+    multiplier: 0.8
+  arctic_stomper:
+    name: Arctic Stomper
+    slug: arctic_stomper
+    speed: 57.0
+    acc: 2.38
+    weight: 2.3
+    multiplier: 0.8
+  sunnyboy:
+    name: Sunnyboy
+    slug: sunnyboy
+    speed: 57.1
+    acc: 2.72
+    weight: 2.2
     multiplier: 0.9
   vibe_box:
     name: Vibe Box
@@ -146,33 +153,12 @@ advanced:
     acc: 2.90
     weight: 2.0
     multiplier: 0.9
-  arctic_stomper:
-    name: Arctic Stomper
-    slug: arctic_stomper
-    speed: 57.0
-    acc: 2.38
-    weight: 2.3
-    multiplier: 1.0
-  shocker:
-    name: Shocker
-    slug: shocker
-    speed: 57.0
-    acc: 2.13
-    weight: 1.8
-    multiplier: 1.0
   panga_tc:
     name: Panga TC
     slug: panga_tc
     speed: 59.6
     acc: 2.13
     weight: 1.8
-    multiplier: 1.0
-  emperor:
-    name: Emperor
-    slug: emperor
-    speed: 57.4
-    acc: 2.34
-    weight: 2.0
     multiplier: 1.0
   springtrap:
     name: Springtrap
@@ -188,6 +174,27 @@ advanced:
     acc: 2.57
     weight: 1.5
     multiplier: 1.0
+  flower_power:
+    name: Flower Power
+    slug: flower_power
+    speed: 57.6
+    acc: 2.76
+    weight: 1.6
+    multiplier: 1.0
+  shocker:
+    name: Shocker
+    slug: shocker
+    speed: 57.0
+    acc: 2.13
+    weight: 1.8
+    multiplier: 1.1
+  emperor:
+    name: Emperor
+    slug: emperor
+    speed: 57.4
+    acc: 2.34
+    weight: 2.0
+    multiplier: 1.1
   duck_sky:
     name: Duck Sky
     slug: duck_sky
@@ -195,13 +202,6 @@ advanced:
     acc: 4.27
     weight: 1.2
     multiplier: 1.1
-  evil_weasel:
-    name: Evil Weasel
-    slug: evil_weasel
-    speed: 58.1
-    acc: 1.96
-    weight: 1.4
-    multiplier: 1.3
   panther:
     name: Panther
     slug: panther
@@ -215,7 +215,7 @@ advanced:
     speed: 55.3
     acc: 1.66
     weight: 2.0
-    multiplier: 1.1
+    multiplier: 1.2
   bossvolt:
     name: BossVolt
     slug: bossvolt
@@ -223,13 +223,13 @@ advanced:
     acc: 2.16
     weight: 3.5
     multiplier: 1.2
-  flower_power:
-    name: Flower Power
-    slug: flower_power
-    speed: 57.6
-    acc: 2.76
-    weight: 1.6
-    multiplier: 1.2
+  evil_weasel:
+    name: Evil Weasel
+    slug: evil_weasel
+    speed: 58.1
+    acc: 1.96
+    weight: 1.4
+    multiplier: 1.3
   ny_54:
     name: NY 54
     slug: ny_54
