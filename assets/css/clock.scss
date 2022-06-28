@@ -4,6 +4,17 @@
   position: relative;
   display: flex;
   justify-content: center;
-  font-size: 60px;
   color: #ffffff;
+}
+
+@media screen and (min-width: 720px) {
+  #clock #time {
+    font-size: 60px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  #clock #time {
+    font-size: 40px;
+  }
 }
