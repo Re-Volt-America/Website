@@ -24,7 +24,7 @@ for the Re-Volt America community. With this in mind, the head administration ha
 any tips perceived by the organisation.
 
 If you would like to become a sponsor, you may become one
-<a href="https://github.com/Re-Volt-America/Website/blob/master/.github/FUNDING.yml" target="_blank" title="BGMP">Here!</a>.
+<a href="https://github.com/sponsors/BGMP" target="_blank" title="BGMP">Here!</a>.
 Your name will be added to our sponsors list below, so let us know the name you would like us to display you with, 
 and any link to any social media you want us to associate it to! Thanks!
 
