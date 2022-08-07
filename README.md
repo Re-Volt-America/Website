@@ -54,13 +54,5 @@ and any link to any social media you want us to associate it to! Thanks!
           <img width="222px" src="https://avatars.githubusercontent.com/u/110705928?v=4" alt="">
         </a>
       </td>
-      <td align="center" valign="middle">
-        <h3>You?</h3>
-        <hr/>
-        <a href="#" target="_blank">
-          <img width="222px" src="https://raw.githubusercontent.com/Re-Volt-America/Website/master/assets/img/image-missing.png" height="222"  alt=""/>
-        </a>
-      </td>
-    </tr>
   </tbody>
 </table>
