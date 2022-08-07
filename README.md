@@ -48,6 +48,13 @@ and any link to any social media you want us to associate it to! Thanks!
         </a>
       </td>
       <td align="center" valign="middle">
+        <h3>Tiorotti</h3>
+        <hr/>
+        <a href="https://twitter.com/LeandroManuelR9" target="_blank">
+          <img width="222px" src="https://avatars.githubusercontent.com/u/110705928?v=4" alt="">
+        </a>
+      </td>
+      <td align="center" valign="middle">
         <h3>You?</h3>
         <hr/>
         <a href="#" target="_blank">
