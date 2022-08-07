@@ -23,10 +23,10 @@ The lead maintainer of this project is <a href="https://github.com/BGMP" target=
 for the Re-Volt America community. With this in mind, the head administration has deemed him responsible of handling
 any tips perceived by the organisation.
 
-If you would like to become a sponsor, you may donate through
-<a href="https://github.com/Re-Volt-America/Website/blob/master/.github/FUNDING.yml" target="_blank" title="BGMP">PayPal</a>.
-Your name will be added to our sponsors list below, so include the name you would like us to display you with, and any link
-to any social media you want us to relate it to! Thanks!
+If you would like to become a sponsor, you may become one
+<a href="https://github.com/Re-Volt-America/Website/blob/master/.github/FUNDING.yml" target="_blank" title="BGMP">Here!</a>.
+Your name will be added to our sponsors list below, so let us know the name you would like us to display you with, 
+and any link to any social media you want us to associate it to! Thanks!
 
 <h2 align="center">Sponsors :heart:</h2>
 
