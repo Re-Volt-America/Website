@@ -34,6 +34,13 @@ and any link to any social media you want us to associate it to! Thanks!
   <tbody>
     <tr>
       <td align="center" valign="middle">
+        <h3>Burdang</h3>
+        <hr/>
+        <a href="https://twitter.com/Burdang2" target="_blank">
+          <img width="222px" src="https://avatars.githubusercontent.com/u/110731113?v=4" alt="">
+        </a>
+      </td>
+      <td align="center" valign="middle">
         <h3>Gforce</h3>
         <hr/>
         <a href="https://www.youtube.com/channel/UC1uSBH0FfiDthwra2Fu_J3A" target="_blank">
@@ -54,5 +61,6 @@ and any link to any social media you want us to associate it to! Thanks!
           <img width="222px" src="https://avatars.githubusercontent.com/u/110705928?v=4" alt="">
         </a>
       </td>
+    </tr>
   </tbody>
 </table>
