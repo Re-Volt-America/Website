@@ -1,3 +1,4 @@
+packages: "https://distribute.revolt-america.com/packages.json"
 rva_cars: "https://distribute.revolt-america.com/rva/rva_cars.zip"
 rva_tracks: "https://distribute.revolt-america.com/rva/rva_tracks.zip"
 rva-points_win64: "https://distribute.revolt-america.com/rva_points/win64/rva_points_win64.zip"

@@ -67,3 +67,27 @@ title: Points System
         </div>
     </div>
 </div>
+
+<div class="pb-2 mt-4 mb-2 border-bottom">
+    <h2><b><i class="fa fa-download" aria-hidden="true"></i> {% t points.parser %}</b></h2>
+</div>
+
+<div class="downloads">
+    <div class="container">
+        <div class="row">
+            {% assign download_name = "Points Parser" %}
+            {% assign download_link = site.data.distribute.rva-points_win64 %}
+            {% assign img_file = "rva-logo-dark.png" %}
+            {% assign icon = "fa-windows" %}
+            {% assign target = "_self" %}
+            {% include download_card.html %}
+
+            {% assign download_name = "Points Parser" %}
+            {% assign download_link = site.data.distribute.rva-points_linux %}
+            {% assign img_file = "rva-logo-dark.png" %}
+            {% assign icon = "fa-linux" %}
+            {% assign target = "_self" %}
+            {% include download_card.html %}
+        </div>
+    </div>
+</div>

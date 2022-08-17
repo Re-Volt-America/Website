@@ -44,11 +44,14 @@ downloads:
   title: "Downloads"
   rvgl-rva: "RVGL + RVA Pack"
   rva-standalone: "RVA Pack"
+  rva-launcher-repository: "RVGL Launcher Repository"
   current-version: "Current version:"
   re-volt:
     description: "This is the game we play, Re-Volt! Get it from the RVGL project in order to play online with us."
   rva:
     description: "The content pack we use at Re-Volt America. This includes the cars, tracks & gfx."
+  repo:
+    intro: "If you are using the <a href='{{ site.data.distribute.rvgl-launcher }}' target='_blank'><b>RVGL Launcher</b></a> and you don't see the <i>rva_</i> prefixed packs at the Packs tab, then you don't have our repository added! Go to your Repositories tab and add our packages repo:"
 
 rules:
   title: "Rules"
@@ -115,6 +118,7 @@ points:
     3: "Average Position"
     4: "Official Score"
     5: "0.1, constant factor for reducing final scores"
+  parser: "RVA Points Parser"
 
 rva:
   tracks:
