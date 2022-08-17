@@ -4,7 +4,7 @@ email: jose@bgmp.cl
 url: "https://revolt-america.com"
 description: >-
   The Website for the Re-Volt America Community.
-encoding: utf-8
+encoding: UTF-8
 markdown: kramdown
 
 languages: ["strings", "en_gb", "es_es", "es_ar", "es_bo", "es_cl", "it", "lol", "pt_br", "ko"]
