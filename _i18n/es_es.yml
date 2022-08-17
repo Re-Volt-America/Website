@@ -15,6 +15,7 @@ nav:
     points: "Sistema de puntuación"
     season20202021: "2020-2021"
     season20212021: "2021-2022"
+  discussions: "Discusiones"
 footer:
   policies:
     title: "Políticas"
@@ -35,8 +36,8 @@ footer:
     discord: "Discord"
     github: "GitHub"
 play:
-  subheader: "We play daily at 23:00 UTC"
-  subheader2: "Lobbies are posted at <code class='nissan-code'>#lobby-rva</code>"
+  subheader: "Jugamos diariamente a las 23:00 UTC"
+  subheader2: "Los lobbies se publican en <code class='nissan-code'>#lobby-rva</code>"
 downloads:
   title: "Descargas"
   rvgl-rva: "RVGL + El paquete de contenido de RVA"
@@ -186,7 +187,7 @@ classes:
 misc:
   download: "Descargar"
   search: "Buscar"
-  and: "&"
+  and: "y"
 car-card:
   speed: "Velocidad"
   kmh: "km/h"
@@ -197,7 +198,7 @@ car-card:
   multiplier: "Multiplicador"
 staff:
   title: "Personal"
-  description: "¡La gente que ayuda a la gestión de Re-Volt America!"
+  description: "¡La gente que ayuda a la gestión de Re-Volt América!"
   groups:
     administrator: "Administradores"
     developer: "Desarrolladores"

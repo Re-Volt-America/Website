@@ -8,13 +8,14 @@ nav:
     tracks: "Pistas"
     cars: "Carros"
   players:
-    title: "Players"
+    title: "Jugadores"
     staff: "Staff"
   ranking:
     title: "Clasificación"
     points: "Sistema de Puntos"
     season20202021: "2020-2021"
     season20212021: "2021-2022"
+  discussions: "Discusiones"
 footer:
   policies:
     title: "Políticas"
@@ -35,8 +36,8 @@ footer:
     discord: "Discord"
     github: "GitHub"
 play:
-  subheader: "We play daily at 23:00 UTC"
-  subheader2: "Lobbies are posted at <code class='nissan-code'>#lobby-rva</code>"
+  subheader: "Jugamos a diaro a las 23:00 UTC"
+  subheader2: "Los lobbies se postean en <code class='nissan-code'>#lobby-rva</code>"
 downloads:
   title: "Descargas"
   rvgl-rva: "RVGL + RVA Pack"
@@ -130,7 +131,7 @@ rva:
     rotation:
       title: "Rotación de Re-Volt America"
     collection:
-      title: "Re-Volt America Track Collection"
+      title: "Colección de pistas de RVA"
   cars:
     title: "Carros"
     ratings-link: "Puntuacion de Carros"
@@ -168,16 +169,16 @@ error:
     caption: "Página no encontrada :("
 alerts:
   1: "¡Estamos jugando ya! IP de la Sala:"
-  2: "New RVA Pack Update Available!"
+  2: "¡Nueva actualización del Pack de RVA disponible!"
 emoji:
   title: "RVA Emojis"
 seasons:
-  season: "Season"
-  unavailable: "Results unavailable"
+  season: "Temporada"
+  unavailable: "Resultados no disponibles"
 classes:
-  rookie: "Rookie"
+  rookie: "Novato"
   amateur: "Amateur"
-  advanced: "Advanced"
+  advanced: "Avanzado"
   semi-pro: "Semi-Pro"
   pro: "Pro"
   super-pro: "Super-Pro"
@@ -185,21 +186,21 @@ classes:
   random: "Random"
 misc:
   download: "Descargar"
-  search: "Search"
+  search: "Buscar"
   and: "&"
 car-card:
-  speed: "Speed"
+  speed: "Velocidad"
   kmh: "km/h"
-  acc: "Acc"
+  acc: "Acel"
   ms2: "ms²"
-  weight: "Weight"
+  weight: "Peso"
   kg: "Kg"
-  multiplier: "Multiplier"
+  multiplier: "Multiplicador"
 staff:
   title: "Staff"
-  description: "The people who help run Re-Volt America!"
+  description: "La gente que ayuda a mantener Re-Volt America!"
   groups:
-    administrator: "Administrators"
-    developer: "Developers"
-    moderator: "Moderators"
-    organizer: "Organizers"
+    administrator: "Administradores"
+    developer: "Desarrolladores"
+    moderator: "Moderadores"
+    organizer: "Organizadores"

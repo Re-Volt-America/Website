@@ -15,6 +15,7 @@ nav:
     points: "Sistema de Puntos"
     season20202021: "2020-2021"
     season20212021: "2021-2022"
+  discussions: "Discusiones"
 footer:
   policies:
     title: "Políticas"
@@ -35,8 +36,8 @@ footer:
     discord: "Discord"
     github: "GitHub"
 play:
-  subheader: "We play daily at 23:00 UTC"
-  subheader2: "Lobbies are posted at <code class='nissan-code'>#lobby-rva</code>"
+  subheader: "Jugamos diariamente a las 23:00 UTC"
+  subheader2: "Los lobbies se publican en <code class='nissan-code'>#lobby-rva</code>"
 downloads:
   title: "Descargas"
   rvgl-rva: "RVGL + Pack de RVA"
@@ -135,7 +136,7 @@ rva:
     title: "Autos"
     ratings-link: "Multiplicadores"
     class-selector:
-      title: "Categorías"
+      title: "Clases"
 assets:
   title: "Logos y uso"
   subtitle: "Una colección de nuestros archivos principales, hechos por la talentosa <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, que puedes usar para enlazar RVA a tu página!"
