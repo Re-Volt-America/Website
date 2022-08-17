@@ -80,7 +80,8 @@ rules:
       7: "You must use a unique name in order to play the sessions. In case you have or take the same of another already established player you <b>MUST</b> choose another name."
       8:
         title: "You may type RE during the first 40 seconds of a race due to an external non-game related factor."
-        subtitle: "Only 1 RE per track is allowed."
+        subtitle: "Only 1 RE per track will be granted. If somebody asked for RE before you did, then the host will not restart again."
+      9: "The accumulated multiplier of any car will never exceed 4.0."
     c:
       title: "C. Discord Server"
       1: "You must follow and abide to the <a class='text-primary' href='https://discord.com/terms' target='_blank'>Discord Terms of Service</a>. Failure to do so will get you banned from Re-Volt America."
