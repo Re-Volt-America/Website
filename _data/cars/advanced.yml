@@ -83,6 +83,13 @@ advanced:
     acc: 2.38
     weight: 2.3
     multiplier: 0.8
+  springtrap:
+    name: Springtrap
+    slug: springtrap
+    speed: 54.9
+    acc: 2.81
+    weight: 1.2
+    multiplier: 0.8
   sunnyboy:
     name: Sunnyboy
     slug: sunnyboy
@@ -160,13 +167,6 @@ advanced:
     acc: 2.13
     weight: 1.8
     multiplier: 1.0
-  springtrap:
-    name: Springtrap
-    slug: springtrap
-    speed: 54.9
-    acc: 2.81
-    weight: 1.2
-    multiplier: 1.0
   raudy:
     name: Raudy
     slug: raudy
@@ -187,20 +187,13 @@ advanced:
     speed: 57.0
     acc: 2.13
     weight: 1.8
-    multiplier: 1.1
+    multiplier: 1.0
   emperor:
     name: Emperor
     slug: emperor
     speed: 57.4
     acc: 2.34
     weight: 2.0
-    multiplier: 1.1
-  duck_sky:
-    name: Duck Sky
-    slug: duck_sky
-    speed: 55.0
-    acc: 4.27
-    weight: 1.2
     multiplier: 1.1
   panther:
     name: Panther
@@ -209,6 +202,13 @@ advanced:
     acc: 2.18
     weight: 1.7
     multiplier: 1.1
+  duck_sky:
+    name: Duck Sky
+    slug: duck_sky
+    speed: 55.0
+    acc: 4.27
+    weight: 1.2
+    multiplier: 1.2
   groovster:
     name: Groovster
     slug: groovster

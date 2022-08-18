@@ -55,19 +55,26 @@ semi-pro:
     acc: 2.93
     weight: 1.7
     multiplier: 0.7
-  teacee:
-    name: Teacee
-    slug: teacee
-    speed: 60.0
-    acc: 2.90
-    weight: 2.0
-    multiplier: 0.7
   adeon:
     name: Adeon
     slug: adeon
     speed: 59.0
     acc: 2.97
     weight: 1.2
+    multiplier: 0.7
+  zipper:
+    name: Zipper
+    slug: zipper
+    speed: 60.6
+    acc: 2.82
+    weight: 1.4
+    multiplier: 0.8
+  teacee:
+    name: Teacee
+    slug: teacee
+    speed: 60.0
+    acc: 2.90
+    weight: 2.0
     multiplier: 0.8
   jg-7:
     name: JG-7
@@ -89,20 +96,6 @@ semi-pro:
     speed: 58.5
     acc: 4.37
     weight: 1.6
-    multiplier: 0.8
-  fat_agnus:
-    name: Fat Agnus
-    slug: fat_agnus
-    speed: 62.4
-    acc: 2.50
-    weight: 3.0
-    multiplier: 0.8
-  chubba:
-    name: Chubba
-    slug: chubba
-    speed: 58.9
-    acc: 2.67
-    weight: 3.0
     multiplier: 0.8
   middle5:
     name: Middle5
@@ -132,19 +125,33 @@ semi-pro:
     acc: 2.56
     weight: 2.0
     multiplier: 0.8
+  touga:
+    name: Touga
+    slug: touga
+    speed: 65.6
+    acc: 3.08
+    weight: 2.0
+    multiplier: 0.8
+  fat_agnus:
+    name: Fat Agnus
+    slug: fat_agnus
+    speed: 62.4
+    acc: 2.50
+    weight: 3.0
+    multiplier: 0.9
+  chubba:
+    name: Chubba
+    slug: chubba
+    speed: 58.9
+    acc: 2.67
+    weight: 3.0
+    multiplier: 0.9
   speed_balancer:
     name: Speed Balancer
     slug: speed_balancer
     speed: 62.0
     acc: 3.22
     weight: 1.8
-    multiplier: 0.8
-  zipper:
-    name: Zipper
-    slug: zipper
-    speed: 60.6
-    acc: 2.82
-    weight: 1.4
     multiplier: 0.9
   gravel_basher:
     name: Gravel Basher
@@ -166,13 +173,6 @@ semi-pro:
     speed: 59.7
     acc: 3.18
     weight: 1.3
-    multiplier: 0.9
-  touga:
-    name: Touga
-    slug: touga
-    speed: 65.6
-    acc: 3.08
-    weight: 2.0
     multiplier: 0.9
   blazar:
     name: Blazar

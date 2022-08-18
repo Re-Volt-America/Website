@@ -62,13 +62,6 @@ pro:
     acc: 3.20
     weight: 2.0
     multiplier: 0.7
-  duflame:
-    name: Duflame
-    slug: duflame
-    speed: 65.2
-    acc: 3.14
-    weight: 3.6
-    multiplier: 0.8
   abomin8r:
     name: Abomin8r
     slug: abomin8r
@@ -111,6 +104,13 @@ pro:
     acc: 2.72
     weight: 1.6
     multiplier: 0.8
+  duflame:
+    name: Duflame
+    slug: duflame
+    speed: 65.2
+    acc: 3.14
+    weight: 3.6
+    multiplier: 0.9
   puma:
     name: Puma
     slug: puma
@@ -132,13 +132,6 @@ pro:
     acc: 2.78
     weight: 1.8
     multiplier: 0.9
-  acclaim_f1:
-    name: Acclaim F1
-    slug: acclaim_f1
-    speed: 66.8
-    acc: 3.66
-    weight: 1.0
-    multiplier: 0.9
   bullet:
     name: Bullet
     slug: bullet
@@ -153,6 +146,13 @@ pro:
     acc: 3.04
     weight: 2.0
     multiplier: 0.9
+  humma:
+    name: Humma
+    slug: humma
+    speed: 63.9
+    acc: 3.46
+    weight: 2.0
+    multiplier: 0.9
   rc_winglet:
     name: RC Winglet
     slug: rc_winglet
@@ -160,12 +160,12 @@ pro:
     acc: 3.08
     weight: 1.5
     multiplier: 1.0
-  humma:
-    name: Humma
-    slug: humma
-    speed: 63.9
-    acc: 3.46
-    weight: 2.0
+  acclaim_f1:
+    name: Acclaim F1
+    slug: acclaim_f1
+    speed: 66.8
+    acc: 3.66
+    weight: 1.0
     multiplier: 1.0
   kindleberger:
     name: Kindleberger
@@ -187,7 +187,7 @@ pro:
     speed: 67.8
     acc: 4.12
     weight: 1.8
-    multiplier: 1.1
+    multiplier: 1.2
   patriot:
     name: Patriot
     slug: patriot
@@ -201,7 +201,7 @@ pro:
     speed: 70.5
     acc: 2.41
     weight: 3.3
-    multiplier: 1.3
+    multiplier: 1.4
   blue_comet:
     name: Blue Comet
     slug: blue_comet

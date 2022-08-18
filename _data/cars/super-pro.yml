@@ -13,20 +13,6 @@ super-pro:
     acc: 4.74
     weight: 2.7
     multiplier: 0.7
-  xm250:
-    name: XM250
-    slug: xm250
-    speed: 70.2
-    acc: 3.13
-    weight: 1.4
-    multiplier: 0.7
-  orion:
-    name: Orion
-    slug: orion
-    speed: 69.9
-    acc: 3.36
-    weight: 1.4
-    multiplier: 0.7
   armand:
     name: Armand
     slug: armand
@@ -62,13 +48,27 @@ super-pro:
     acc: 3.60
     weight: 1.7
     multiplier: 0.7
+  xm250:
+    name: XM250
+    slug: xm250
+    speed: 70.2
+    acc: 3.13
+    weight: 1.4
+    multiplier: 0.8
+  orion:
+    name: Orion
+    slug: orion
+    speed: 69.9
+    acc: 3.36
+    weight: 1.4
+    multiplier: 0.8
   maxxas_xlr8:
     name: Maxxas XLR8
     slug: maxxas_xlr8
     speed: 72.1
     acc: 2.98
     weight: 2.6
-    multiplier: 0.7
+    multiplier: 0.8
   commandine:
     name: Commandine
     slug: commandine
@@ -132,13 +132,6 @@ super-pro:
     acc: 4.16
     weight: 2.0
     multiplier: 0.8
-  rinne:
-    name: Rinne
-    slug: rinne
-    speed: 80.4
-    acc: 3.69
-    weight: 1.9
-    multiplier: 0.9
   voltrex:
     name: Voltrex
     slug: voltrex
@@ -188,13 +181,20 @@ super-pro:
     acc: 3.31
     weight: 1.5
     multiplier: 0.9
+  rinne:
+    name: Rinne
+    slug: rinne
+    speed: 80.4
+    acc: 3.69
+    weight: 1.9
+    multiplier: 1.0
   arion:
     name: Arion
     slug: arion
     speed: 69.0
     acc: 3.40
     weight: 1.1
-    multiplier: 0.9
+    multiplier: 1.0
   king_kaiju:
     name: King Kaiju
     slug: king_kaiju

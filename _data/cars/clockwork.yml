@@ -20,13 +20,6 @@ clockwork:
     acc: 3.29
     weight: 1.14
     multiplier: 0.7
-  clockwork_modify:
-    name: Clockwork Modify
-    slug: clockwork_modify
-    speed: 52.9
-    acc: 2.75
-    weight: 1.0
-    multiplier: 0.7
   clockwork_peak:
     name: Clockwork Peak
     slug: clockwork_peak
@@ -68,6 +61,13 @@ clockwork:
     speed: 54.0
     acc: 2.21
     weight: 1.21
+    multiplier: 0.9
+  clockwork_modify:
+    name: Clockwork Modify
+    slug: clockwork_modify
+    speed: 52.9
+    acc: 2.75
+    weight: 1.0
     multiplier: 0.9
   clockwork_ghibli:
     name: Clockwork Ghibli
