@@ -37,9 +37,6 @@ casino_rv:
 market_mayhem:
   name: "Market Mayhem"
   length: "M"
-wormhole:
-  name: "Wormhole"
-  length: "XL"
 paper_town_1:
   name: "Paper Town 1"
   length: "S"
