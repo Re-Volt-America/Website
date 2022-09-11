@@ -181,13 +181,6 @@ pro:
     acc: 2.93
     weight: 2.1
     multiplier: 1.1
-  ultra_drive:
-    name: Ultra Drive
-    slug: ultra_drive
-    speed: 67.8
-    acc: 4.12
-    weight: 1.8
-    multiplier: 1.2
   patriot:
     name: Patriot
     slug: patriot
@@ -195,6 +188,13 @@ pro:
     acc: 5.05
     weight: 1.9
     multiplier: 1.1
+  ultra_drive:
+    name: Ultra Drive
+    slug: ultra_drive
+    speed: 67.8
+    acc: 4.12
+    weight: 1.8
+    multiplier: 1.2
   vantastique:
     name: Vantastique
     slug: vantastique
