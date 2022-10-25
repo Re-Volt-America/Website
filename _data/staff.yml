@@ -49,10 +49,12 @@ moderator:
   members:
     - name: "AnteloCAZO"
       image: "antel.png"
+      media:
+        discord: "anteloCAZO#7099"
     - name: "EstebanMz"
       image: "esteban.jpg"
       media:
-        discord: "EstebanMz#0893"
+        discord: "EstebanMz#4398"
     - name: "Michel"
       image: "michel.png"
     - name: "WaluigiMB"
@@ -63,6 +65,8 @@ moderator:
       image: "powerate.png"
     - name: "Yun"
       image: "yun.png"
+      media:
+        discord: "yun#1315"
 organizer:
   name: "staff.groups.organizer"
   color: "#36f971"
@@ -82,3 +86,7 @@ organizer:
       image: "macacosky.png"
     - name: "TomDom"
       image: "tomdom.png"
+    - name: "Tiorotti"
+      image: "tiorotti.png"
+      media:
+        discord: "Tiorotti#0493"
