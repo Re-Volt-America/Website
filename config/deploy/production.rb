@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-server 'server01.revolt-america.com', :user => 'deploy', :roles => 'app', :primary => true
+server 'server02.revolt-america.com', :user => 'deploy', :roles => 'app', :primary => true
 
 set :ssh_options, {
     :keys => %w(C:/Users/BGM/.ssh/rva),

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-lock '~> 3.16.0'
+lock '~> 3.17.1'
 
 require 'capistrano/bundler'
 require 'rvm1/capistrano3'
@@ -10,7 +10,7 @@ set :repo_url, 'https://github.com/Re-Volt-America/Website.git'
 set :branch, 'production'
 set :user, 'deploy'
 set :stages, %w(production)
-set :deploy_to, '/home/deploy/rva'
+set :deploy_to, '/home/deploy/Website'
 set :linked_dirs, %w(.bundle)
 set :pty, true
 set :rvm1_ruby_version, '2.7.3'
