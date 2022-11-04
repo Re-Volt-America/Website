@@ -1,7 +1,7 @@
 title: RVA
 org: Re-Volt America
-email: jose@bgmp.cl
-url: "https://revolt-america.com"
+email: jose@bgm.cl
+url: "https://rva.lat"
 description: >-
   The Website for the Re-Volt America Community.
 encoding: UTF-8
@@ -65,7 +65,7 @@ defaults:
       locale_flag: true
 
 emoji:
-  src: "https://revolt-america.com" # /emoji/unicode
+  src: "https://rva.lat" # /emoji/unicode
 
 plugins:
   - jekyll-multiple-languages-plugin
