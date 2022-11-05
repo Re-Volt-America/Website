@@ -62,5 +62,21 @@ and any link to any social media you want us to associate it to! Thanks!
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center" valign="middle">
+        <h3>Nickurn</h3>
+        <hr/>
+        <a href="https://www.youtube.com/channel/UCOcYMQlntCkKkcucM5rX5yA" target="_blank">
+          <img width="222px" src="https://avatars.githubusercontent.com/u/113555362?v=4" alt="">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <h3>TT</h3>
+        <hr/>
+        <a href="https://www.revoltworld.net/user/TTDriver/" target="_blank">
+          <img width="222px" src="https://avatars.githubusercontent.com/u/80723300?v=4" alt="">
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
