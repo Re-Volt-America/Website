@@ -6,13 +6,13 @@
     {% if page.title %}
         <meta content='{{ page.title }}' property='og:title'>
     {% else %}
-        <meta content="{{ site.title }}" property="og:description">
+        <meta content="{{ site.title }}" property="og:title">
     {% endif %}
 
     {% if page.description %}
-        <meta content='{{ page.description }}' property='og:title'>
+        <meta content='{{ page.description }}' property='og:description'>
     {% else %}
-        <meta content='{{ site.description }}' property='og:title'>
+        <meta content='{{ site.description }}' property='og:description'>
     {% endif %}
 
     {% if page.image %}
