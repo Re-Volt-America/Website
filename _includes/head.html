@@ -3,12 +3,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta content='website' property='og:type'>
 
-    <meta content='{{ site.title }}' property='og:title'>
-    <meta content="{{ site.description }}" property="og:description">
+    {% if page.title %}
+        <meta content='{{ page.title }}' property='og:title'>
+    {% else %}
+        <meta content="{{ site.title }}" property="og:description">
+    {% endif %}
+
+    {% if page.description %}
+        <meta content='{{ page.description }}' property='og:title'>
+    {% else %}
+        <meta content='{{ site.description }}' property='og:title'>
+    {% endif %}
+
+    {% if page.image %}
+        <meta content="{{ page.image }}" property='og:image'>
+    {% else %}
+        <meta content="https://avatars.githubusercontent.com/u/79736314?s=200&v=4" property='og:image'>
+    {% endif %}
+
     <meta name="author" content="José Benavente">
 
     <meta content='{{ site.url }}' property='og:url'>
-    <meta content="https://avatars.githubusercontent.com/u/79736314?s=200&v=4" property='og:image'>
 
     <meta content='#000000' name='theme-color'>
 
