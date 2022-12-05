@@ -30,7 +30,7 @@ footer:
   trademark:
     title: "Marca comercial"
     assets: "Recursos"
-    emoji: "Emoji"
+    emoji: "Emoticono"
   social:
     title: "Encuéntranos"
     discord: "Discord"
@@ -42,11 +42,14 @@ downloads:
   title: "Descargas"
   rvgl-rva: "RVGL + El paquete de contenido de RVA"
   rva-standalone: "Paquete de RVA"
+  rva-launcher-repository: "Repositorio de lanzador RVGL"
   current-version: "Versión actual:"
   re-volt:
     description: "Este es el juego que jugamos, Re-Volt! Consíguelo en el proyecto de RVGL para poder jugar en línea con nosotros."
   rva:
     description: "El paquete de contenido que ocupamos en Re-Volt America. Esto incluye los coches, pistas y gfx."
+  repo:
+    intro: "Si estás usando el <a href='{{ site.data.distribute.rvgl-launcher }}' target='_blank'><b>lanzador RVGL</b></a> y no ves los <i>rva_</i> paquetes prefijados en la pestaña Paquetes, ¡entonces no tienes nuestro repositorio añadido! Ve a tu pestaña de Repositorios y añade nuestra repo de paquetes:"
 rules:
   title: "Reglas"
   sections:
@@ -74,7 +77,8 @@ rules:
       7: "Debes elegir un nombre único para jugar las sesiones en línea. En caso de que tengas o tomes el nombre de otro jugador ya establecido <b>TIENES</b> que cambiarlo."
       8:
         title: "Puedes escribir RE durante los primeros 40 segundos de una carrera sólo en caso de tratarse de un factor no relacionado al juego (llegas tarde, problemas de conexión)."
-        subtitle: "Sólo 1 RE por pista está permitido."
+        subtitle: "Solo 1 RE por pista será garantizado. Si alguien ha pedido RE antes de que tú lo hicieses, entonces el anfitrión no reiniciará de nuevo."
+      9: "El multiplicador acumulado de cualquier coche nunca excederá 4.0."
     c:
       title: "C. Servidor de Discord"
       1: "Debes seguir y atenerte a los <a class='text-primary' href='https://discord.com/terms' target='_blank'>Términos de servicio de Discord</a>. El no hacerlo hará que te expulsemos de Re-Volt America."
@@ -90,7 +94,7 @@ rules:
   precisions:
     1:
       term: "(1) RE:"
-      precision: "Solicitar al alfitrión de una sala que reinicie la carrera en curso."
+      precision: "Solicitar al anfitrión de una sala que reinicie la carrera en curso."
     2:
       term: "(2) Speced:"
       precision: "Cuando el anfitrión de un lobby fuerza a un corredor a espectadores. En este contexto, como una forma de infracción."
@@ -111,6 +115,7 @@ points:
     3: "Posición promedio"
     4: "Puntuación oficial"
     5: "0.1, factor constante para reducir las puntuaciones finales"
+  parser: "Analizador de puntos RVA"
 rva:
   tracks:
     title: "Pistas"
