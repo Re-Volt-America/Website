@@ -42,11 +42,14 @@ downloads:
   title: "Downloads"
   rvgl-rva: "RVGL + Pacote RVA"
   rva-standalone: "Pacote RVA"
+  rva-launcher-repository: "Repositório do RVGL Launcher"
   current-version: "Versão atual:"
   re-volt:
     description: "Este é o jogo que jogamos, Re-Volt! Pegue o jogo no projeto RVGL para jogar online conosco."
   rva:
     description: "O pack de conteúdo que nós usamos na Re-Volt América. Inclui carros, pistas e gfx."
+  repo:
+    intro: "Se você estiver usando o <a href='{{ site.data.distribute.rvgl-launcher }}' target='_blank'><b>RVGL Launcher</b></a> e você não vê os pacotes <i>rva_</i> prefixados na aba Pacotes, então você não tem nosso repositório adicionado! Acesse a guia Repositórios e adicione o nosso repositório de pacotes:"
 rules:
   title: "Regras"
   sections:
@@ -74,7 +77,8 @@ rules:
       7: "Você deve utilizar um nome único nas sessões. No caso de haver outro usuário com o mesmo nome, e ele já for conhecido, você <b>DEVE</b> escolher outro nome."
       8:
         title: "Você pode pedir \"RE\" durante os primeiros 40 segundos de uma corrida por razões externas somente."
-        subtitle: "Somente 1 \"RE\" por pista é permitido."
+        subtitle: "Apenas 1 RE por pista será concedida. Se alguém pedir RE antes de você, o host não irá reiniciar novamente."
+      9: "O multiplicador acumulado de qualquer carro nunca excederá 4.0."
     c:
       title: "C. Servidor Discord"
       1: "Você deve seguir e obedecer aos <a class='text-primary' href='https://discord.com/terms' target='_blank'>Termos de Serviço do Discord</a>. O não cumprimento poderá resultar em seu banimento."
@@ -111,6 +115,7 @@ points:
     3: "Posição média"
     4: "Pontuação Oficial"
     5: "0.1, fator constante pra reduzir pontuações finais"
+  parser: "RVA Points Parser\n"
 rva:
   tracks:
     title: "Pistas"
