@@ -15,7 +15,7 @@ nav:
     points: "포인트 시스템"
     season20202021: "2020-2021"
     season20212021: "2021-2022"
-  discussions: "Discussions"
+  discussions: "토론"
 footer:
   policies:
     title: "정책"
@@ -36,17 +36,20 @@ footer:
     discord: "Discord"
     github: "GitHub"
 play:
-  subheader: "We play daily at 23:00 UTC"
-  subheader2: "Lobbies are posted at <code class='nissan-code'>#lobby-rva</code>"
+  subheader: "매일 23시(UTC)에 플레이합니다"
+  subheader2: "로비는 <code class='nissan-code'>#lobby-rva</code>에 올라옵니다"
 downloads:
   title: "다운로드"
   rvgl-rva: "RVGL + RVA 팩"
   rva-standalone: "RVA 팩"
+  rva-launcher-repository: "RVGL 런처 저장소"
   current-version: "현재 버전:"
   re-volt:
     description: "Re-Volt! 우리가 하는 게임, RVGL 프로젝트에서 가져와 온라인으로 함께할 수 있습니다."
   rva:
     description: "Re-Volt America에서 사용하는 컨텐츠 팩입니다. 차량, 트랙 & 그래픽이 포함되어 있습니다."
+  repo:
+    intro: "If you are using the <a href='{{ site.data.distribute.rvgl-launcher }}' target='_blank'><b>RVGL Launcher</b></a> and you don't see the <i>rva_</i> prefixed packs at the Packs tab, then you don't have our repository added! Go to your Repositories tab and add our packages repo:"
 rules:
   title: "규칙"
   sections:
@@ -74,7 +77,8 @@ rules:
       7: "세션을 플레이하려면 고유한 이름을 사용해야 합니다. 이미 같은 이름의 준비된 플레이어가 있을 경우 <b>무조건</b> 다른 이름을 선택해야합니다."
       8:
         title: "외부 비 게임 관련 요인으로 인해 레이스의 처음 40초 동안 RE(재시작)을 입력할 수 있습니다."
-        subtitle: "트랙당 1개의 RE(재시작)만 허용됩니다."
+        subtitle: "Only 1 RE per track will be granted. If somebody asked for RE before you did, then the host will not restart again."
+      9: "The accumulated multiplier of any car will never exceed 4.0."
     c:
       title: "C. Discord 서버"
       1: "<a class='text-primary' href='https://discord.com/terms' target='_blank'>Discord 서비스 이용 약관</a>을 따르고 준수해야 합니다. 그렇지 않으면 Re-Volt America에서 차단될 것입니다."
@@ -111,6 +115,7 @@ points:
     3: "평균 순위"
     4: "공식 점수"
     5: "0.1 최종 점수 감소를 위한 상수 인수"
+  parser: "RVA 포인트 파싱"
 rva:
   tracks:
     title: "트랙"
@@ -131,7 +136,7 @@ rva:
     rotation:
       title: "Re-Volt America 로테이션"
     collection:
-      title: "Re-Volt America Track Collection"
+      title: "Re-Volt America 트랙 모음"
   cars:
     title: "차량"
     ratings-link: "차량 등급"
@@ -169,7 +174,7 @@ error:
     caption: "페이지를 찾을 수 없습니다 ㅠㅠ"
 alerts:
   1: "우리는 현재 플레이 중입니다! 로비 IP:"
-  2: "New RVA Pack Update Available!"
+  2: "새로운 RVA 팩 업데이트가 가능합니다!"
 emoji:
   title: "RVA 이모지"
 seasons:
