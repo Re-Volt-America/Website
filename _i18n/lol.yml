@@ -42,11 +42,14 @@ downloads:
   title: "dowoloads"
   rvgl-rva: "rVgL + rVa stufzz"
   rva-standalone: "rVa stuffz"
+  rva-launcher-repository: "RVGL lunchr repo"
   current-version: "rn:"
   re-volt:
     description: "We paly Ri-Vult! Get frum RVGL page to play with cat"
   rva:
     description: "Stuff we gud kittehs use :3"
+  repo:
+    intro: "If ur usin da <a href='{{ site.data.distribute.rvgl-launcher }}' target='_blank'><b>RVGL lunchr</b></a>and u dont c da <i>rva_</i> prefixd paks at the Paks tab, dan u dunt haev our repo aded! Go to ur Repositirs tab an add our pakcagaes repo:"
 rules:
   title: "Rulz"
   sections:
@@ -74,7 +77,8 @@ rules:
       7: "Get ur own naim. der kan only be 1 kat!!!"
       8:
         title: "u mya typ REEEEEEEEEEE durin da firzt 40 sekondz ov a raec deu 2 an extrnal nom-gaem relatd factr."
-        subtitle: "onle 1 REEEEEEE per traxk iz alowd."
+        subtitle: "ONLY 1 RE PER TRAK! IF UR LATE OR SOME KAT TRIED ALRDY DA RAEC WILL NAWT RESTART AGIAN!!"
+      9: "carz multiplir will nevur exced 4.0."
     c:
       title: "C. Discoword Servur"
       1: "u must folow n abaid 2 da <a class='text-primary' href='https://discord.com/terms' target='_blank'>discord rulez</a>. Failur to do dat wil get chu a bath"
@@ -111,6 +115,7 @@ points:
     3: "Avaerg Posishun"
     4: "Offishal point"
     5: "0.1 is kunstant"
+  parser: "rVa pointz prrrrser"
 rva:
   tracks:
     title: "trkx"
