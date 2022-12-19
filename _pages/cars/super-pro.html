@@ -7,19 +7,20 @@ image: https://rva.lat/assets/img/carboxes/super-pro/flir.bmp
 
 <div id="car-cards-display">
     <div class="container">
-        <div class="pb-2 mt-4 mb-2 text-center">
-            <h2><i class="fa fa-car" aria-hidden="true"></i> <b>{% t classes.super-pro %}</b></h2>
-        </div>
-
-        <div class="row">
-            <div class="col-xl-11 col-lg-10 col-md-10 col-xs-9 col-8">
-                <input class="form-control" id="input" type="text" placeholder="Search...">
+        <div class="sticky-top search-bar">
+            <div class="pb-2 mt-4 mb-2 text-center">
+                <h2><i class="fa fa-car" aria-hidden="true"></i> <b>{% t classes.super-pro %}</b></h2>
             </div>
-            <div class="col-xl-1 col-lg-2 col-md-2 col-xs-3 col-4">
-                {% include car_class_selector.html %}
+
+            <div class="row">
+                <div class="col-xl-11 col-lg-10 col-md-10 col-xs-9 col-8 sticky-top">
+                    <input class="form-control" id="input" type="text" placeholder="Search...">
+                </div>
+                <div class="col-xl-1 col-lg-2 col-md-2 col-xs-3 col-4">
+                    {% include car_class_selector.html %}
+                </div>
             </div>
         </div>
-
         <div class="row">
             {% assign class = "super-pro" %}
 
