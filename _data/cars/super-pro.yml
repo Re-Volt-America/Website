@@ -104,6 +104,13 @@ super-pro:
     acc: 4.16
     weight: 2.0
     multiplier: 0.8
+  sideswipe:
+    name: Sideswipe
+    slug: sideswipe
+    speed: 70.4
+    acc: 3.86
+    weight: 2
+    multiplier: 0.8
   starmac:
     name: Starmac
     slug: starmac

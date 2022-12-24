@@ -139,6 +139,13 @@ advanced:
     acc: 1.96
     weight: 1.7
     multiplier: 0.9
+  donnie_tc:
+    name: Donnie TC
+    slug: donnie_tc
+    speed: 58
+    acc: 2.6
+    weight: 1.7
+    multiplier: 0.9
   hyper_xl:
     name: Hyper XL
     slug: hyper_xl
