@@ -1,51 +1,48 @@
+rooftops:
+  name: "Rooftops"
+  length: "M"
 ghost_town_1:
   name: "Ghost Town 1"
   length: "S"
 toy_world_2:
   name: "Toy World 2"
   length: "M"
-supermarket_1:
-  name: "Supermarket 1"
-  length: "M"
-schools_out_1:
-  name: "School's Out 1"
-  length: "M"
-stadvolt:
-  name: "StadVolt"
-  length: "M"
-rooftops:
-  name: "Rooftops"
-  length: "M"
-museum_3:
-  name: "Museum 3"
-  length: "M"
-fairground_1:
-  name: "Fairground 1"
-  length: "S"
-mysterious_toy-volt_factory_1:
-  name: "Mysterious Toy-Volt Factory 1"
-  length: "M"
+toytanic_1:
+  name: "Toytanic 1"
+  length: "L"
+toytanic_2:
+  name: "Toytanic 2"
+  length: "L"
 botanical_garden_ex:
   name: "Botanical Garden EX"
   length: "L"
-game_room_1:
-  name: "Game Room 1"
-  length: "M"
-casino_rv:
-  name: "Casino RV"
-  length: "M"
-market_mayhem:
-  name: "Market Mayhem"
-  length: "M"
-paper_town_1:
-  name: "Paper Town 1"
-  length: "S"
-h(8)ty:
-  name: "H(8)TY"
-  length: "M"
-spaceship:
-  name: "Spaceship"
+calaboq:
+  name: "Calaboq"
   length: "M"
 castle_1:
   name: "Castle 1"
   length: "L"
+ds_desert_hills:
+  name: "DS Desert Hills"
+  length: "S"
+h(8)ty:
+  name: "H(8)TY"
+  length: "S"
+port_limano_1:
+  name: "Port Limano 1"
+  length: "S"
+rc_stadium_2:
+  name: "RC Stadium 2"
+  length: "S"
+rigs_highway:
+  name: "Rigs Highway"
+  length: "M"
+schools_out_1:
+  name: "School's Out! 1"
+  length: "M"
+stadvolt:
+  name: "StadVolt"
+  length: "M"
+subway_2:
+  name: "Subway 2"
+  length: "XL"
