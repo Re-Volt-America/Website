@@ -1,57 +1,66 @@
 toys_in_the_hood_2:
   name: "Toys in the Hood 2"
   length: "M"
-toytanic_1:
-  name: "Toytanic 1"
-  length: "L"
+supermarket_1:
+  name: "SuperMarket 1"
+  length: "M"
 ghost_town_2:
   name: "Ghost Town 2"
   length: "M"
 airport_1:
   name: "Airport 1"
   length: "M"
-metro-volt:
-  name: "Metro-Volt: Redux"
+antigrav_sc:
+  name: "Antigrav SC"
   length: "M"
-helios_lunar:
-  name: "Helios/Lunar"
-  length: "M"
-petro-volt:
-  name: "Petro-Volt"
-  length: "XL"
-sakura:
-  name: "Sakura"
-  length: "M"
-mysterious_toy-volt_factory_2:
-  name: "Mysterious Toy-Volt Factory 2"
+castle_2:
+  name: "Castle 2"
   length: "L"
-moon_dawn:
-  name: "Moon Dawn"
-  length: "XL"
-home_2:
-  name: "Home 2"
+game_room_2:
+  name: "Game Room 2"
   length: "M"
+holiday_camp:
+  name: "Holiday Camp: California Edition"
+  length: "XL"
 hospital_1:
   name: "Hospital 1"
   length: "M"
 hospital_2:
   name: "Hospital 2"
   length: "S"
-game_room_2:
-  name: "Game Room 2"
+market_mayhem:
+  name: "Market Mayhem"
   length: "M"
-toy_world_3:
-  name: "Toy World 3"
+metro-volt:
+  name: "Metro-Volt"
+  length: "M"
+museum_3:
+  name: "Museum 3"
+  length: "M"
+petrovolt:
+  name: "PetroVolt"
+  length: "XL"
+port_limano_2:
+  name: "Port Limano 2"
+  length: "M"
+rooftop_chase:
+  name: "Rooftop Chase: Redux"
   length: "M"
 rv_temple:
   name: "RV Temple"
   length: "XL"
-museum_unleashed:
-  name: "Museum Unleashed"
-  length: "XL"
-toy_world_mayhem:
-  name: "Toy World Mayhem"
+sakura:
+  name: "Sakura"
+  length: "L"
+spooktober_sss:
+  name: "Spooktober Super Special Stage"
+  length: "L"
+the_reactor:
+  name: "The Reactor"
+  length: "S"
+venice:
+  name: "Venice"
   length: "M"
-castle_2:
-  name: "Castle 2"
+wonderful_skylands_2:
+  name: "Wonderful Skylands 2"
   length: "L"

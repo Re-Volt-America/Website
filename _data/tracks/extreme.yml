@@ -1,42 +1,45 @@
 museum_1:
   name: "Museum 1"
   length: "M"
-venice:
-  name: "Venice"
-  length: "M"
-spa-volt_1:
-  name: "Spa-Volt 1"
-  length: "M"
 grisville:
   name: "Grisville"
   length: "M"
-toytanic_2:
-  name: "Toytanic 2"
-  length: "L"
-quake!:
-  name: "Quake!"
-  length: "L"
 jailhouse_rock:
   name: "Jailhouse Rock"
   length: "L"
+library:
+  name: "Library"
+  length: "M"
+moon_dawn:
+  name: "Moon Dawn"
+  length: "XL"
+museum_ex:
+  name: "Museum EX"
+  length: "XL"
+quake!:
+  name: "Quake!"
+  length: "L"
+rooftops_1:
+  name: "Rooftops 1"
+  length: "L"
+schools_out_2:
+  name: "School's Out! 2"
+  length: "XL"
+skating_toys:
+  name: "Skating Toys Redux"
+  length: "XL"
+spa-volt_1:
+  name: "Spa-Volt 1"
+  length: "M"
 spa-volt_2:
   name: "Spa-Volt 2"
   length: "M"
 the_great_silence:
   name: "The Great Silence"
   length: "M"
-schools_out_2:
-  name: "School's Out 2"
-  length: "XL"
-toys_in_the_hood_4:
-  name: "Toys in the Hood 4"
-  length: "L"
-rooftops_1:
-  name: "Rooftops 1"
-  length: "L"
+toysoldierz:
+  name: "ToySoldierz"
+  length: "M"
 user-deli_xl:
   name: "User-Deli: XL"
-  length: "M"
-subway:
-  name: "Subway"
-  length: "L"
+  length: "S"
