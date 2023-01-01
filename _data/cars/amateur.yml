@@ -25,7 +25,7 @@ amateur:
     slug: clasica
     speed: 53.3
     acc: 2.83
-    weight: 1.85
+    weight: 1.9
     multiplier: 0.7
   gator:
     name: Gator
@@ -60,7 +60,7 @@ amateur:
     slug: wedge_chz
     speed: 52.6
     acc: 2.82
-    weight: 1
+    weight: 1.0
     multiplier: 0.7
   la_54:
     name: LA 54
@@ -95,14 +95,14 @@ amateur:
     slug: d-decker
     speed: 52.6
     acc: 2.46
-    weight: 1.85
+    weight: 1.9
     multiplier: 0.8
   devil:
     name: Devil
     slug: devil
     speed: 53.6
     acc: 2.13
-    weight: 2
+    weight: 2.0
     multiplier: 0.8
   evac:
     name: Evac

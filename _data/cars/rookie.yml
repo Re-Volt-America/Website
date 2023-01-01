@@ -31,7 +31,7 @@ rookie:
     name: Hurricane
     slug: hurricane
     speed: 48.7
-    acc: 9.0
+    acc: 9.00
     weight: 1.5
     multiplier: 0.7
   iso-77a:

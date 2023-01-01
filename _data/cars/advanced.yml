@@ -16,7 +16,7 @@ advanced:
   ember:
     name: Ember
     slug: ember
-    speed: 56
+    speed: 56.0
     acc: 2.37
     weight: 1.4
     multiplier: 0.7
