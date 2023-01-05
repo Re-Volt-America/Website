@@ -13,26 +13,19 @@ amateur:
     acc: 3.17
     weight: 1.0
     multiplier: 0.7
-  starway:
-    name: Starway
-    slug: starway
-    speed: 52.0
-    acc: 2.80
-    weight: 1.5
+  bajrick:
+    name: Bajrick
+    slug: bajrick
+    speed: 54.4
+    acc: 1.85
+    weight: 1.4
     multiplier: 0.7
   clasica:
     name: Clasica
     slug: clasica
     speed: 53.3
     acc: 2.83
-    weight: 1.85
-    multiplier: 0.7
-  vixen:
-    name: Vixen
-    slug: vixen
-    speed: 51.6
-    acc: 2.47
-    weight: 1.5
+    weight: 1.9
     multiplier: 0.7
   gator:
     name: Gator
@@ -48,19 +41,26 @@ amateur:
     acc: 2.31
     weight: 1.5
     multiplier: 0.7
+  starway:
+    name: Starway
+    slug: starway
+    speed: 52.0
+    acc: 2.80
+    weight: 1.5
+    multiplier: 0.7
+  vixen:
+    name: Vixen
+    slug: vixen
+    speed: 51.6
+    acc: 2.47
+    weight: 1.5
+    multiplier: 0.7
   wedge_chz:
     name: Wedge CHZ
     slug: wedge_chz
     speed: 52.6
     acc: 2.82
-    weight: 1
-    multiplier: 0.7
-  bajrick:
-    name: Bajrick
-    slug: bajrick
-    speed: 54.4
-    acc: 1.85
-    weight: 1.4
+    weight: 1.0
     multiplier: 0.7
   la_54:
     name: LA 54
@@ -69,11 +69,18 @@ amateur:
     acc: 2.52
     weight: 1.2
     multiplier: 0.8
+  matra_xl:
+    name: Matra XL
+    slug: matra_xl
+    speed: 55.6
+    acc: 2.12
+    weight: 1.4
+    multiplier: 0.8
   ashley:
     name: Ashley
     slug: ashley
     speed: 53.5
-    acc: 3.1
+    acc: 3.10
     weight: 1.4
     multiplier: 0.8
   bumblebee:
@@ -83,11 +90,32 @@ amateur:
     acc: 2.28
     weight: 1.1
     multiplier: 0.8
-  matra_xl:
-    name: Matra XL
-    slug: matra_xl
-    speed: 55.6
-    acc: 2.12
+  d-decker:
+    name: D-Decker
+    slug: d-decker
+    speed: 52.6
+    acc: 2.46
+    weight: 1.9
+    multiplier: 0.8
+  devil:
+    name: Devil
+    slug: devil
+    speed: 53.6
+    acc: 2.13
+    weight: 2.0
+    multiplier: 0.8
+  evac:
+    name: Evac
+    slug: evac
+    speed: 53.6
+    acc: 2.86
+    weight: 1.5
+    multiplier: 0.8
+  locker:
+    name: Locker
+    slug: locker
+    speed: 52.0
+    acc: 2.98
     weight: 1.4
     multiplier: 0.8
   phantum:
@@ -97,62 +125,13 @@ amateur:
     acc: 1.88
     weight: 1.6
     multiplier: 0.8
-  locker:
-    name: Locker
-    slug: locker
-    speed: 52.0
-    acc: 2.98
-    weight: 1.4
-    multiplier: 0.8
   stonemason:
     name: Stonemason
     slug: stonemason
-    speed: 55
-    acc: 2
+    speed: 55.0
+    acc: 2.00
     weight: 2.3
     multiplier: 0.8
-  d-decker:
-    name: D-Decker
-    slug: d-decker
-    speed: 52.6
-    acc: 2.46
-    weight: 1.85
-    multiplier: 0.8
-  devil:
-    name: Devil
-    slug: devil
-    speed: 53.6
-    acc: 2.13
-    weight: 2
-    multiplier: 0.8
-  evac:
-    name: Evac
-    slug: evac
-    speed: 53.6
-    acc: 2.86
-    weight: 1.5
-    multiplier: 0.8
-  ignit-9:
-    name: Ignit-9
-    slug: ignit-9
-    speed: 51.7
-    acc: 2.30
-    weight: 1.5
-    multiplier: 0.9
-  muller_gt:
-    name: Muller GT
-    slug: muller_gt
-    speed: 52.2
-    acc: 2.41
-    weight: 1.4
-    multiplier: 0.9
-  mongoose:
-    name: Mongoose
-    slug: mongoose
-    speed: 52.8
-    acc: 2
-    weight: 1.4
-    multiplier: 0.9
   candy_pebbles:
     name: Candy Pebbles
     slug: candy_pebbles
@@ -171,8 +150,29 @@ amateur:
     name: Deep Blue
     slug: deep_blue
     speed: 56.5
-    acc: 2
+    acc: 2.00
     weight: 1.8
+    multiplier: 0.9
+  ignit-9:
+    name: Ignit-9
+    slug: ignit-9
+    speed: 51.7
+    acc: 2.30
+    weight: 1.5
+    multiplier: 0.9
+  mongoose:
+    name: Mongoose
+    slug: mongoose
+    speed: 52.8
+    acc: 2.00
+    weight: 1.4
+    multiplier: 0.9
+  muller_gt:
+    name: Muller GT
+    slug: muller_gt
+    speed: 52.2
+    acc: 2.41
+    weight: 1.4
     multiplier: 0.9
   strax:
     name: Strax
@@ -188,13 +188,6 @@ amateur:
     acc: 2.90
     weight: 2.3
     multiplier: 1.0
-  reddlum:
-    name: Reddlum
-    slug: reddlum
-    speed: 53.3
-    acc: 2.90
-    weight: 1.8
-    multiplier: 1.0
   kyarus:
     name: Kyarus
     slug: kyarus
@@ -207,7 +200,14 @@ amateur:
     slug: lmw
     speed: 55.7
     acc: 1.74
-    weight: 2
+    weight: 2.0
+    multiplier: 1.0
+  reddlum:
+    name: Reddlum
+    slug: reddlum
+    speed: 53.3
+    acc: 2.90
+    weight: 1.8
     multiplier: 1.0
   road_king:
     name: Road King
@@ -216,19 +216,19 @@ amateur:
     acc: 3.13
     weight: 2.8
     multiplier: 1.0
-  slim:
-    name: Slim
-    slug: slim
-    speed: 52.3
-    acc: 2.27
-    weight: 1.3
-    multiplier: 1.2
   elegant:
     name: Elegant
     slug: elegant
     speed: 56.9
     acc: 2.27
     weight: 1.9
+    multiplier: 1.2
+  slim:
+    name: Slim
+    slug: slim
+    speed: 52.3
+    acc: 2.27
+    weight: 1.3
     multiplier: 1.2
   rc_phink:
     name: RC Phink
