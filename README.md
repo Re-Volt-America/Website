@@ -77,6 +77,20 @@ and any link to any social media you want us to associate it to! Thanks!
           <img width="222px" src="https://avatars.githubusercontent.com/u/80723300?v=4" alt="">
         </a>
       </td>
+      <td align="center" valign="middle">
+        <h3>ferrada</h3>
+        <hr/>
+        <a href="https://github.com/BenjaFerrada" target="_blank">
+          <img width="222px" src="https://avatars.githubusercontent.com/u/43196058?v=4" alt="">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <h3>EstebanMz</h3>
+        <hr/>
+        <a href="https://github.com/EstebanMz" target="_blank">
+          <img width="222px" src="https://avatars.githubusercontent.com/u/19150477?v=4" alt="">
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
