@@ -1,4 +1,11 @@
 pro:
+  outlaw:
+    name: Outlaw
+    slug: outlaw
+    speed: 65.9
+    acc: 2.63
+    weight: 2.0
+    multiplier: 0.7
   snw_35:
     name: SNW 35
     slug: snw_35
@@ -18,13 +25,20 @@ pro:
     slug: cintach
     speed: 71.2
     acc: 2.52
-    weight: 2.3
+    weight: 2.26
     multiplier: 0.7
-  drome_champ:
-    name: Drome Champ
-    slug: drome_champ
-    speed: 65.4
-    acc: 3.79
+  g3x:
+    name: G3X
+    slug: g3x
+    speed: 67
+    acc: 3.9
+    weight: 2
+    multiplier: 0.7
+  ryu:
+    name: Ryu
+    slug: ryu
+    speed: 63.9
+    acc: 3.34
     weight: 1.5
     multiplier: 0.7
   exe_tc:
@@ -34,47 +48,19 @@ pro:
     acc: 3.61
     weight: 1.9
     multiplier: 0.7
-  g3x:
-    name: G3X
-    slug: g3x
-    speed: 67.0
-    acc: 3.90
-    weight: 2.0
-    multiplier: 0.7
-  outlaw:
-    name: Outlaw
-    slug: outlaw
-    speed: 65.9
-    acc: 2.63
-    weight: 2.0
-    multiplier: 0.7
-  ryu:
-    name: Ryu
-    slug: ryu
-    speed: 63.9
-    acc: 3.34
+  drome_champ:
+    name: Drome Champ
+    slug: drome_champ
+    speed: 65.4
+    acc: 3.79
     weight: 1.5
     multiplier: 0.7
-  toyeca:
-    name: Toyeca
-    slug: toyeca
-    speed: 64.6
-    acc: 3.21
-    weight: 2.0
-    multiplier: 0.8
   abomin8r:
     name: Abomin8r
     slug: abomin8r
     speed: 65.7
     acc: 3.13
     weight: 2.5
-    multiplier: 0.8
-  burning_steel:
-    name: Burning Steel
-    slug: burning_steel
-    speed: 68.1
-    acc: 3.50
-    weight: 1.5
     multiplier: 0.8
   chimera_tc:
     name: Chimera TC
@@ -83,6 +69,20 @@ pro:
     acc: 3.73
     weight: 1.6
     multiplier: 0.8
+  toyeca:
+    name: Toyeca
+    slug: toyeca
+    speed: 64.6
+    acc: 3.21
+    weight: 2.0
+    multiplier: 0.8
+  burning_steel:
+    name: Burning Steel
+    slug: burning_steel
+    speed: 68.1
+    acc: 3.5
+    weight: 1.45
+    multiplier: 0.8
   zs-9:
     name: ZS-9
     slug: zs-9
@@ -90,40 +90,12 @@ pro:
     acc: 2.54
     weight: 1.8
     multiplier: 0.8
-  humma:
-    name: Humma
-    slug: humma
-    speed: 63.9
-    acc: 3.46
-    weight: 2.0
-    multiplier: 0.9
   black_coffee:
     name: Black Coffee
     slug: black_coffee
     speed: 71.1
     acc: 2.91
     weight: 2.2
-    multiplier: 0.9
-  puma:
-    name: Puma
-    slug: puma
-    speed: 64.4
-    acc: 4.14
-    weight: 1.8
-    multiplier: 0.9
-  stadium_star:
-    name: Stadium Star
-    slug: stadium_star
-    speed: 63.8
-    acc: 2.88
-    weight: 2.0
-    multiplier: 0.9
-  steezy:
-    name: Steezy
-    slug: steezy
-    speed: 65.9
-    acc: 3.07
-    weight: 1.7
     multiplier: 0.9
   toro_gt84:
     name: Toro GT84
@@ -135,17 +107,59 @@ pro:
   visconti_r:
     name: Visconti R
     slug: visconti_r
-    speed: 63.0
+    speed: 63
     acc: 3.43
     weight: 1.8
+    multiplier: 0.9
+  puma:
+    name: Puma
+    slug: puma
+    speed: 64.4
+    acc: 4.14
+    weight: 1.8
+    multiplier: 0.9
+  steezy:
+    name: Steezy
+    slug: steezy
+    speed: 65.9
+    acc: 3.07
+    weight: 1.7
+    multiplier: 0.9
+  humma:
+    name: Humma
+    slug: humma
+    speed: 63.9
+    acc: 3.46
+    weight: 2.0
+    multiplier: 0.9
+  stadium_star:
+    name: Stadium Star
+    slug: stadium_star
+    speed: 63.8
+    acc: 2.88
+    weight: 2
     multiplier: 0.9
   y_force:
     name: Y Force
     slug: y_force
     speed: 67.2
     acc: 2.73
-    weight: 2.0
+    weight: 2
     multiplier: 0.9
+  sucker_punch:
+    name: Sucker Punch
+    slug: sucker_punch
+    speed: 66.4
+    acc: 3.18
+    weight: 1.25
+    multiplier: 1.0
+  sir_gleam:
+    name: Sir Gleam
+    slug: sir_gleam
+    speed: 67.3
+    acc: 4.44
+    weight: 1
+    multiplier: 1.0
   acclaim_f1:
     name: Acclaim F1
     slug: acclaim_f1
@@ -156,37 +170,23 @@ pro:
   core400:
     name: Core400
     slug: core400
-    speed: 67.0
+    speed: 67
     acc: 3.48
     weight: 1.6
-    multiplier: 1.0
-  karen:
-    name: Karen
-    slug: karen
-    speed: 65.0
-    acc: 2.87
-    weight: 1.8
-    multiplier: 1.0
-  sir_gleam:
-    name: Sir Gleam
-    slug: sir_gleam
-    speed: 67.3
-    acc: 4.44
-    weight: 1.0
-    multiplier: 1.0
-  sucker_punch:
-    name: Sucker Punch
-    slug: sucker_punch
-    speed: 66.4
-    acc: 3.18
-    weight: 1.3
     multiplier: 1.0
   wildstar:
     name: Wildstar
     slug: wildstar
     speed: 66.1
-    acc: 3.60
-    weight: 1.0
+    acc: 3.6
+    weight: 1
+    multiplier: 1.0
+  karen:
+    name: Karen
+    slug: karen
+    speed: 65
+    acc: 2.87
+    weight: 1.8
     multiplier: 1.0
   patriot:
     name: Patriot

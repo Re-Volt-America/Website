@@ -14,7 +14,7 @@
                     <p>{% t car-card.speed %}</p>
                 </div>
                 <div class="col-6">
-                    <p>{{ speed }} {% t car-card.kmh %}</p>
+                    <p>{{ speed | precision: 2 }} {% t car-card.kmh %}</p>
                 </div>
             </div>
         </div>
@@ -24,7 +24,7 @@
                     <p>{% t car-card.acc %}</p>
                 </div>
                 <div class="col-6">
-                    <p>{{ acc }} {% t car-card.ms2 %}</p>
+                    <p>{{ acc | precision: 2 }} {% t car-card.ms2 %}</p>
                 </div>
             </div>
         </div>
@@ -34,7 +34,7 @@
                     <p>{% t car-card.weight %}</p>
                 </div>
                 <div class="col-6">
-                    <p>{{ weight }} {% t car-card.kg %}</p>
+                    <p>{{ weight | precision: 2 }} {% t car-card.kg %}</p>
                 </div>
             </div>
         </div>
