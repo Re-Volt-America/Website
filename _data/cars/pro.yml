@@ -97,13 +97,6 @@ pro:
     acc: 2.91
     weight: 2.2
     multiplier: 0.9
-  toro_gt84:
-    name: Toro GT84
-    slug: toro_gt84
-    speed: 70.2
-    acc: 2.93
-    weight: 1.5
-    multiplier: 0.9
   visconti_r:
     name: Visconti R
     slug: visconti_r
@@ -132,13 +125,6 @@ pro:
     acc: 3.46
     weight: 2.0
     multiplier: 0.9
-  stadium_star:
-    name: Stadium Star
-    slug: stadium_star
-    speed: 63.8
-    acc: 2.88
-    weight: 2
-    multiplier: 0.9
   y_force:
     name: Y Force
     slug: y_force
@@ -153,6 +139,13 @@ pro:
     acc: 3.18
     weight: 1.25
     multiplier: 1.0
+  stadium_star:
+    name: Stadium Star
+    slug: stadium_star
+    speed: 63.8
+    acc: 2.88
+    weight: 2
+    multiplier: 1.0
   sir_gleam:
     name: Sir Gleam
     slug: sir_gleam
@@ -166,13 +159,6 @@ pro:
     speed: 66.8
     acc: 3.66
     weight: 1.0
-    multiplier: 1.0
-  core400:
-    name: Core400
-    slug: core400
-    speed: 67
-    acc: 3.48
-    weight: 1.6
     multiplier: 1.0
   wildstar:
     name: Wildstar
@@ -195,6 +181,20 @@ pro:
     acc: 5.05
     weight: 1.9
     multiplier: 1.1
+  core400:
+    name: Core400
+    slug: core400
+    speed: 67
+    acc: 3.48
+    weight: 1.6
+    multiplier: 1.1
+  toro_gt84:
+    name: Toro GT84
+    slug: toro_gt84
+    speed: 70.2
+    acc: 2.93
+    weight: 1.5
+    multiplier: 1.1
   rc_bulldog:
     name: RC Bulldog
     slug: rc_bulldog
@@ -215,7 +215,7 @@ pro:
     speed: 64.3
     acc: 2.81
     weight: 2.5
-    multiplier: 1.5
+    multiplier: 1.4
   cougar:
     name: Cougar
     slug: cougar

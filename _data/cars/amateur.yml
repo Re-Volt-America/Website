@@ -83,19 +83,19 @@ amateur:
     acc: 2.28
     weight: 1.1
     multiplier: 0.8
+  lmw:
+    name: LMW
+    slug: lmw
+    speed: 55.7
+    acc: 1.74
+    weight: 2
+    multiplier: 0.8
   matra_xl:
     name: Matra XL
     slug: matra_xl
     speed: 55.6
     acc: 2.12
     weight: 1.4
-    multiplier: 0.8
-  phantum:
-    name: Phantum
-    slug: phantum
-    speed: 54.9
-    acc: 1.88
-    weight: 1.6
     multiplier: 0.8
   locker:
     name: Locker
@@ -167,13 +167,6 @@ amateur:
     acc: 2.52
     weight: 2.0
     multiplier: 0.9
-  deep_blue:
-    name: Deep Blue
-    slug: deep_blue
-    speed: 56.5
-    acc: 2
-    weight: 1.8
-    multiplier: 0.9
   strax:
     name: Strax
     slug: strax
@@ -181,6 +174,20 @@ amateur:
     acc: 2.58
     weight: 1.4
     multiplier: 0.9
+  phantum:
+    name: Phantum
+    slug: phantum
+    speed: 54.9
+    acc: 1.88
+    weight: 1.6
+    multiplier: 1.0
+  slim:
+    name: Slim
+    slug: slim
+    speed: 52.3
+    acc: 2.27
+    weight: 1.3
+    multiplier: 1.0
   mouse:
     name: Mouse
     slug: mouse
@@ -202,13 +209,6 @@ amateur:
     acc: 3.15
     weight: 1.3
     multiplier: 1.0
-  lmw:
-    name: LMW
-    slug: lmw
-    speed: 55.7
-    acc: 1.74
-    weight: 2
-    multiplier: 1.0
   road_king:
     name: Road King
     slug: road_king
@@ -216,13 +216,6 @@ amateur:
     acc: 3.13
     weight: 2.8
     multiplier: 1.0
-  slim:
-    name: Slim
-    slug: slim
-    speed: 52.3
-    acc: 2.27
-    weight: 1.3
-    multiplier: 1.2
   elegant:
     name: Elegant
     slug: elegant
@@ -237,6 +230,13 @@ amateur:
     acc: 2.28
     weight: 1.6
     multiplier: 1.4
+  deep_blue:
+    name: Deep Blue
+    slug: deep_blue
+    speed: 56.5
+    acc: 2
+    weight: 1.8
+    multiplier: 1.6
   genghis_kar:
     name: Genghis Kar
     slug: genghis_kar

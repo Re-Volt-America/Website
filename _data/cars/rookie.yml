@@ -146,6 +146,13 @@ rookie:
     acc: 2.36
     weight: 1
     multiplier: 0.8
+  volken_turbo:
+    name: Volken Turbo
+    slug: volken_turbo
+    speed: 49.3
+    acc: 2.24
+    weight: 1.6
+    multiplier: 0.9
   bigvolt:
     name: BigVolt
     slug: bigvolt
@@ -194,27 +201,20 @@ rookie:
     speed: 51.9
     acc: 2.57
     weight: 1.2
-    multiplier: 1.0
+    multiplier: 1.1
   manko_xs:
     name: Manko XS
     slug: manko_xs
     speed: 52.1
     acc: 2.13
     weight: 1.25
-    multiplier: 1.0
+    multiplier: 1.1
   super_wheat:
     name: Super Wheat
     slug: super_wheat
     speed: 52.1
     acc: 1.87
     weight: 2.4
-    multiplier: 1.1
-  shiawase:
-    name: Shiawase
-    slug: shiawase
-    speed: 41.6
-    acc: 1
-    weight: 5
     multiplier: 1.1
   get_air:
     name: Get Air
@@ -223,13 +223,6 @@ rookie:
     acc: 3.31
     weight: 2.7
     multiplier: 1.1
-  volken_turbo:
-    name: Volken Turbo
-    slug: volken_turbo
-    speed: 49.3
-    acc: 2.24
-    weight: 1.6
-    multiplier: 1.1
   dust_mite:
     name: Dust Mite
     slug: dust_mite
@@ -237,6 +230,13 @@ rookie:
     acc: 1.98
     weight: 1.2
     multiplier: 1.2
+  shiawase:
+    name: Shiawase
+    slug: shiawase
+    speed: 41.6
+    acc: 1
+    weight: 5
+    multiplier: 1.6
   phat_slug:
     name: Phat Slug
     slug: phat_slug

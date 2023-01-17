@@ -41,6 +41,13 @@ advanced:
     acc: 2.37
     weight: 1.4
     multiplier: 0.7
+  snakehead:
+    name: Snakehead
+    slug: snakehead
+    speed: 58
+    acc: 2.72
+    weight: 2.9
+    multiplier: 0.7
   hammerhead:
     name: Hammerhead
     slug: hammerhead
@@ -104,13 +111,6 @@ advanced:
     acc: 2.24
     weight: 3.0
     multiplier: 0.8
-  snakehead:
-    name: Snakehead
-    slug: snakehead
-    speed: 58
-    acc: 2.72
-    weight: 2.9
-    multiplier: 0.8
   arctic_stomper:
     name: Arctic Stomper
     slug: arctic_stomper
@@ -125,19 +125,19 @@ advanced:
     acc: 2.81
     weight: 1.2
     multiplier: 0.8
+  ynz:
+    name: YNZ
+    slug: ynz
+    speed: 58.5
+    acc: 2.16
+    weight: 1.7
+    multiplier: 0.9
   diamond:
     name: Diamond
     slug: diamond
     speed: 55.9
     acc: 2.23
     weight: 1.2
-    multiplier: 0.8
-  marauder:
-    name: Marauder
-    slug: marauder
-    speed: 57.8
-    acc: 1.96
-    weight: 1.7
     multiplier: 0.9
   donnie_tc:
     name: Donnie TC
@@ -160,6 +160,13 @@ advanced:
     acc: 2.45
     weight: 2
     multiplier: 0.9
+  marauder:
+    name: Marauder
+    slug: marauder
+    speed: 57.8
+    acc: 1.96
+    weight: 1.7
+    multiplier: 1.0
   panga_tc:
     name: Panga TC
     slug: panga_tc
@@ -173,13 +180,6 @@ advanced:
     speed: 58.3
     acc: 2.13
     weight: 3.2
-    multiplier: 1.0
-  ynz:
-    name: YNZ
-    slug: ynz
-    speed: 58.5
-    acc: 2.16
-    weight: 1.7
     multiplier: 1.0
   flower_power:
     name: Flower Power
