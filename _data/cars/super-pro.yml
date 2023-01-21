@@ -1,10 +1,10 @@
 super-pro:
-  endo:
-    name: Endo
-    slug: endo
-    speed: 71.1
-    acc: 4.74
-    weight: 2.7
+  alterego:
+    name: Alterego
+    slug: alterego
+    speed: 69.9
+    acc: 3.56
+    weight: 2
     multiplier: 0.7
   armand:
     name: Armand
@@ -13,39 +13,18 @@ super-pro:
     acc: 4.17
     weight: 1.5
     multiplier: 0.7
+  endo:
+    name: Endo
+    slug: endo
+    speed: 71.1
+    acc: 4.74
+    weight: 2.7
+    multiplier: 0.7
   pearl:
     name: Pearl
     slug: pearl
     speed: 73.8
     acc: 2.73
-    weight: 2
-    multiplier: 0.7
-  sapphire:
-    name: Sapphire
-    slug: sapphire
-    speed: 69.8
-    acc: 4.2
-    weight: 1.45
-    multiplier: 0.7
-  track_reaper:
-    name: Track Reaper
-    slug: track_reaper
-    speed: 74.8
-    acc: 3.1
-    weight: 2
-    multiplier: 0.7
-  alterego:
-    name: Alterego
-    slug: alterego
-    speed: 69.9
-    acc: 3.56
-    weight: 2
-    multiplier: 0.7
-  stinger:
-    name: Stinger
-    slug: stinger
-    speed: 70.2
-    acc: 3.08
     weight: 2
     multiplier: 0.7
   reiser:
@@ -55,6 +34,20 @@ super-pro:
     acc: 3.34
     weight: 2
     multiplier: 0.7
+  sapphire:
+    name: Sapphire
+    slug: sapphire
+    speed: 69.8
+    acc: 4.2
+    weight: 1.45
+    multiplier: 0.7
+  stinger:
+    name: Stinger
+    slug: stinger
+    speed: 70.2
+    acc: 3.08
+    weight: 2
+    multiplier: 0.7
   super_phantum:
     name: Super Phantum
     slug: super_phantum
@@ -62,11 +55,18 @@ super-pro:
     acc: 3.39
     weight: 1.4
     multiplier: 0.7
-  xm250:
-    name: XM250
-    slug: xm250
-    speed: 70.2
-    acc: 3.13
+  track_reaper:
+    name: Track Reaper
+    slug: track_reaper
+    speed: 74.8
+    acc: 3.1
+    weight: 2
+    multiplier: 0.7
+  cambold_r:
+    name: Cambold R
+    slug: cambold_r
+    speed: 70.9
+    acc: 3.70
     weight: 1.4
     multiplier: 0.8
   commandine:
@@ -76,18 +76,25 @@ super-pro:
     acc: 3.44
     weight: 2.0
     multiplier: 0.8
+  daemmon:
+    name: Daemmon
+    slug: daemmon
+    speed: 74.4
+    acc: 3.87
+    weight: 1.85
+    multiplier: 0.8
+  la_rossa:
+    name: La Rossa
+    slug: la_rossa
+    speed: 72.9
+    acc: 4.16
+    weight: 2.0
+    multiplier: 0.8
   nova:
     name: Nova
     slug: nova
     speed: 73.7
     acc: 4.21
-    weight: 2
-    multiplier: 0.8
-  tesseract:
-    name: Tesseract
-    slug: tesseract
-    speed: 71.3
-    acc: 4
     weight: 2
     multiplier: 0.8
   prototype_fx77:
@@ -96,13 +103,6 @@ super-pro:
     speed: 65.1
     acc: 2.99
     weight: 1.2
-    multiplier: 0.8
-  la_rossa:
-    name: La Rossa
-    slug: la_rossa
-    speed: 72.9
-    acc: 4.16
-    weight: 2.0
     multiplier: 0.8
   sideswipe:
     name: Sideswipe
@@ -118,40 +118,33 @@ super-pro:
     acc: 3.54
     weight: 1.8
     multiplier: 0.8
-  daemmon:
-    name: Daemmon
-    slug: daemmon
-    speed: 74.4
-    acc: 3.87
-    weight: 1.85
+  tesseract:
+    name: Tesseract
+    slug: tesseract
+    speed: 71.3
+    acc: 4
+    weight: 2
     multiplier: 0.8
-  cambold_r:
-    name: Cambold R
-    slug: cambold_r
-    speed: 70.9
-    acc: 3.70
+  xm250:
+    name: XM250
+    slug: xm250
+    speed: 70.2
+    acc: 3.13
     weight: 1.4
     multiplier: 0.8
-  gungnir:
-    name: Gungnir
-    slug: gungnir
-    speed: 67.7
-    acc: 3.45
-    weight: 3.3
-    multiplier: 0.9
-  voltrex:
-    name: Voltrex
-    slug: voltrex
-    speed: 72.7
-    acc: 3.88
-    weight: 1.3
-    multiplier: 0.9
   calcure:
     name: Calcure
     slug: calcure
     speed: 71.0
     acc: 2.87
     weight: 2.0
+    multiplier: 0.9
+  gungnir:
+    name: Gungnir
+    slug: gungnir
+    speed: 67.7
+    acc: 3.45
+    weight: 3.3
     multiplier: 0.9
   madax_gt:
     name: Madax GT
@@ -174,6 +167,20 @@ super-pro:
     acc: 3.2
     weight: 1.25
     multiplier: 0.9
+  voltrex:
+    name: Voltrex
+    slug: voltrex
+    speed: 72.7
+    acc: 3.88
+    weight: 1.3
+    multiplier: 0.9
+  flir:
+    name: FLIR
+    slug: flir
+    speed: 71.4
+    acc: 5.66
+    weight: 2.0
+    multiplier: 1.0
   king_kaiju:
     name: King Kaiju
     slug: king_kaiju
@@ -188,13 +195,6 @@ super-pro:
     acc: 3
     weight: 2.7
     multiplier: 1.0
-  volken_champion:
-    name: Volken Champion
-    slug: volken_champion
-    speed: 71.7
-    acc: 3.9
-    weight: 1.5
-    multiplier: 1.0
   saeger:
     name: Saeger
     slug: saeger
@@ -202,12 +202,12 @@ super-pro:
     acc: 5.81
     weight: 2
     multiplier: 1.0
-  flir:
-    name: FLIR
-    slug: flir
-    speed: 71.4
-    acc: 5.66
-    weight: 2.0
+  volken_champion:
+    name: Volken Champion
+    slug: volken_champion
+    speed: 71.7
+    acc: 3.9
+    weight: 1.5
     multiplier: 1.0
   rinne:
     name: Rinne

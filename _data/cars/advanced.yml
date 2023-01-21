@@ -1,24 +1,10 @@
 advanced:
-  kyoki:
-    name: Kyoki
-    slug: kyoki
-    speed: 56.8
-    acc: 2.73
-    weight: 1.4
-    multiplier: 0.7
   r6_turbo:
     name: R6 Turbo
     slug: r6_turbo
     speed: 59.2
     acc: 2.47
     weight: 0.8
-    multiplier: 0.7
-  top_tier:
-    name: Top Tier
-    slug: top_tier
-    speed: 55.0
-    acc: 2.28
-    weight: 1.4
     multiplier: 0.7
   alice:
     name: Alice
@@ -27,13 +13,6 @@ advanced:
     acc: 2.32
     weight: 1.4
     multiplier: 0.7
-  neifion:
-    name: Neifion
-    slug: neifion
-    speed: 56.5
-    acc: 2.39
-    weight: 1.7
-    multiplier: 0.7
   ember:
     name: Ember
     slug: ember
@@ -41,19 +20,26 @@ advanced:
     acc: 2.37
     weight: 1.4
     multiplier: 0.7
-  snakehead:
-    name: Snakehead
-    slug: snakehead
-    speed: 58
-    acc: 2.72
-    weight: 2.9
-    multiplier: 0.7
   hammerhead:
     name: Hammerhead
     slug: hammerhead
     speed: 57.9
     acc: 2
     weight: 1.85
+    multiplier: 0.7
+  kyoki:
+    name: Kyoki
+    slug: kyoki
+    speed: 56.8
+    acc: 2.73
+    weight: 1.4
+    multiplier: 0.7
+  neifion:
+    name: Neifion
+    slug: neifion
+    speed: 56.5
+    acc: 2.39
+    weight: 1.7
     multiplier: 0.7
   p147_turbo:
     name: P147 Turbo
@@ -69,41 +55,20 @@ advanced:
     acc: 3.3
     weight: 1.2
     multiplier: 0.7
-  le_pastel:
-    name: Le Pastel
-    slug: le_pastel
-    speed: 56.6
-    acc: 2.18
-    weight: 2.0
-    multiplier: 0.8
-  drawall:
-    name: Drawall
-    slug: drawall
-    speed: 54.0
-    acc: 2.67
+  snakehead:
+    name: Snakehead
+    slug: snakehead
+    speed: 58
+    acc: 2.72
+    weight: 2.9
+    multiplier: 0.7
+  top_tier:
+    name: Top Tier
+    slug: top_tier
+    speed: 55.0
+    acc: 2.28
     weight: 1.4
-    multiplier: 0.8
-  nano_rascal:
-    name: Nano Rascal
-    slug: nano_rascal
-    speed: 50
-    acc: 2.25
-    weight: 0.99
-    multiplier: 0.8
-  rice_ball:
-    name: Rice Ball
-    slug: rice_ball
-    speed: 59
-    acc: 2
-    weight: 1.6
-    multiplier: 0.8
-  pegmound:
-    name: Pegmound
-    slug: pegmound
-    speed: 55
-    acc: 2.57
-    weight: 2.5
-    multiplier: 0.8
+    multiplier: 0.7
   bertha_ballistics:
     name: Bertha Ballistics
     slug: bertha_ballistics
@@ -118,6 +83,41 @@ advanced:
     acc: 2.38
     weight: 2.3
     multiplier: 0.8
+  drawall:
+    name: Drawall
+    slug: drawall
+    speed: 54.0
+    acc: 2.67
+    weight: 1.4
+    multiplier: 0.8
+  le_pastel:
+    name: Le Pastel
+    slug: le_pastel
+    speed: 56.6
+    acc: 2.18
+    weight: 2.0
+    multiplier: 0.8
+  nano_rascal:
+    name: Nano Rascal
+    slug: nano_rascal
+    speed: 50
+    acc: 2.25
+    weight: 0.99
+    multiplier: 0.8
+  pegmound:
+    name: Pegmound
+    slug: pegmound
+    speed: 55
+    acc: 2.57
+    weight: 2.5
+    multiplier: 0.8
+  rice_ball:
+    name: Rice Ball
+    slug: rice_ball
+    speed: 59
+    acc: 2
+    weight: 1.6
+    multiplier: 0.8
   springtrap:
     name: Springtrap
     slug: springtrap
@@ -125,13 +125,6 @@ advanced:
     acc: 2.81
     weight: 1.2
     multiplier: 0.8
-  ynz:
-    name: YNZ
-    slug: ynz
-    speed: 58.5
-    acc: 2.16
-    weight: 1.7
-    multiplier: 0.9
   diamond:
     name: Diamond
     slug: diamond
@@ -146,13 +139,6 @@ advanced:
     acc: 2.6
     weight: 1.7
     multiplier: 0.9
-  hyper_xl:
-    name: Hyper XL
-    slug: hyper_xl
-    speed: 57.5
-    acc: 2.5
-    weight: 1.75
-    multiplier: 0.9
   drj-61:
     name: DRJ-61
     slug: drj-61
@@ -160,13 +146,20 @@ advanced:
     acc: 2.45
     weight: 2
     multiplier: 0.9
-  marauder:
-    name: Marauder
-    slug: marauder
-    speed: 57.8
-    acc: 1.96
+  hyper_xl:
+    name: Hyper XL
+    slug: hyper_xl
+    speed: 57.5
+    acc: 2.5
+    weight: 1.75
+    multiplier: 0.9
+  ynz:
+    name: YNZ
+    slug: ynz
+    speed: 58.5
+    acc: 2.16
     weight: 1.7
-    multiplier: 1.0
+    multiplier: 0.9
   panga_tc:
     name: Panga TC
     slug: panga_tc
@@ -174,12 +167,12 @@ advanced:
     acc: 2.13
     weight: 1.8
     multiplier: 1.0
-  llag_sat:
-    name: Llag Sat
-    slug: llag_sat
-    speed: 58.3
+  shocker:
+    name: Shocker
+    slug: shocker
+    speed: 57.0
     acc: 2.13
-    weight: 3.2
+    weight: 1.8
     multiplier: 1.0
   flower_power:
     name: Flower Power
@@ -188,12 +181,19 @@ advanced:
     acc: 2.76
     weight: 1.6
     multiplier: 1.0
-  shocker:
-    name: Shocker
-    slug: shocker
-    speed: 57.0
+  llag_sat:
+    name: Llag Sat
+    slug: llag_sat
+    speed: 58.3
     acc: 2.13
-    weight: 1.8
+    weight: 3.2
+    multiplier: 1.0
+  marauder:
+    name: Marauder
+    slug: marauder
+    speed: 57.8
+    acc: 1.96
+    weight: 1.7
     multiplier: 1.0
   emperor:
     name: Emperor
@@ -209,19 +209,19 @@ advanced:
     acc: 2.18
     weight: 1.7
     multiplier: 1.1
-  groovster:
-    name: Groovster
-    slug: groovster
-    speed: 55.3
-    acc: 1.66
-    weight: 2.0
-    multiplier: 1.2
   bossvolt:
     name: BossVolt
     slug: bossvolt
     speed: 57.1
     acc: 2.16
     weight: 3.5
+    multiplier: 1.2
+  groovster:
+    name: Groovster
+    slug: groovster
+    speed: 55.3
+    acc: 1.66
+    weight: 2.0
     multiplier: 1.2
   evil_weasel:
     name: Evil Weasel
