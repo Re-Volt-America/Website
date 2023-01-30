@@ -73,4 +73,5 @@ emoji:
 
 plugins:
   - jekyll-multiple-languages-plugin
+  - jekyll-sitemap
   - jemoji
