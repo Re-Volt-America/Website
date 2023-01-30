@@ -42,8 +42,11 @@ include:
   - _seasons
 
 exclude:
-  - README.md
+  - Capfile
   - LICENCE.md
+  - README.md
+  - config/
+  - log/
 
 defaults:
   - scope:
