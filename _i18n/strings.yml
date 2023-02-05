@@ -64,7 +64,13 @@ rules:
       4: "Follow directions given by staff members at all times."
       5: "Use your common sense. It really is not that difficult!"
     b:
-      title: "B. Races & Scoring"
+      title: "B. Create an User Name"
+      1: 
+        title: "To play on RVA and be indexed in our official results, players must choose a nickname which matches the following rules:"
+        bullet1: "Your nickname must have 16 characters at maximum."
+        bullet2: "It can include any characters from A-Z (uppercase or lowercase), numbers, underscore and space characters."
+    c:
+      title: "C. Races & Scoring"
       1: "You may use cars from the class in course & below. (rookie, amateur, advanced, etc.)"
       2:
         title: "Using a car below the class in course will grant the following score bonuses:"
@@ -82,14 +88,14 @@ rules:
         title: "You may type RE during the first 40 seconds of a race due to an external non-game related factor."
         subtitle: "Only 1 RE per track will be granted. If somebody asked for RE before you did, then the host will not restart again."
       9: "The accumulated multiplier of any car will never exceed 4.0."
-    c:
-      title: "C. Discord Server"
+    d:
+      title: "D. Discord Server"
       1: "You must follow and abide to the <a class='text-primary' href='https://discord.com/terms' target='_blank'>Discord Terms of Service</a>. Failure to do so will get you banned from Re-Volt America."
       2: "Stay on-topic within channels."
       3: "Do not harass other users."
       4: "Media that may cause other users' Discord client to crash or <em>very explicit</em> content will be deleted, and you may be punished for posting it."
-    d:
-      title: "D. Punishments"
+    e:
+      title: "E. Punishments"
       1: "Failure to follow any of the Races & Scoring rules may get you speced <small class='text-success'>(2)</small> in our lobbies, or <em>kicked</em> if you insist on breaking our rules."
       2: "Users may be <em>kicked</em> from our Discord server for breaking the rules. If the rule violation is severe, you may be <em>banned</em> instead."
       3: "Evading Discord bans will get you banned eventually. We will find out."
