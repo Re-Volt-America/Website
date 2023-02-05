@@ -25,11 +25,18 @@ administrator:
       image: "tt.png"
       media:
         discord: "Y100XTT#9497"
+        github: "Y100XTT"
     - name: "Gorgonzola"
       role: "Competitive Administration"
       image: "gorgon.png"
       media:
         discord: "Gorgonzola#2081"
+    - name: "EstebanMz"
+      role: "Custom Content Pack Management"
+      image: "esteban.jpg"
+      media:
+        discord: "EstebanMz#4398"
+        github: "EstebanMz"
 developer:
   name: "staff.groups.developer"
   color: "purple"
@@ -47,23 +54,33 @@ moderator:
   color: "#f20"
   priority: 200
   members:
-    - name: "AnteloCAZO"
+    - name: "Antel"
       image: "antel.png"
       media:
         discord: "anteloCAZO#7099"
-    - name: "EstebanMz"
-      image: "esteban.jpg"
-      media:
-        discord: "EstebanMz#4398"
-    - name: "Michel"
-      image: "michel.png"
-    - name: "WaluigiMB"
-      image: "walele.png"
     - name: "ChoquePumper"
       image: "choque.png"
+    - name: "Macacosky"
+      image: "macacosky.png"
+      media:
+        discord: "Macacosky#5337"
+    - name: "Michel"
+      image: "michel.png"
+      media:
+        discord: "Michel#5963#
+    - name: "Nicbass"
+      image: "nicbass.png"
     - name: "Powerate"
       image: "powerate.png"
-    - name: "Yun"
+    - name: "Santi"
+      image: "santi.png"
+    - name: "Vendett"
+      image: "vendett.png"
+    - name: "Walele"
+      image: "walele.png"
+      media:
+        discord: "WaluigiMB#8234"
+    - name: "yun"
       image: "yun.png"
       media:
         discord: "yun#1315"
@@ -72,21 +89,15 @@ organizer:
   color: "#36f971"
   priority: 300
   members:
-    - name: "Honk"
+    - name: "DarkHunt"
+      image: "darkhunt.png"
+    - name: "honk"
       image: "honk.png"
       media:
         discord: "lilhearthie#0513"
-    - name: "DarkHunt"
-      image: "darkhunt.png"
-    - name: "Vendett"
-      image: "vendett.png"
     - name: "Nick"
-      image: "nickskyline.png"
-    - name: "Macacosky"
-      image: "macacosky.png"
-    - name: "TomDom"
-      image: "tomdom.png"
+      image: "nicocrates.png"
     - name: "Tiorotti"
       image: "tiorotti.png"
-      media:
-        discord: "Tiorotti#0493"
+    - name: "TomDom"
+      image: "tomdom.png"
