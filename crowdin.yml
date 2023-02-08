@@ -1,6 +1,4 @@
 project_identifier: RVA
-files:
-  - source: /_i18n/strings.yml
-    translation: /_i18n/%original_file_name%.%file_extension%
+files: []
 commit_message: Update %language% translations
-append_commit_message: false
+append_commit_message: 
