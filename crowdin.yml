@@ -3,4 +3,4 @@ files:
   - source: /_i18n/strings.yml
     translation: /_i18n/%locale_with_underscore%.%file_extension%
 commit_message: Update %language% translations
-append_commit_message: false
+append_commit_message: 
