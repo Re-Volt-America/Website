@@ -1,0 +1,3 @@
+files:
+  - source: /_i18n/strings.yml
+    translation: /_i18n/%locale_with_underscore%.%file_extension%
