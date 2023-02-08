@@ -22,7 +22,7 @@ footer:
     terms: "Terms of Service"
     privacy: "Privacy Policy"
   organization:
-    title: "Organisation"
+    title: "Organization"
     logs: "Development Logs"
     bugs: "Report a Bug"
     sponsor: "Sponsor"
@@ -207,4 +207,4 @@ staff:
     administrator: "Administrators"
     developer: "Developers"
     moderator: "Moderators"
-    organizer: "Organisers"
+    organizer: "Organizers"
