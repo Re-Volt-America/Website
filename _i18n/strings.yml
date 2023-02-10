@@ -66,7 +66,7 @@ rules:
     b:
       title: "B. Create an User Name"
       1: 
-        title: "To play on RVA and be indexed in our official results, players must choose a nickname which matches the following rules:"
+        title: "To play on RVA and be indexed in our official rankings, players must choose a nickname which matches the following rules:"
         bullet1: "Your nickname must have 16 characters at maximum."
         bullet2: "It can include any characters from A-Z (uppercase or lowercase), numbers, underscore and space characters."
     c:
