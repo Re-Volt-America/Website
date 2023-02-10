@@ -68,7 +68,7 @@ rules:
       1: 
         title: "To play on RVA and be indexed in our official rankings, players must choose a nickname which matches the following rules:"
         bullet1: "Your nickname must have 16 characters at maximum."
-        bullet2: "It can include any characters from A-Z (uppercase or lowercase), numbers, underscore and space characters."
+        bullet2: "Your nickname may contain any characters from A-Z (uppercase or lowercase), numbers, underscores and blank spaces"
     c:
       title: "C. Races & Scoring"
       1: "You may use cars from the class in course & below. (rookie, amateur, advanced, etc.)"
