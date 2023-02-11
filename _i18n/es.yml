@@ -61,7 +61,14 @@ rules:
       4: "Sigue siempre las direcciones dadas por los miembros del staff."
       5: "Usa tu sentido común. No es tan difícil, ¡en serio!"
     b:
-      title: "B. Carreras y puntuación"
+      title: "B. Creating a Username"
+      1:
+        title: "To play Re-Volt you must choose a username, and to be indexed into the official RVA rankings players must choose a nickname which abides to the following guidelines:"
+        bullet1: "Your nickname must have from 1 to 16 characters."
+        bullet2: "Your nickname may contain any characters from A-Z (uppercase or lowercase), numbers, underscores and blank spaces."
+        bullet3: "Your nickname must be unique! If you are not sure, you may ask the staff team to find out if the username you want is already being used by another player."
+    c:
+      title: "C. Carreras y puntuación"
       1: "Puedes utilizar coches de la clase en curso e inferiores. (rookie, amateur, advanced, etc.)"
       2:
         title: "Usar un coche por debajo de la clase en curso otorgará las siguientes bonificaciones de puntaje:"
@@ -79,14 +86,14 @@ rules:
         title: "Puedes escribir RE durante los primeros 40 segundos de una carrera sólo en caso de tratarse de un factor no relacionado al juego (llegas tarde, problemas de conexión)."
         subtitle: "Solo 1 RE por pista será garantizado. Si alguien ha pedido RE antes de que tú lo hicieses, entonces el anfitrión no reiniciará de nuevo."
       9: "El multiplicador acumulado de cualquier coche nunca excederá 4.0."
-    c:
-      title: "C. Servidor de Discord"
+    d:
+      title: "D. Servidor de Discord"
       1: "Debes seguir y atenerte a los <a class='text-primary' href='https://discord.com/terms' target='_blank'>Términos de servicio de Discord</a>. El no hacerlo hará que te expulsemos de Re-Volt America."
       2: "Mantente en el tema de los canales."
       3: "No acoses a otros usarios."
       4: "Cualquier archivo multimedia malicioso que cause que el cliente de Discord de otros usuarios crashee o contenido <em>muy</em> explícito se eliminará, y probablemente te infraccionaremos por publicarlo."
-    d:
-      title: "D. Infracciones"
+    e:
+      title: "E. Infracciones"
       1: "El no seguir el reglamento de Carreras y puntuación puede hacer que quedes speced <small class='text-success'>(2)</small> en nuestras salas, o <em>expulsado</em> si insistes en romper nuestras reglas."
       2: "Los usuarios podrán ser <em>expulsados</em> de nuestro servidor de Discord por romper las reglas. Si la violación al reglamento es grave, podrás ser <em>baneado</em> en su lugar."
       3: "Evadir bans de Discord conseguirá que te volvamos a banear eventualmente. Los averiguaremos."

@@ -61,7 +61,14 @@ rules:
       4: "Respecc importnt kittheh :3"
       5: "Thonk. it not diffikult!"
     b:
-      title: "B. Raecs n scorin"
+      title: "B. Creating a Username"
+      1:
+        title: "To play Re-Volt you must choose a username, and to be indexed into the official RVA rankings players must choose a nickname which abides to the following guidelines:"
+        bullet1: "Your nickname must have from 1 to 16 characters."
+        bullet2: "Your nickname may contain any characters from A-Z (uppercase or lowercase), numbers, underscores and blank spaces."
+        bullet3: "Your nickname must be unique! If you are not sure, you may ask the staff team to find out if the username you want is already being used by another player."
+    c:
+      title: "C. Raecs n scorin"
       1: "u mya uz kars fraem da class ov rn and below. (rookei, amatueur, avdancd etc)"
       2:
         title: "Using sluw kar better for kat:"
@@ -79,14 +86,14 @@ rules:
         title: "u mya typ REEEEEEEEEEE durin da firzt 40 sekondz ov a raec deu 2 an extrnal nom-gaem relatd factr."
         subtitle: "ONLY 1 RE PER TRAK! IF UR LATE OR SOME KAT TRIED ALRDY DA RAEC WILL NAWT RESTART AGIAN!!"
       9: "carz multiplir will nevur exced 4.0."
-    c:
-      title: "C. Discoword Servur"
+    d:
+      title: "D. Discoword Servur"
       1: "u must folow n abaid 2 da <a class='text-primary' href='https://discord.com/terms' target='_blank'>discord rulez</a>. Failur to do dat wil get chu a bath"
       2: "stya on-topicz in channulz."
       3: "do NOT harass other kittehs"
       4: "Non krash kats' Discoword"
-    d:
-      title: "D. BAD KAT!!"
+    e:
+      title: "E. BAD KAT!!"
       1: "bad racecat wil be spectacated, or keek'd if rul are kept borked."
       2: "kitteh may get kik if dont respect cat rulz. If beeg rul breakening, kat get baff."
       3: "Dun't dodge bath!"
