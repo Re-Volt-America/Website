@@ -11,7 +11,7 @@ nav:
     title: "Jugadores"
     staff: "Personal"
   ranking:
-    title: "Ranking"
+    title: "Clasificación"
     points: "Sistema de puntuación"
     season20202021: "2020-2021"
     season20212021: "2021-2022"
@@ -25,7 +25,7 @@ footer:
   organization:
     title: "Organización"
     logs: "Registros de desarrollo"
-    bugs: "Reportar un error"
+    bugs: "Reportar un bug"
     sponsor: "Patrocinar"
   trademark:
     title: "Marca comercial"
@@ -37,10 +37,10 @@ footer:
     github: "GitHub"
 play:
   subheader: "Jugamos diariamente a las 23:00 UTC"
-  subheader2: "Los lobbies se publican en <code class='nissan-code'>#lobby-rva</code>"
+  subheader2: "Las salas se publican en <code class='nissan-code'>#lobby-rva</code>"
 downloads:
   title: "Descargas"
-  rvgl-rva: "RVGL + El paquete de contenido de RVA"
+  rvgl-rva: "RVGL + Paquete de RVA"
   rva-standalone: "Paquete de RVA"
   rva-launcher-repository: "Repositorio de lanzador RVGL"
   current-version: "Versión actual:"
@@ -56,20 +56,20 @@ rules:
     a:
       title: "A. Compostura general"
       1: "Mantén siempre un ambiente tranquilo con otros usuarios."
-      2: "No hagas <em>Spam</em>. Puedes autopromoverte a tí mismo y a otros dentro de ciertos límites, sólo no cruces la linea y estarás bien."
-      3: "<a class='text-primary' href='https://es.wikipedia.org/wiki/Doxing' target='_blank'>Doxxear</a> a otros usuarios está <b>prohibído</b>. Si participas o promueves estos actos RVA <b>TOMARÁ</b> acciones."
-      4: "Siempre sigue las direcciones entregadas por los miembros del staff."
-      5: "Usa tu sentido común. No es tan difícil, en serio!"
+      2: "No hagas <em>Spam</em>. Puedes autopromoverte a tí mismo y a otros dentro de ciertos límites, sólo no cruces la línea y estarás bien."
+      3: "<a class='text-primary' href='https://es.wikipedia.org/wiki/Doxing' target='_blank'>Doxear</a> a otros usuarios está <b>prohibido</b>. Si participas o promueves estos actos RVA <b>TOMARÁ</b> acciones."
+      4: "Sigue siempre las direcciones dadas por los miembros del staff."
+      5: "Usa tu sentido común. No es tan difícil, ¡en serio!"
     b:
       title: "B. Carreras y puntuación"
-      1: "Puedes utilizar coches de la clase en curso e infereriores. (rookie, amateur, advanced, etc.)"
+      1: "Puedes utilizar coches de la clase en curso e inferiores. (rookie, amateur, advanced, etc.)"
       2:
         title: "Usar un coche por debajo de la clase en curso otorgará las siguientes bonificaciones de puntaje:"
-        bullet1: "Una clase abajo: <b>25%</b>."
-        bullet2: "Dos clases abajo: <b>50%</b>."
-        bullet3: "Tres clases abajo: <b>75%</b>."
-        bullet4: "Cuatro clases abajo: <b>100%</b>."
-        bullet5: "Cinco clases abajo: <b>125%</b>."
+        bullet1: "Una clase por debajo: <b>25%</b>."
+        bullet2: "Dos clases por debajo: <b>50%</b>."
+        bullet3: "Tres clases por debajo: <b>75%</b>."
+        bullet4: "Cuatro clases por debajo: <b>100%</b>."
+        bullet5: "Cinco clases por debajo: <b>125%</b>."
       3: "<b>NO</b> utilices coches de una clases superior a la que esté en curso. <b>Hacerlo invalidará los puntos que obtengas jugando con él</b>."
       4: "<b>NO</b> dispares o molestes a corredores en posiciones no inmediatas a la tuya (jugadores que te saquen una vuelta)."
       5: "<b>NO</b> pidas RE <small class='text-success'>(1)</small> a menos que llegues tarde a una carrera o experimentes dificultades técnicas. Otras razones son consideradas inválidas."
@@ -87,8 +87,8 @@ rules:
       4: "Cualquier archivo multimedia malicioso que cause que el cliente de Discord de otros usuarios crashee o contenido <em>muy</em> explícito se eliminará, y probablemente te infraccionaremos por publicarlo."
     d:
       title: "D. Infracciones"
-      1: "El no seguir el reglamento de carreras y puntuación puede hacer que quedes speced <small class='text-success'>(2)</small> en nuestras salas, o <em>kickeado</em> si insistes en romper nuestras reglas."
-      2: "Los usuarios podrán ser <em>kickeados</em> de nuestro servidor de Discord por romper las reglas. Si la violación al reglamento es grave, podrás ser <em>baneado</em> en su lugar."
+      1: "El no seguir el reglamento de Carreras y puntuación puede hacer que quedes speced <small class='text-success'>(2)</small> en nuestras salas, o <em>expulsado</em> si insistes en romper nuestras reglas."
+      2: "Los usuarios podrán ser <em>expulsados</em> de nuestro servidor de Discord por romper las reglas. Si la violación al reglamento es grave, podrás ser <em>baneado</em> en su lugar."
       3: "Evadir bans de Discord conseguirá que te volvamos a banear eventualmente. Los averiguaremos."
       4: "Todas las infracciones están sujetas a la discreción de nuestro staff"
   precisions:
@@ -97,7 +97,7 @@ rules:
       precision: "Solicitar al anfitrión de una sala que reinicie la carrera en curso."
     2:
       term: "(2) Speced:"
-      precision: "Cuando el anfitrión de un lobby fuerza a un corredor a espectadores. En este contexto, como una forma de infracción."
+      precision: "Cuando el anfitrión de una sala fuerza a un corredor a espectadores. En este contexto, como una forma de infracción."
 points:
   title: "Sistema de puntuación"
   introduction:
@@ -144,7 +144,7 @@ rva:
       title: "Clases"
 assets:
   title: "LOGOS Y USO"
-  subtitle: "Una colección de nuestros principales recursos, realizados por la talentosa <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, los cuales puedes descargar para integrar con RVA o enlazar hacia nuestra web!"
+  subtitle: "¡Una colección de nuestros principales recursos, realizados por la talentosa <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, los cuales puedes descargar para integrar con RVA o enlazar hacia nuestra web!"
   allowed:
     title: "Uso permitido"
     1: "Usar nuestro logo para enlazar a nuestro sitio web"
@@ -173,7 +173,7 @@ error:
     title: "Error 404"
     caption: "Página no encontrada :("
 alerts:
-  1: "Estamos jugando ahora! IP de la sala:"
+  1: "¡Estamos jugando ahora! IP de la sala:"
   2: "¡Nuevo paquete de actualización de RVA disponible!"
 emoji:
   title: "Emojis RVA"
