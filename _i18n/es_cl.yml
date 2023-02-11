@@ -69,7 +69,7 @@ rules:
         bullet3: "Your nickname must be unique! If you are not sure, you may ask the staff team to find out if the username you want is already being used by another player."
     c:
       title: "C. Carreras y Puntuación"
-      1: "Puedes utilizar autos de la clase en curso e infereriores. (rookie, amateur, advanced, etc.)"
+      1: "Puedes utilizar autos de la clase en curso e inferiores. (rookie, amateur, advanced, etc.)"
       2:
         title: "Usar un auto por debajo de la clase en curso otorgará las siguientes bonificaciones de puntaje:"
         bullet1: "Una clase abajo: <b>25%</b>."
@@ -83,15 +83,15 @@ rules:
       6: "Evita cambiar tu nombre a mitad de las sesiones, ya que esto puede dificultar el calcular las puntuaciones finales."
       7: "Debes elegir un nombre único para jugar las sesiones en línea. En caso de que tengas o tomes el nombre de otro jugador ya establecido <b>TIENES</b> que cambiarlo."
       8:
-        title: "Puedes escribir RE durante los primeros 40 segundos de una carrera sólo en caso de tratarse de un factor no relacionado al juego (llegas tarde, problemas de conexión)."
+        title: "Puedes escribir RE durante los primeros 40 segundos de una carrera sólo en caso de tratarse de un factor no relacionado al juego (llegar tarde, problemas de conexión)."
         subtitle: "Sólo se dará un RE por pista. Si alguien pidió RE antes que tú el host no reiniciará de nuevo."
-      9: "El multiplicador acomulado de cualquier auto nunca excederá 4.0."
+      9: "El multiplicador acumulado de cualquier auto nunca excederá 4.0."
     d:
       title: "D. Servidor de Discord"
       1: "Debes seguir y atenerte a los <a class='text-primary' href='https://discord.com/terms' target='_blank'>Términos de servicio de Discord</a>. El no hacerlo hará que te expulsemos de Re-Volt America."
       2: "Mantente en el tema de los canales."
-      3: "No acoses a otros usarios."
-      4: "Cualquier archivo multimedia malicioso que cause que el cliente de Discord de otros usuarios crashee o contenido <em>muy</em> explícito se eliminará, y probablemente te infraccionaremos por publicarlo."
+      3: "No acoses a otros usuarios."
+      4: "Cualquier archivo multimedia malicioso que cause que el cliente de Discord de otros usuarios crashee o contenido <em>muy</em> explícito se eliminará, y probablemente te infraccionarémos por publicarlo."
     e:
       title: "E. Infracciones"
       1: "El no seguir el reglamento de carreras y puntuación puede hacer que quedes speced <small class='text-success'>(2)</small> en nuestras salas, o <em>kickeado</em> si insistes en romper nuestras reglas."
