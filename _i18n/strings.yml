@@ -64,11 +64,12 @@ rules:
       4: "Follow directions given by staff members at all times."
       5: "Use your common sense. It really is not that difficult!"
     b:
-      title: "B. Create an User Name"
-      1: 
-        title: "To play on RVA and be indexed in our official rankings, players must choose a nickname which matches the following rules:"
+      title: "B. Creating a Username"
+      1:
+        title: "To play Re-Volt you must choose a username, and to be indexed into the official RVA rankings players must choose a nickname which abides to the following guidelines:"
         bullet1: "Your nickname must have from 1 to 16 characters."
-        bullet2: "Your nickname may contain any characters from A-Z (uppercase or lowercase), numbers, underscores and blank spaces"
+        bullet2: "Your nickname may contain any characters from A-Z (uppercase or lowercase), numbers, underscores and blank spaces."
+        bullet3: "Your nickname must be unique! If you are not sure, you may ask the staff team to find out if the username you want is already being used by another player."
     c:
       title: "C. Races & Scoring"
       1: "You may use cars from the class in course & below. (rookie, amateur, advanced, etc.)"

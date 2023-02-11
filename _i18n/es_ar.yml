@@ -61,7 +61,14 @@ rules:
       4: "Siga las indicaciones dadas por el equipo de administración en todo momento."
       5: "Use su sentido común. No es tan difícil!"
     b:
-      title: "B. Carreras y puntajes"
+      title: "B. Creating a Username"
+      1:
+        title: "To play Re-Volt you must choose a username, and to be indexed into the official RVA rankings players must choose a nickname which abides to the following guidelines:"
+        bullet1: "Your nickname must have from 1 to 16 characters."
+        bullet2: "Your nickname may contain any characters from A-Z (uppercase or lowercase), numbers, underscores and blank spaces."
+        bullet3: "Your nickname must be unique! If you are not sure, you may ask the staff team to find out if the username you want is already being used by another player."
+    c:
+      title: "C. Carreras y puntajes"
       1: "Se pueden usar autos de la categoría corriente y las inferiores. (Novato, Amateur, Avanzado, etc.)"
       2:
         title: "Usar un auto inferior a la categoría corriente va a bonificarlo de la siguiente manera:"
@@ -79,14 +86,14 @@ rules:
         title: "Sólo se puede escribir RE durante los primeros 40 segundos de una carrera debido a un factor externo no relacionado con el juego."
         subtitle: "Sólo se concederá 1 Repetición por pista (Diciendo RE). Si alguien preguntó por un RE antes de hacerlo, el host no se reiniciará de nuevo."
       9: "El multiplicador acumulado de cualquier auto nunca superará los 4,0."
-    c:
-      title: "C. Servidor de Discord"
+    d:
+      title: "D. Servidor de Discord"
       1: "Debes seguir y atenerte a los <a class='text-primary' href='https://discord.com/terms' target='_blank'>Términos de Servicio de Discord</a>. El incumplimiento de estos términos puede resultar en tu expulsión de Re-Volt America."
       2: "Manténgase en el tema respectivo para cada canal."
       3: "No acose a otros usuarios."
       4: "Multimedia que pueda causar fallas en el cliente de Discord de otros usuarios o contenido <em>muy explícito</em> será borrado, y será castigado por publicarlo."
-    d:
-      title: "D. Consecuencias"
+    e:
+      title: "E. Consecuencias"
       1: "No seguir cualquiera de las reglas en la sección de Carreras y Puntaje forzará al jugador en modo espectador (También llamado Specced<small class='text-success'>(2)</small>) en nuestras sesiones, o <em>expulsado</em> si esta actitud persiste."
       2: "Los usuarios pueden ser <em>kickeados</em> de nuestro servidor de Discord por romper las reglas, o <em>baneado</em> si la falta es severa."
       3: "Evitar las prohibiciones de Discord también resultara en expulsión eventualmente."

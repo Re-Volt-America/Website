@@ -61,7 +61,14 @@ rules:
       4: "직원분들의 설명을 따라주세요."
       5: "네티켓을 지켜주세요. 정말 어렵지 않습니다!"
     b:
-      title: "B. 레이스 & 점수"
+      title: "B. Creating a Username"
+      1:
+        title: "To play Re-Volt you must choose a username, and to be indexed into the official RVA rankings players must choose a nickname which abides to the following guidelines:"
+        bullet1: "Your nickname must have from 1 to 16 characters."
+        bullet2: "Your nickname may contain any characters from A-Z (uppercase or lowercase), numbers, underscores and blank spaces."
+        bullet3: "Your nickname must be unique! If you are not sure, you may ask the staff team to find out if the username you want is already being used by another player."
+    c:
+      title: "C. 레이스 & 점수"
       1: "코스 & 아래에 있는 규칙을 따르는 클래스의 차량만 사용이 가능합니다. (입문자, 아마추어, 숙련자 등)"
       2:
         title: "아래에 있는 차량을 사용할 시 큰 점수 보너스가 지급됩니다:"
@@ -79,14 +86,14 @@ rules:
         title: "외부 비 게임 관련 요인으로 인해 레이스의 처음 40초 동안 RE(재시작)을 입력할 수 있습니다."
         subtitle: "Only 1 RE per track will be granted. If somebody asked for RE before you did, then the host will not restart again."
       9: "The accumulated multiplier of any car will never exceed 4.0."
-    c:
-      title: "C. Discord 서버"
+    d:
+      title: "D. Discord 서버"
       1: "<a class='text-primary' href='https://discord.com/terms' target='_blank'>Discord 서비스 이용 약관</a>을 따르고 준수해야 합니다. 그렇지 않으면 Re-Volt America에서 차단될 것입니다."
       2: "채널 내에서 주제를 벗어나지 마세요."
       3: "다른 사용자를 괴롭히지 마세요."
       4: "다른 사용자의 Discord 클라이언트를 중단시킬 수 있는 미디어 또는 매우 노골적인 콘텐츠는 삭제되며 게시한 것에 대해 처벌을 받을 수 있습니다."
-    d:
-      title: "D. 처벌"
+    e:
+      title: "E. 처벌"
       1: "레이스 및 채점 규칙을 따르지 않으면 로비에 speced<small class='text-success'>(2)</small> 될 수 있으며 규칙 위반을 고집하면 <em>추방</em>당할 수 있습니다."
       2: "Discord 서버의 규칙을 위반 시 사용자는 <em>추방</em>당할 것 입니다. 규칙의 위반이 심하다면 <em>차단</em>될 것입니다."
       3: "Discord 금지를 회피하면 결국 금지됩니다. 저희는 찾아낼 것입니다."

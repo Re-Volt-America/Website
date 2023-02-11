@@ -61,7 +61,14 @@ rules:
       4: "Sempre obedecer as instruções dos administradores do servidor."
       5: "Use seu senso comum. Não é difícil!"
     b:
-      title: "B. Corridas e Pontuação"
+      title: "B. Creating a Username"
+      1:
+        title: "To play Re-Volt you must choose a username, and to be indexed into the official RVA rankings players must choose a nickname which abides to the following guidelines:"
+        bullet1: "Your nickname must have from 1 to 16 characters."
+        bullet2: "Your nickname may contain any characters from A-Z (uppercase or lowercase), numbers, underscores and blank spaces."
+        bullet3: "Your nickname must be unique! If you are not sure, you may ask the staff team to find out if the username you want is already being used by another player."
+    c:
+      title: "C. Corridas e Pontuação"
       1: "Você pode utilizar carros de classes equivalentes ou menor. (Novato, Amador, Avançado, etc.)"
       2:
         title: "Usar um carro de classe menor lhe dará os seguintes benefícios de pontuação:"
@@ -79,14 +86,14 @@ rules:
         title: "Você pode pedir \"RE\" durante os primeiros 40 segundos de uma corrida por razões externas somente."
         subtitle: "Apenas 1 RE por pista será concedida. Se alguém pedir RE antes de você, o host não irá reiniciar novamente."
       9: "O multiplicador acumulado de qualquer carro nunca excederá 4.0."
-    c:
-      title: "C. Servidor Discord"
+    d:
+      title: "D. Servidor Discord"
       1: "Você deve seguir e obedecer aos <a class='text-primary' href='https://discord.com/terms' target='_blank'>Termos de Serviço do Discord</a>. O não cumprimento poderá resultar em seu banimento."
       2: "Siga os tópicos de cada canal."
       3: "Não insultar outros usuários."
       4: "Qualquer mídia que cause o discord de outros usuários de travar ou de conteúdo <em>explícito</em> será deletado, você poderá ser penalizado."
-    d:
-      title: "D. Punições"
+    e:
+      title: "E. Punições"
       1: "Não seguir as regras de \"Corrida & Pontuação\" pode resultar no host te forçar a spectator <small class='text-success'>(2)</small> nos nossos lobbies, ou <em>expulso</em> se você insistir em quebrar nossas regras."
       2: "Usuários podem ser <em>expulsos</em> do nosso servidor do Discord por violar as regras. Se a violação da regra for severa, você pode ser <em>banido</em>."
       3: "Evitar banimentos no Discord vai te banir eventualmente. Nós vamos descobrir."
