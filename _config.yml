@@ -55,11 +55,6 @@ defaults:
     values:
       layout: default
   - scope:
-      path: ""
-      type: seasons
-    values:
-      layout: default
-  - scope:
       path: emoji/unicode
     values:
       emoji: true
