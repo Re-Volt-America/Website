@@ -182,7 +182,6 @@ error:
 alerts:
   1: "Estamos jogando agora mesmo! IP do Lobby:"
   2: "RVA - Nova Atualização Disponível!"
-
 seasons:
   season: "Temporada"
   unavailable: "Resultados Indisponíveis"

@@ -182,7 +182,6 @@ error:
 alerts:
   1: "¡Estamos jugando ya! IP de la Sala:"
   2: "¡Nueva actualización del Pack de RVA disponible!"
-
 seasons:
   season: "Temporada"
   unavailable: "Resultados no disponibles"
