@@ -182,8 +182,6 @@ error:
 alerts:
   1: "Siamo giocando adesso! IP Sessione:"
   2: "Nuovo Aggiornamento del Pacchetto RVA disponibile!"
-emoji:
-  title: "Emojis di RVA"
 seasons:
   season: "Stagione"
   unavailable: "Risultati non disponibili"

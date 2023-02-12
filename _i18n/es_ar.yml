@@ -182,8 +182,6 @@ error:
 alerts:
   1: "¡Estamos jugando ahora! IP de Lobby:"
   2: "¡Nueva actualización del pack de RVA está disponible!"
-emoji:
-  title: "Emojis RVA"
 seasons:
   season: "Temporada"
   unavailable: "Resultados no disponibles"

@@ -55,10 +55,6 @@ defaults:
     values:
       layout: default
   - scope:
-      path: emoji/unicode
-    values:
-      emoji: true
-  - scope:
       path: assets/img/i18n
     values:
       locale_flag: true
@@ -69,4 +65,3 @@ emoji:
 plugins:
   - jekyll-multiple-languages-plugin
   - jekyll-sitemap
-  - jemoji
