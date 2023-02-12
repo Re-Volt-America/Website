@@ -182,8 +182,6 @@ error:
 alerts:
   1: "우리는 현재 플레이 중입니다! 로비 IP:"
   2: "새로운 RVA 팩 업데이트가 가능합니다!"
-emoji:
-  title: "RVA 이모지"
 seasons:
   season: "시즌"
   unavailable: "사용 불가능한 결과"
