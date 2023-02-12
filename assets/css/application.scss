@@ -9,7 +9,6 @@
 @import "clock";
 @import "downloads";
 @import "download_card";
-@import "emoji";
 @import "footer";
 @import "nav";
 @import "play";
@@ -20,7 +19,7 @@
 
 @font-face {
     font-family: NissanOpti;
-    src: url(NissanOpti.otf);
+    src: url(./fonts/NissanOpti.otf);
 }
 
 body {
