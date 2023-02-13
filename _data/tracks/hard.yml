@@ -10,18 +10,21 @@ ghost_town_2:
 airport_1:
   name: "Airport 1"
   length: "M"
-antigrav_sc:
-  name: "Antigrav SC"
-  length: "M"
 castle_2:
   name: "Castle 2"
   length: "L"
+district_1:
+  name: "Desolate District 1"
+  length: "M"
 game_room_2:
   name: "Game Room 2"
   length: "M"
 holiday_camp:
   name: "Holiday Camp: California Edition"
   length: "XL"
+home_2:
+  name: "Home 2"
+  length: "M"
 hospital_1:
   name: "Hospital 1"
   length: "M"
@@ -46,18 +49,9 @@ port_limano_2:
 rooftop_chase:
   name: "Rooftop Chase: Redux"
   length: "M"
-rv_temple:
-  name: "RV Temple"
-  length: "XL"
 sakura:
   name: "Sakura"
   length: "L"
-spooktober_sss:
-  name: "Spooktober Super Special Stage"
-  length: "L"
-the_reactor:
-  name: "The Reactor"
-  length: "S"
 venice:
   name: "Venice"
   length: "M"
