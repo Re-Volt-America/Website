@@ -12,7 +12,7 @@ administrator:
       role: "Programming & Technology"
       image: "bgm.png"
       media:
-        email: "jose@bgm.cl"
+        email: "bgm@rva.lat"
         discord: "BGM#1559"
         github: "BGMP"
     - name: "Gforce"
@@ -23,6 +23,7 @@ administrator:
     - name: "TT"
       role: "Custom Content Pack Management"
       image: "tt.png"
+      email: "tt@rva.lat"
       media:
         discord: "Y100XTT#9497"
         github: "Y100XTT"
@@ -34,6 +35,7 @@ administrator:
     - name: "EstebanMz"
       role: "Custom Content Pack Management"
       image: "esteban.jpg"
+      email: "estebanmz@rva.lat"
       media:
         discord: "EstebanMz#4398"
         github: "EstebanMz"
@@ -46,7 +48,7 @@ developer:
       role: "Lead Developer"
       image: "bgm.png"
       media:
-        email: "jose@bgmp.cl"
+        email: "bgm@rva.lat"
         discord: "BGM#1559"
         github: "BGMP"
 moderator:
