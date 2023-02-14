@@ -19,20 +19,23 @@ botanical_garden_ex:
 calaboq:
   name: "Calaboq"
   length: "M"
+casino_rv:
+  name: "Casino RV"
+  length: "M"
 castle_1:
   name: "Castle 1"
   length: "L"
-ds_desert_hills:
-  name: "DS Desert Hills"
+cond_fumado:
+  name: "Conduciendo Fumado"
+  length: "M"
+fairground_1:
+  name: "Fairground 1"
   length: "S"
 h(8)ty:
   name: "H(8)TY"
   length: "S"
 port_limano_1:
   name: "Port Limano 1"
-  length: "S"
-rc_stadium_2:
-  name: "RC Stadium 2"
   length: "S"
 rigs_highway:
   name: "Rigs Highway"
@@ -46,3 +49,6 @@ stadvolt:
 subway_2:
   name: "Subway 2"
   length: "XL"
+white_rose:
+  name: "White Rose Chapel"
+  length: "M"

@@ -16,12 +16,6 @@ toy_world_1:
 home_1:
   name: "Home 1"
   length: "S"
-rc_stadium_1:
-  name: "RC Stadium 1"
-  length: "M"
 tetanic:
   name: "Tetanic"
-  length: "M"
-toys_in_the_night:
-  name: "Toys in the Night"
   length: "M"

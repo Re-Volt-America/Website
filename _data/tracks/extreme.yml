@@ -1,6 +1,9 @@
 museum_1:
   name: "Museum 1"
   length: "M"
+fairground_2:
+  name: "Fairground 2"
+  length: "L"
 grisville:
   name: "Grisville"
   length: "M"
@@ -21,6 +24,9 @@ quake!:
   length: "L"
 rooftops_1:
   name: "Rooftops 1"
+  length: "L"
+school_thug2:
+  name: "School 1 (THUG2)"
   length: "L"
 schools_out_2:
   name: "School's Out! 2"
