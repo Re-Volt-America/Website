@@ -69,7 +69,7 @@ rules:
         bullet3: "¡Tu nombre de usuario debe ser único! Si no estás seguro, puedes preguntarle al personal para ver si el nombre de usuario que quieres ya está siendo usado por otro jugador."
     c:
       title: "C. Carreras y puntuación"
-      1: "Puedes utilizar coches de la clase en curso e inferiores. (rookie, amateur, advanced, etc.)"
+      1: "Puedes utilizar coches de la clase en curso e inferiores. (novato, amateur, avanzado, etc.)"
       2:
         title: "Usar un coche por debajo de la clase en curso otorgará las siguientes bonificaciones de puntaje:"
         bullet1: "Una clase por debajo: <b>25%</b>."
@@ -165,7 +165,7 @@ assets:
     4: "Usar nuestro arte sin nuestro consentimiento"
     5: "Cambiar los colores, dimensiones o añadir tu propio texto o imágenes"
   contact:
-    title: "Por favor contáctanos"
+    title: "Por favor, contáctanos"
     1: "Si quieres usar arte no incluído en este repositorio"
     2: "Si quieres usar estas imágenes en un video o medio de comunicación"
   naming:
@@ -193,7 +193,7 @@ classes:
   pro: "Pro"
   super-pro: "Súper-Pro"
   clockwork: "Clockwork"
-  random: "Random"
+  random: "Aleatorio"
 misc:
   download: "Descargar"
   search: "Buscar"
