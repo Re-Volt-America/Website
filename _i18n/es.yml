@@ -112,8 +112,8 @@ points:
     p1: "En Re-Volt America, a los corredores se les asignan puntos por cada carrera que juegan, los cuales varían dependiendo de la posición en la que finalicen. La siguiente imagen ilustra qué posiciones otorgan qué cantidad de puntos:"
     p2: "Las salas que comienzan con 10 o más corredores tienen puntos bonus. La siguiente imágen ilustra el sistema de puntuación con los puntos bonus en juego:"
   car-ratings:
-    title: "Ratings de los coches"
-    p1: "Los coches son clasificados según su velocidad máxima, aceleración, peso, etc. y cada clasificación resulta en un multiplicador para cada coche. El <b style='color: #c6c67d'>rayo amarillo</b> representa dicho multiplicador para los coches en la siguiente imagen:"
+    title: "Clasificaciones de los coches"
+    p1: "Los coches son clasificados según su velocidad máxima, aceleración, peso, etc. Cada clasificación resulta en un multiplicador para cada coche. El <b style='color: #c6c67d'>rayo amarillo</b> representa dicho multiplicador para los coches en la siguiente imagen:"
     p2: "Con esto en mente, los 15 puntos de primeros lugares, en tres coches diferentes, variarían dependiendo de sus multiplicadores:"
   variables:
     title: "Variables"
@@ -146,7 +146,7 @@ rva:
       title: "Colección de pistas de Re-Volt America"
   cars:
     title: "Coches"
-    ratings-link: "Ratings de los coches"
+    ratings-link: "Clasificaciones de los coches"
     class-selector:
       title: "Clases"
 assets:
@@ -158,7 +158,7 @@ assets:
     2: "Usar nuestro logo para anunciar que te integras con RVA"
     3: "Usar nuestro logo en blogs o artículos acerca de RVA"
   prohibited:
-    title: "Uso prohibído"
+    title: "Uso prohibido"
     1: "Usar nuestro logo como el ícono de tu aplicación"
     2: "Crear una versión modificada de cualquiera de nuestros logos"
     3: "Integrar cualquiera de nuestros logos en tu logo"
