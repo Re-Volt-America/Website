@@ -131,7 +131,7 @@ rva:
       difficulty:
         title: "Dificultad"
         easy: "Fácil"
-        medium: "Mediana"
+        medium: "Media"
         hard: "Difícil"
         extreme: "Extrema"
       length:
