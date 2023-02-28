@@ -69,7 +69,7 @@ rules:
         bullet3: "¡Tu nombre de usuario debe ser único! Si no estás seguro, puedes preguntarle al personal para ver si el nombre de usuario que quieres ya está siendo usado por otro jugador."
     c:
       title: "C. Carreras y puntuación"
-      1: "Puedes utilizar coches de la clase en curso e inferiores. (rookie, amateur, advanced, etc.)"
+      1: "Puedes utilizar coches de la clase en curso e inferiores. (novato, amateur, avanzado, etc.)"
       2:
         title: "Usar un coche por debajo de la clase en curso otorgará las siguientes bonificaciones de puntaje:"
         bullet1: "Una clase por debajo: <b>25%</b>."
@@ -112,8 +112,8 @@ points:
     p1: "En Re-Volt America, a los corredores se les asignan puntos por cada carrera que juegan, los cuales varían dependiendo de la posición en la que finalicen. La siguiente imagen ilustra qué posiciones otorgan qué cantidad de puntos:"
     p2: "Las salas que comienzan con 10 o más corredores tienen puntos bonus. La siguiente imágen ilustra el sistema de puntuación con los puntos bonus en juego:"
   car-ratings:
-    title: "Ratings de los coches"
-    p1: "Los coches son clasificados según su velocidad máxima, aceleración, peso, etc. y cada clasificación resulta en un multiplicador para cada coche. El <b style='color: #c6c67d'>rayo amarillo</b> representa dicho multiplicador para los coches en la siguiente imagen:"
+    title: "Clasificaciones de los coches"
+    p1: "Los coches son clasificados según su velocidad máxima, aceleración, peso, etc. Cada clasificación resulta en un multiplicador para cada coche. El <b style='color: #c6c67d'>rayo amarillo</b> representa dicho multiplicador para los coches en la siguiente imagen:"
     p2: "Con esto en mente, los 15 puntos de primeros lugares, en tres coches diferentes, variarían dependiendo de sus multiplicadores:"
   variables:
     title: "Variables"
@@ -146,7 +146,7 @@ rva:
       title: "Colección de pistas de Re-Volt America"
   cars:
     title: "Coches"
-    ratings-link: "Ratings de los coches"
+    ratings-link: "Clasificaciones de los coches"
     class-selector:
       title: "Clases"
 assets:
@@ -158,14 +158,14 @@ assets:
     2: "Usar nuestro logo para anunciar que te integras con RVA"
     3: "Usar nuestro logo en blogs o artículos acerca de RVA"
   prohibited:
-    title: "Uso prohibído"
+    title: "Uso prohibido"
     1: "Usar nuestro logo como el ícono de tu aplicación"
     2: "Crear una versión modificada de cualquiera de nuestros logos"
     3: "Integrar cualquiera de nuestros logos en tu logo"
     4: "Usar nuestro arte sin nuestro consentimiento"
     5: "Cambiar los colores, dimensiones o añadir tu propio texto o imágenes"
   contact:
-    title: "Por favor contáctanos"
+    title: "Por favor, contáctanos"
     1: "Si quieres usar arte no incluído en este repositorio"
     2: "Si quieres usar estas imágenes en un video o medio de comunicación"
   naming:
@@ -193,7 +193,7 @@ classes:
   pro: "Pro"
   super-pro: "Súper-Pro"
   clockwork: "Clockwork"
-  random: "Random"
+  random: "Aleatorio"
 misc:
   download: "Descargar"
   search: "Buscar"
