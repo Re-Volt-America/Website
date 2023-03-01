@@ -131,7 +131,7 @@ rva:
       difficulty:
         title: "Dificultad"
         easy: "Fácil"
-        medium: "Mediana"
+        medium: "Media"
         hard: "Difícil"
         extreme: "Extrema"
       length:
@@ -170,7 +170,7 @@ assets:
     2: "Si quieres usar estas imágenes en un video o medio de comunicación"
   naming:
     title: "Nombrar proyectos y productos"
-    1: "Por favor evita nombrar tus proyectos de tal manera que impliquen el espaldo de Re-Volt America. Esto también aplica a nombres de dominio."
+    1: "Por favor, evita nombrar tus proyectos de tal manera que impliquen el espaldo de Re-Volt America. Esto también aplica a nombres de dominio."
   attribution:
     title: "Atribución"
     1: "Otros recursos como imágenes de clasificación de coches, imágenes de pistas, emoticonos, etc... son hechos por miembros de nuestra comunidad y todos los derechos pertenecen a sus respectivos autores"
