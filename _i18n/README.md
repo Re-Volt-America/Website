@@ -16,5 +16,5 @@ First, go to `_i18n/strings.yml` and add a new key. Always make sure that the ym
 within their section's group, for example, all navbar strings are stored under the `nav.` yml key.
 
 Then, go to your code and use `{ t path.in.strings.yml }` to have it be translated. Note that you only have to add the translation key!
-All the locale files (es_es.yml, pt_br.yml, etc.) are **NOT** to be manually modified, as they come from Crowdin and are added
+All the locale files (es.yml, pt_br.yml, etc.) are **NOT** to be manually modified, as they come from Crowdin and are added
 to the project in batches.
