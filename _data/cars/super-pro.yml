@@ -174,13 +174,6 @@ super-pro:
     acc: 5.66
     weight: 2.0
     multiplier: 1.0
-  megalodon_xl:
-    name: Megalodon XL
-    slug: megalodon_xl
-    speed: 77.1
-    acc: 3.73
-    weight: 2.2
-    multiplier: 1.0
   king_kaiju:
     name: King Kaiju
     slug: king_kaiju
@@ -194,6 +187,13 @@ super-pro:
     speed: 77
     acc: 3
     weight: 2.7
+    multiplier: 1.0
+  megalodon_xl:
+    name: Megalodon XL
+    slug: megalodon_xl
+    speed: 77.1
+    acc: 3.73
+    weight: 2.2
     multiplier: 1.0
   saeger:
     name: Saeger

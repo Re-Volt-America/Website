@@ -132,13 +132,6 @@ semi-pro:
     acc: 2.46
     weight: 2
     multiplier: 0.9
-  sneaky:
-    name: Sneaky
-    slug: sneaky
-    speed: 56.4
-    acc: 3.3
-    weight: 0.84
-    multiplier: 0.9
   m4_dirtmaster:
     name: M4 Dirtmaster
     slug: m4_dirtmaster
@@ -159,6 +152,13 @@ semi-pro:
     speed: 61.2
     acc: 2.48
     weight: 3
+    multiplier: 0.9
+  sneaky:
+    name: Sneaky
+    slug: sneaky
+    speed: 56.4
+    acc: 3.3
+    weight: 0.84
     multiplier: 0.9
   speed_balancer:
     name: Speed Balancer

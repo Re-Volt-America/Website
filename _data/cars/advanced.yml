@@ -146,13 +146,6 @@ advanced:
     acc: 2.5
     weight: 1.75
     multiplier: 0.9
-  ynz:
-    name: YNZ
-    slug: ynz
-    speed: 58.5
-    acc: 2.16
-    weight: 1.7
-    multiplier: 0.9
   llag_sat:
     name: Llag Sat
     slug: llag_sat
@@ -160,10 +153,24 @@ advanced:
     acc: 2.13
     weight: 3.2
     multiplier: 0.9
+  ynz:
+    name: YNZ
+    slug: ynz
+    speed: 58.5
+    acc: 2.16
+    weight: 1.7
+    multiplier: 0.9
   panga_tc:
     name: Panga TC
     slug: panga_tc
     speed: 59.6
+    acc: 2.13
+    weight: 1.8
+    multiplier: 1.0
+  shocker:
+    name: Shocker
+    slug: shocker
+    speed: 57.0
     acc: 2.13
     weight: 1.8
     multiplier: 1.0
@@ -173,13 +180,6 @@ advanced:
     speed: 55.9
     acc: 2.23
     weight: 1.2
-    multiplier: 1.0
-  shocker:
-    name: Shocker
-    slug: shocker
-    speed: 57.0
-    acc: 2.13
-    weight: 1.8
     multiplier: 1.0
   marauder:
     name: Marauder
@@ -195,19 +195,19 @@ advanced:
     acc: 2.34
     weight: 2.0
     multiplier: 1.1
-  panther:
-    name: Panther
-    slug: panther
-    speed: 62.7
-    acc: 2.18
-    weight: 1.7
-    multiplier: 1.1
   flower_power:
     name: Flower Power
     slug: flower_power
     speed: 57.6
     acc: 2.76
     weight: 1.6
+    multiplier: 1.1
+  panther:
+    name: Panther
+    slug: panther
+    speed: 62.7
+    acc: 2.18
+    weight: 1.7
     multiplier: 1.1
   bossvolt:
     name: BossVolt
