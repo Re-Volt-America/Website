@@ -1,4 +1,11 @@
 pro:
+  toyeca:
+    name: Toyeca
+    slug: toyeca
+    speed: 64.6
+    acc: 3.21
+    weight: 2.0
+    multiplier: 0.7
   snw_35:
     name: SNW 35
     slug: snw_35
@@ -54,13 +61,6 @@ pro:
     speed: 63.9
     acc: 3.34
     weight: 1.5
-    multiplier: 0.7
-  toyeca:
-    name: Toyeca
-    slug: toyeca
-    speed: 64.6
-    acc: 3.21
-    weight: 2.0
     multiplier: 0.7
   abomin8r:
     name: Abomin8r
@@ -132,13 +132,6 @@ pro:
     acc: 3.66
     weight: 1.0
     multiplier: 1.0
-  visconti_r:
-    name: Visconti R
-    slug: visconti_r
-    speed: 63
-    acc: 3.43
-    weight: 1.8
-    multiplier: 1.0
   karen:
     name: Karen
     slug: karen
@@ -152,6 +145,13 @@ pro:
     speed: 66.4
     acc: 3.18
     weight: 1.25
+    multiplier: 1.0
+  visconti_r:
+    name: Visconti R
+    slug: visconti_r
+    speed: 63
+    acc: 3.43
+    weight: 1.8
     multiplier: 1.0
   wildstar:
     name: Wildstar
