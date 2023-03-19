@@ -34,6 +34,13 @@ pro:
     acc: 3.79
     weight: 1.5
     multiplier: 0.7
+  exe_tc:
+    name: EXE TC
+    slug: exe_tc
+    speed: 64.2
+    acc: 3.61
+    weight: 1.9
+    multiplier: 0.7
   g3x:
     name: G3X
     slug: g3x
@@ -75,13 +82,6 @@ pro:
     speed: 61.3
     acc: 3.73
     weight: 1.6
-    multiplier: 0.8
-  exe_tc:
-    name: EXE TC
-    slug: exe_tc
-    speed: 64.2
-    acc: 3.61
-    weight: 1.9
     multiplier: 0.8
   zs-9:
     name: ZS-9
