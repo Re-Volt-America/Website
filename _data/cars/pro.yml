@@ -61,7 +61,7 @@ pro:
     speed: 64.6
     acc: 3.21
     weight: 2.0
-    multiplier: 0.8
+    multiplier: 0.7
   abomin8r:
     name: Abomin8r
     slug: abomin8r
@@ -118,13 +118,6 @@ pro:
     acc: 3.07
     weight: 1.7
     multiplier: 0.9
-  visconti_r:
-    name: Visconti R
-    slug: visconti_r
-    speed: 63
-    acc: 3.43
-    weight: 1.8
-    multiplier: 0.9
   y_force:
     name: Y Force
     slug: y_force
@@ -139,26 +132,19 @@ pro:
     acc: 3.66
     weight: 1.0
     multiplier: 1.0
+  visconti_r:
+    name: Visconti R
+    slug: visconti_r
+    speed: 63
+    acc: 3.43
+    weight: 1.8
+    multiplier: 1.0
   karen:
     name: Karen
     slug: karen
     speed: 65
     acc: 2.87
     weight: 1.8
-    multiplier: 1.0
-  sir_gleam:
-    name: Sir Gleam
-    slug: sir_gleam
-    speed: 67.3
-    acc: 4.44
-    weight: 1
-    multiplier: 1.0
-  stadium_star:
-    name: Stadium Star
-    slug: stadium_star
-    speed: 63.8
-    acc: 2.88
-    weight: 2
     multiplier: 1.0
   sucker_punch:
     name: Sucker Punch
@@ -195,6 +181,13 @@ pro:
     acc: 2.93
     weight: 1.5
     multiplier: 1.1
+  sir_gleam:
+    name: Sir Gleam
+    slug: sir_gleam
+    speed: 67.3
+    acc: 4.44
+    weight: 1
+    multiplier: 1.2
   rc_bulldog:
     name: RC Bulldog
     slug: rc_bulldog
@@ -236,6 +229,13 @@ pro:
     speed: 67.9
     acc: 2.31
     weight: 1.0
+    multiplier: 2.5
+  stadium_star:
+    name: Stadium Star
+    slug: stadium_star
+    speed: 63.8
+    acc: 2.88
+    weight: 2
     multiplier: 2.5
   fulon_x:
     name: Fulon X

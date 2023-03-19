@@ -27,13 +27,6 @@ semi-pro:
     acc: 2.58
     weight: 1.7
     multiplier: 0.7
-  ducktail:
-    name: Ducktail
-    slug: ducktail
-    speed: 60
-    acc: 2.46
-    weight: 2
-    multiplier: 0.7
   sokudo:
     name: Sokudo
     slug: sokudo
@@ -118,13 +111,6 @@ semi-pro:
     acc: 2.77
     weight: 1.6
     multiplier: 0.8
-  sneaky:
-    name: Sneaky
-    slug: sneaky
-    speed: 56.4
-    acc: 3.3
-    weight: 0.84
-    multiplier: 0.8
   teacee:
     name: Teacee
     slug: teacee
@@ -139,6 +125,20 @@ semi-pro:
     acc: 3.08
     weight: 2.0
     multiplier: 0.8
+  ducktail:
+    name: Ducktail
+    slug: ducktail
+    speed: 60
+    acc: 2.46
+    weight: 2
+    multiplier: 0.9
+  sneaky:
+    name: Sneaky
+    slug: sneaky
+    speed: 56.4
+    acc: 3.3
+    weight: 0.84
+    multiplier: 0.9
   m4_dirtmaster:
     name: M4 Dirtmaster
     slug: m4_dirtmaster
