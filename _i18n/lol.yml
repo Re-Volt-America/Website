@@ -10,6 +10,7 @@ nav:
   players:
     title: "Playazz"
     staff: "Stuuuff"
+    discord: "Discord"
   ranking:
     title: "KATISTICS"
     points: "pointz stuffz"
@@ -214,3 +215,7 @@ staff:
     developer: "Divilupurrrz"
     moderator: "Modekatorzzz"
     organizer: "Urganizurrzzz"
+discord:
+  title: "Discord Servers"
+  description: "Re-Volt Discord Servers!"
+  join: "Join Server"
