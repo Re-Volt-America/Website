@@ -10,6 +10,7 @@ nav:
   players:
     title: "플레이어"
     staff: "직원"
+    discord: "Discord"
   ranking:
     title: "랭킹"
     points: "포인트 시스템"
@@ -214,3 +215,7 @@ staff:
     developer: "개발자"
     moderator: "운영자"
     organizer: "주최자"
+discord:
+  title: "Discord Servers"
+  description: "Re-Volt Discord Servers!"
+  join: "Join Server"
