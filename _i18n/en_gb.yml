@@ -10,6 +10,7 @@ nav:
   players:
     title: "Players"
     staff: "Staff"
+    discord: "Discord"
   ranking:
     title: "Ranking"
     points: "Points System"
@@ -214,3 +215,7 @@ staff:
     developer: "Developers"
     moderator: "Moderators"
     organizer: "Organisers"
+discord:
+  title: "Discord Servers"
+  description: "Re-Volt Discord Servers!"
+  join: "Join Server"
