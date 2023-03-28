@@ -1,0 +1,70 @@
+---
+permalink: /discord
+title: Discord
+description: Re-Volt Discord servers.
+---
+
+<h2 style="margin-bottom: -0.7rem;">
+    <i class="fab fa-discord" aria-hidden="true"></i>
+    <b>{% t discord.title %}  <small class="discord-description">{% t discord.description %}</small></b>
+</h2>
+<hr/>
+
+<div id="discord" class="container">
+    <div class="text-center">
+        <div class="row justify-content-center">
+            <div class="discord-card">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="text-center">
+                            <h2 class="car-title">{{ site.org }}</h2>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <img class="card-img-top" src="{{ site.url }}/assets/img/discord/rva.png" alt="">
+                    </div>
+                    <div class="card-footer">
+                        <div class="row">
+                            <div class="col text-center">
+                                <a target="{{ target }}" href="{{ download_link }}">
+                                    <button type="button" class="btn btn-sm btn-outline-secondary">
+                                        {% t discord.join %}
+                                    </button>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="text-center">
+        <div class="row">
+            {% for server in site.data.discord %}
+                <div class="discord-card col-xl-3 col-lg-4 cl-md-4 col-sm-6 col-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <div class="text-center">
+                                <h2 class="car-title">{{ server[1].name }}</h2>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <img class="card-img-top" src="{{ site.url }}/assets/img/discord/{{ server[0] }}.png" alt="">
+                        </div>
+                        <div class="card-footer">
+                            <div class="row">
+                                <div class="col text-center">
+                                    <a target="{{ target }}" href="{{ server[1].invite }}">
+                                        <button type="button" class="btn btn-sm btn-outline-secondary">
+                                            {% t discord.join %}
+                                        </button>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
