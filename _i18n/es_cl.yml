@@ -62,7 +62,7 @@ rules:
       4: "Siempre sigue las direcciones entregadas por los miembros del staff."
       5: "Usa tu sentido común. No es tan difícil, en serio!"
     b:
-      title: "B. Creating a Username"
+      title: "B. Nombre de usuario"
       1:
         title: "To play Re-Volt you must choose a username, and to be indexed into the official RVA rankings players must choose a nickname which abides to the following guidelines:"
         bullet1: "Your nickname must have from 1 to 16 characters."
@@ -216,6 +216,6 @@ staff:
     moderator: "Moderadores"
     organizer: "Organizadores"
 discord:
-  title: "Discord Servers"
-  description: "Re-Volt Discord Servers!"
-  join: "Join Server"
+  title: "Servidores de Discord"
+  description: "Servidores de Re-Volt!"
+  join: "Entrar"
