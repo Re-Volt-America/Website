@@ -216,6 +216,6 @@ staff:
     moderator: "Moderadores"
     organizer: "Organizadores"
 discord:
-  title: "Discord Servers"
-  description: "Re-Volt Discord Servers!"
-  join: "Join Server"
+  title: "Servidores de Discord"
+  description: "¡Servidores de Discord de Re-Volt!"
+  join: "Unirse al servidor"
