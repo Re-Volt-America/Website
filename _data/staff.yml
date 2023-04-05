@@ -13,7 +13,7 @@ administrator:
       image: "bgm.png"
       media:
         email: "bgm@rva.lat"
-        discord: "BGM#1559"
+        discord: "BGM#3867"
         github: "BGMP"
     - name: "Gforce"
       image: "gforce.png"
@@ -49,7 +49,7 @@ developer:
       image: "bgm.png"
       media:
         email: "bgm@rva.lat"
-        discord: "BGM#1559"
+        discord: "BGM#3867"
         github: "BGMP"
 moderator:
   name: "staff.groups.moderator"
