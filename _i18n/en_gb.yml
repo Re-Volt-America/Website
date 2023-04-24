@@ -9,6 +9,7 @@ nav:
     cars: "Cars"
   players:
     title: "Players"
+    teams: "Teams"
     staff: "Staff"
     discord: "Discord"
   ranking:
@@ -150,6 +151,10 @@ rva:
     ratings-link: "Car Ratings"
     class-selector:
       title: "Classes"
+teams:
+  title: "RVA Teams"
+  leader: "Leader"
+  members: "Members"
 assets:
   title: "LOGOS & USAGE"
   subtitle: "A collection of our main assets, crafted by the talented <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, which you can download to integrate with RVA or link back to us!"
