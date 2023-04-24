@@ -9,6 +9,7 @@ nav:
     cars: "Auto"
   players:
     title: "Giocatori"
+    teams: "Teams"
     staff: "Staff"
     discord: "Discord"
   ranking:
@@ -150,6 +151,10 @@ rva:
     ratings-link: "Valutazioni Auto"
     class-selector:
       title: "Classi"
+teams:
+  title: "RVA Teams"
+  leader: "Leader"
+  members: "Members"
 assets:
   title: "Logo & Utilizzi"
   subtitle: "Una collezzione delle nostre risorse principali, realizzate dalla talentuosa <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, che puoi scaricare per integrarti con RVA o per riferirti a noi!"
