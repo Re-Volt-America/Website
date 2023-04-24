@@ -9,8 +9,9 @@ nav:
     cars: "Cars 2"
   players:
     title: "Playazz"
+    teams: "Teams"
     staff: "Stuuuff"
-    discord: "Discord"
+    discord: "Discoword"
   ranking:
     title: "KATISTICS"
     points: "pointz stuffz"
@@ -62,12 +63,12 @@ rules:
       4: "Respecc importnt kittheh :3"
       5: "Thonk. it not diffikult!"
     b:
-      title: "B. Creating a Username"
+      title: "B. Maek ur usernaem"
       1:
-        title: "To play Re-Volt you must choose a username, and to be indexed into the official RVA rankings players must choose a nickname which abides to the following guidelines:"
-        bullet1: "Your nickname must have from 1 to 16 characters."
-        bullet2: "Your nickname may contain any characters from A-Z (uppercase or lowercase), numbers, underscores and blank spaces."
-        bullet3: "Your nickname must be unique! If you are not sure, you may ask the staff team to find out if the username you want is already being used by another player."
+        title: "2 play rivol u must chose a usernaem, an 2 be indxd into da iffishul rVa rankingz catz must choos a naem which abdiz 2 da followin:"
+        bullet1: "ur nicknaem muzrt haev frawm 1 to 16 chars!"
+        bullet2: "ur nicknaem can has any chars frawm A2Z (big or smol), numbrz, underscors and blanks"
+        bullet3: "ur nicknaem muzt be uniqueEE!! if ur not suer, u may ask da important kittehs team 2 find out if the useaernaem u want is lrdy taekn by another kitteh."
     c:
       title: "C. Raecs n scorin"
       1: "u mya uz kars fraem da class ov rn and below. (rookei, amatueur, avdancd etc)"
@@ -150,6 +151,10 @@ rva:
     ratings-link: "Carz gud or bad"
     class-selector:
       title: "clazzez"
+teams:
+  title: "RVA Teams"
+  leader: "Leader"
+  members: "Members"
 assets:
   title: "LOGOWOS & USAEG"
   subtitle: "Logos maed by Hylia! u can get :DDDD"
@@ -216,6 +221,6 @@ staff:
     moderator: "Modekatorzzz"
     organizer: "Urganizurrzzz"
 discord:
-  title: "Discord Servers"
-  description: "Re-Volt Discord Servers!"
-  join: "Join Server"
+  title: "Discoword servurs"
+  description: "Rivol Discorwd servrsss!!!!!"
+  join: "GO"
