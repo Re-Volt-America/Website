@@ -1,0 +1,57 @@
+---
+permalink: /teams
+title: Teams
+---
+
+<h2 style="margin-bottom: -0.7rem;">
+    <i class="fa fa-users" aria-hidden="true"></i> <b>{% t teams.title %}</b>
+</h2>
+
+<hr/>
+
+<div id="teams" class="container">
+    <div class="text-center">
+        <div class="row">
+            {% for team in site.data.teams %}
+            <div class="teams-card col-xl-3 col-lg-4 cl-md-4 col-sm-6 col-12">
+                <div class="card">
+                    <div class="card-header">
+                        <div class="text-center">
+                            <h2 class="car-title">{{ team[1].name }}</h2>
+                        </div>
+                    </div>
+                    <div class="card-body">
+                        <img class="card-img-top" src="{{ site.url }}/assets/img/teams/{{ team[0] }}.png" alt="">
+                    </div>
+                    <div class="card-footer">
+                        <div class="row">
+                            <div class="col-6">
+                                <p>{% t teams.leader %}:</p>
+                            </div>
+                            <div class="col-6">
+                                <p>{{ team[1].leader }}</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card-footer">
+                        <div class="row">
+                            <div class="col-6">
+                                <p>{% t teams.members %}:</p>
+                            </div>
+                            <div class="col-12">
+                                {% for member in team[1].members %}
+                                    {% if team[1].members.last != member %}
+                                        {{ member }},
+                                    {% else %}
+                                        {{ member }}
+                                    {% endif %}
+                                {% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>

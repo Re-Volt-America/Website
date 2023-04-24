@@ -8,6 +8,7 @@ nav:
     cars: "Cars"
   players:
     title: "Players"
+    teams: "Teams"
     staff: "Staff"
     discord: "Discord"
   ranking:
@@ -155,6 +156,11 @@ rva:
     ratings-link: "Car Ratings"
     class-selector:
       title: "Classes"
+
+teams:
+  title: "RVA Teams"
+  leader: "Leader"
+  members: "Members"
 
 assets:
   title: "LOGOS & USAGE"

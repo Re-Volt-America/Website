@@ -1,0 +1,81 @@
+anubis:
+  name: "Anubis"
+  tag: "ANB"
+  leader: "BGM"
+  members:
+    - "Macacosky"
+    - "EstebanMz"
+    - "MightyCucumber"
+    - "xpete"
+arm:
+  name: "Alias Re-Volt Master"
+  tag: "ARM"
+  leader: "LoPesca"
+  members:
+    - "Honk"
+    - "BMMXIV"
+forsaken:
+  name: "Forsaken"
+  tag: "FKN"
+  leader: "yun"
+  members:
+    - "Loq"
+    - "Iurac"
+ghost:
+  name: "Ghost"
+  tag: "GHT"
+  leader: "Antelocazo"
+  members:
+    - "Vyrrent"
+    - "Jorlos"
+    - "Tommy1505"
+purpleguys:
+  name: "Purple Guys"
+  tag: "PPG"
+  leader: "WaluigiMB"
+  members:
+    - "Nick Skyline"
+    - "Josecarros"
+    - "Ivaxmd"
+    - "betoban"
+racebreakers:
+  name: "Race Breakers"
+  tag: "RBK"
+  leader: "TT"
+  members:
+    - "Pixulakawai"
+    - "TomDom"
+    - "Ghoster"
+rallo:
+  name: "Rallo"
+  tag: "RAL"
+  leader: "Pallo"
+  members:
+    - "C. Emmanuel"
+    - "Jenay"
+    - "Valuuta"
+    - "Yoish"
+warriors:
+  name: "Warriors"
+  tag: "WAR"
+  leader: "Michel"
+  members:
+    - "Bernardo"
+    - "Zed"
+    - "Rog_97"
+    - "Verdeus"
+zapdonators:
+  name: "Zap Donators"
+  tag: "ZAP"
+  leader: "Gforce"
+  members:
+    - "Erzu"
+    - "Tiorotti"
+zeppelins:
+  name: "Zeppelins"
+  tag: "ZPL"
+  leader: "Gorgonzola"
+  members:
+    - "NUC"
+    - "Burdang"
+    - "Kiki"

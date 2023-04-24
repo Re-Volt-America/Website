@@ -1,0 +1,137 @@
+#teams {
+  .teams-card {
+    h2 {
+      font-weight: bold;
+      margin-top: 5px;
+      margin-bottom: -10px;
+    }
+
+    p {
+      margin-top: 10px;
+      margin-bottom: 10px;
+      font-weight: bold;
+    }
+
+    img {
+      border-radius: 2px;
+    }
+
+    .card {
+      margin-top: 30px;
+    }
+
+    .car-title {
+      font-size: 22px;
+    }
+
+    .card-body {
+      -ms-flex: 1 1 auto;
+      flex: 1 1 auto;
+      min-height: 1px;
+      padding: 1rem;
+    }
+
+    .card-header {
+      padding: .75rem 1.25rem;
+      margin-bottom: 0;
+      background-color: rgba(0,0,0,.03);
+      border-bottom: #beb8bc;
+    }
+
+    .card {
+      position: relative;
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-direction: column;
+      flex-direction: column;
+      min-width: 0;
+      word-wrap: break-word;
+      background-color: #000000;
+      /* background-clip: border-box; */
+      /* border: 1px solid rgba(0,0,0,.125); */
+      border-radius: .25rem;
+      border-color: #beb8bc;
+      height: 90%;
+    }
+
+    .card-footer {
+      padding: .3rem 1.25rem;
+      background-color: rgba(0,0,0,.03);
+      border-color: #beb8bc;
+    }
+
+    .card-img-top {
+      -ms-flex-negative: 0;
+      flex-shrink: 0;
+      width: 128px;
+    }
+
+    button, input, optgroup, select, textarea {
+      margin: 10px;
+      font-family: inherit;
+      font-size: inherit;
+      line-height: inherit;
+    }
+
+    button {
+      color: #beb8bc;
+      box-shadow: none;
+    }
+
+    button:hover {
+      color: #000000;
+      background-color: #ffffff;
+    }
+
+    button:focus {
+      color: #000000;
+      background-color: #ffffff;
+    }
+
+    button {
+      color: #beb8bc;
+      box-shadow: none;
+    }
+
+    button:hover {
+      color: #000000;
+      background-color: #ffffff;
+    }
+
+    button:focus {
+      color: #000000;
+      background-color: #ffffff;
+    }
+
+    .btn-outline-secondary {
+      border-color: #ffffff;
+    }
+
+    .card {
+      background-color: #000000;
+    }
+
+    .card-text {
+      color: #beb8bc;
+    }
+
+    .card-body {
+      -ms-flex: 1 1 auto;
+      flex: 1 1 auto;
+      min-height: 1px;
+      padding: 1.25rem;
+    }
+
+    input {
+      color: white;
+      border: 0;
+      background-color: transparent;
+      outline: none;
+      cursor: pointer;
+      display: inline-block;
+      font-family: SFMono-Regular, Menlo, Monaco, Consolas,"Liberation Mono", "Courier New", monospace;
+      font-size: 1em;
+      width: 100%;
+    }
+  }
+}
