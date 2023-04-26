@@ -93,7 +93,7 @@ rules:
       1: "Debes seguir y atenerte a los <a class='text-primary' href='https://discord.com/terms' target='_blank'>Términos de servicio de Discord</a>. El no hacerlo hará que te expulsemos de Re-Volt America."
       2: "Mantente en el tema de los canales."
       3: "No acoses a otros usuarios."
-      4: "Cualquier archivo multimedia malicioso que cause que el cliente de Discord de otros usuarios crashee o contenido <em>muy</em> explícito se eliminará y probablemente te infraccionarémos por publicarlo."
+      4: "Cualquier archivo multimedia malicioso que cause que el cliente de Discord de otros usuarios crashee o contenido <em>muy explícito</em> se eliminará y probablemente te infraccionaremos por publicarlo."
     e:
       title: "E. Infracciones"
       1: "El no seguir el reglamento de Carreras y puntuación puede hacer que quedes speced <small class='text-success'>(2)</small> en nuestras salas, o <em>expulsado</em> si insistes en romper nuestras reglas."
