@@ -9,7 +9,7 @@ nav:
     cars: "Autos"
   players:
     title: "Jugadores"
-    teams: "Teams"
+    teams: "Equipos"
     staff: "Staff"
     discord: "Discord"
   ranking:
@@ -63,12 +63,12 @@ rules:
       4: "Siga las indicaciones dadas por el equipo de administración en todo momento."
       5: "Use su sentido común. No es tan difícil!"
     b:
-      title: "B. Creating a Username"
+      title: "B. Crear un nombre de usuario"
       1:
-        title: "To play Re-Volt you must choose a username, and to be indexed into the official RVA rankings players must choose a nickname which abides to the following guidelines:"
-        bullet1: "Your nickname must have from 1 to 16 characters."
-        bullet2: "Your nickname may contain any characters from A-Z (uppercase or lowercase), numbers, underscores and blank spaces."
-        bullet3: "Your nickname must be unique! If you are not sure, you may ask the staff team to find out if the username you want is already being used by another player."
+        title: "Para jugar Re-Volt, debes elegir un nombre de usuario, y para ser indexados en los rankings oficiales de RVA, los jugadores deben elegir un nombre de usuario que se ajuste a las siguientes reglas:"
+        bullet1: "Tu nombre de usuario debe tener de 1 a 16 caracteres."
+        bullet2: "Tu nombre puede contener caracteres de la A a la Z (mayúscula o minúscula), números, guiones bajos y espacios."
+        bullet3: "¡Tu nombre debe ser único! Si no estás seguro, puedes preguntarle al staff para averiguar si el nombre que quieres usar ya está en uso por otro jugador."
     c:
       title: "C. Carreras y puntajes"
       1: "Se pueden usar autos de la categoría corriente y las inferiores. (Novato, Amateur, Avanzado, etc.)"
@@ -152,9 +152,9 @@ rva:
     class-selector:
       title: "Clases"
 teams:
-  title: "RVA Teams"
-  leader: "Leader"
-  members: "Members"
+  title: "Equipos de RVA"
+  leader: "Líder"
+  members: "Miembros"
 assets:
   title: "Logos y uso"
   subtitle: "Una colección de nuestros archivos principales, hechos por la talentosa <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, que puedes usar para enlazar RVA a tu página!"
@@ -221,6 +221,6 @@ staff:
     moderator: "Moderadores"
     organizer: "Organizadores"
 discord:
-  title: "Discord Servers"
-  description: "Re-Volt Discord Servers!"
-  join: "Join Server"
+  title: "Servidores de Discord"
+  description: "¡Servidores de Discord de Re-Volt!"
+  join: "Entrar"
