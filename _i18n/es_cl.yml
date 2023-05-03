@@ -9,7 +9,7 @@ nav:
     cars: "Autos"
   players:
     title: "Jugadores"
-    teams: "Teams"
+    teams: "Equipos"
     staff: "Staff"
     discord: "Discord"
   ranking:
@@ -65,10 +65,10 @@ rules:
     b:
       title: "B. Nombre de usuario"
       1:
-        title: "Para jugar Re-Volt debes elegir un nombre de usuario, y para ser indexado en los rankings oficiales de RVA los jugadores deben elegir un nombre que se ajuste a las siguientes normas:"
+        title: "Para jugar Re-Volt debes elegir un nombre de usuario, y para ser indexados en los rankings oficiales de RVA los jugadores deben elegir un nombre que se ajuste a las siguientes normas:"
         bullet1: "Tu nick debe tener de 1 a 16 caracteres."
         bullet2: "Tu nick puede contener cualquier caracter de la A a la Z (mayúsculas y minúsculas), números, guiones bajos y espacios en blanco."
-        bullet3: "Your nickname must be unique! If you are not sure, you may ask the staff team to find out if the username you want is already being used by another player."
+        bullet3: "¡Tu nick debe ser único! Si no estás seguro, puedes preguntarle al staff para averiguar si el nombre que quieres usar ya está en uso por otro jugador."
     c:
       title: "C. Carreras y Puntuación"
       1: "Puedes utilizar autos de la clase en curso e inferiores. (rookie, amateur, advanced, etc.)"
@@ -152,9 +152,9 @@ rva:
     class-selector:
       title: "Clases"
 teams:
-  title: "RVA Teams"
-  leader: "Leader"
-  members: "Members"
+  title: "Equipos de RVA"
+  leader: "Líder"
+  members: "Miembros"
 assets:
   title: "LOGOS Y USO"
   subtitle: "Una colección de nuestros principales recursos, realizados por la talentosa <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, los cuales puedes descargar para integrar con RVA o enlazar hacia nuestra web!"
