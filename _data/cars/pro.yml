@@ -20,6 +20,13 @@ pro:
     acc: 3.20
     weight: 2.0
     multiplier: 0.7
+  abomin8r:
+    name: Abomin8r
+    slug: abomin8r
+    speed: 65.7
+    acc: 3.13
+    weight: 2.5
+    multiplier: 0.7
   cintach:
     name: Cintach
     slug: cintach
@@ -62,13 +69,6 @@ pro:
     acc: 3.34
     weight: 1.5
     multiplier: 0.7
-  abomin8r:
-    name: Abomin8r
-    slug: abomin8r
-    speed: 65.7
-    acc: 3.13
-    weight: 2.5
-    multiplier: 0.8
   burning_steel:
     name: Burning Steel
     slug: burning_steel
@@ -82,6 +82,13 @@ pro:
     speed: 61.3
     acc: 3.73
     weight: 1.6
+    multiplier: 0.8
+  puma:
+    name: Puma
+    slug: puma
+    speed: 64.4
+    acc: 4.14
+    weight: 1.8
     multiplier: 0.8
   zs-9:
     name: ZS-9
@@ -104,12 +111,12 @@ pro:
     acc: 2.91
     weight: 2.2
     multiplier: 0.9
-  puma:
-    name: Puma
-    slug: puma
-    speed: 64.4
-    acc: 4.14
-    weight: 1.8
+  core400:
+    name: Core400
+    slug: core400
+    speed: 65.2
+    acc: 3.52
+    weight: 1.6
     multiplier: 0.9
   steezy:
     name: Steezy
@@ -160,13 +167,6 @@ pro:
     acc: 3.6
     weight: 1
     multiplier: 1.0
-  core400:
-    name: Core400
-    slug: core400
-    speed: 67
-    acc: 3.48
-    weight: 1.6
-    multiplier: 1.1
   patriot:
     name: Patriot
     slug: patriot
@@ -243,4 +243,4 @@ pro:
     speed: 62.2
     acc: 2.05
     weight: 1.2
-    multiplier: 4.0
+    multiplier: 3.2
