@@ -37,9 +37,9 @@ rookie:
   iso-77a:
     name: Iso-77A
     slug: iso-77a
-    speed: 52.1
-    acc: 2.75
-    weight: 1.6
+    speed: 48.8
+    acc: 3.03
+    weight: 1.33
     multiplier: 0.7
   kanberra_kruiser:
     name: Kanberra Kruiser
