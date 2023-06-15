@@ -37,6 +37,7 @@ footer:
     title: "Find Us"
     discord: "Discord"
     github: "GitHub"
+    crowdin: "Crowdin"
 
 play:
   subheader: "We play daily at 23:00 UTC"

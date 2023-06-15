@@ -37,6 +37,7 @@ footer:
     title: "Contato"
     discord: "Discord"
     github: "GitHub"
+    crowdin: "Crowdin"
 play:
   subheader: "Jogamos diariamente às 23:00 UTC"
   subheader2: "Lobbies são postados em <code class='nissan-code'>#lobby-rva</code>"
