@@ -19,25 +19,25 @@ administrator:
       image: "gforce.png"
       role: "Finances & General Administration"
       media:
-        discord: "gforce#2990"
+        discord: "gforce_09"
     - name: "TT"
       role: "Custom Content Pack Management"
       image: "tt.png"
       email: "tt@rva.lat"
       media:
-        discord: "Y100XTT#9497"
+        discord: "ttdriver"
         github: "Y100XTT"
     - name: "Gorgonzola"
       role: "Competitive Administration"
       image: "gorgon.png"
       media:
-        discord: "Gorgonzola#2081"
+        discord: "gorgonzola2081"
     - name: "EstebanMz"
       role: "Custom Content Pack Management"
       image: "esteban.jpg"
       email: "estebanmz@rva.lat"
       media:
-        discord: "EstebanMz#4398"
+        discord: "estebanmz"
         github: "EstebanMz"
 developer:
   name: "staff.groups.developer"
@@ -59,47 +59,79 @@ moderator:
     - name: "Antel"
       image: "antel.png"
       media:
-        discord: "anteloCAZO#7099"
+        discord: "antelocazo"
     - name: "ChoquePumper"
       image: "choque.png"
+      media:
+        discord: "ChoquePumper#7803"
     - name: "Macacosky"
       image: "macacosky.png"
       media:
-        discord: "Macacosky#5337"
-    - name: "Michel"
-      image: "michel.png"
+        discord: "macacosky"
+    - name: "Mighty"
+      image: "mighty.png"
       media:
-        discord: "Michel#5963"
+        discord: "mightycucumber"
     - name: "Nicbass"
       image: "nicbass.png"
+      media:
+        discord: "nicbass7"
     - name: "Powerate"
       image: "powerate.png"
+      media:
+        discord: "powerate"
     - name: "Santi"
       image: "santi.png"
+      media:
+        discord: "srpringlesprg"
     - name: "Vendett"
       image: "vendett.png"
+      media:
+        discord: "jspv5"
     - name: "Walele"
       image: "walele.png"
       media:
-        discord: "WaluigiMB#8234"
+        discord: "waluigimb"
     - name: "yun"
       image: "yun.png"
       media:
-        discord: "yun#1315"
+        discord: "yunabomber"
 organizer:
   name: "staff.groups.organizer"
   color: "#36f971"
   priority: 300
   members:
+    - name: "BGM"
+      image: "bgm.png"
+      media:
+        email: "bgm@rva.lat"
+        discord: "bgm"
+        github: "BGMP"
     - name: "DarkHunt"
       image: "darkhunt.png"
+    - name: "Gforce"
+      image: "gforce.png"
+      media:
+        discord: "gforce_09"
     - name: "honk"
       image: "honk.png"
+    - name: "Macacosky"
+      image: "macacosky.png"
       media:
-        discord: "lilhearthie#0513"
+        discord: "macacosky"
     - name: "Nick"
       image: "nicocrates.png"
     - name: "Tiorotti"
       image: "tiorotti.png"
     - name: "TomDom"
       image: "tomdom.png"
+    - name: "TT"
+      image: "tt.png"
+      email: "tt@rva.lat"
+      media:
+        discord: "ttdriver"
+        github: "Y100XTT"
+    - name: "yun"
+      image: "yun.png"
+      media:
+        discord: "yunabomber"
