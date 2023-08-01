@@ -5,30 +5,30 @@ anubis:
   members:
     - "Macacosky"
     - "EstebanMz"
-    - "MightyCucumber"
-    - "xpete"
+    - "Mighty"
+    - "Frosttbitten"
 arm:
   name: "Alias Re-Volt Master"
   tag: "ARM"
   leader: "LoPesca"
   members:
-    - "Honk"
     - "BMMXIV"
+    - "Honk"
 forsaken:
   name: "Forsaken"
   tag: "FKN"
   leader: "yun"
   members:
-    - "Loq"
     - "Iurac"
+    - "Loq"
 ghost:
   name: "Ghost"
   tag: "GHT"
   leader: "Antelocazo"
   members:
-    - "Vyrrent"
     - "Jorlos"
-    - "Tommy1505"
+    - "RC san"
+    - "Tomy1505"
 purpleguys:
   name: "Purple Guys"
   tag: "PPG"
@@ -45,25 +45,25 @@ racebreakers:
   members:
     - "Pixulakawai"
     - "TomDom"
-    - "Ghoster"
+    - "Ghosterino"
 rallo:
   name: "Rallo"
   tag: "RAL"
   leader: "Pallo"
   members:
-    - "C. Emmanuel"
+    - "C.Emmanuel"
     - "Jenay"
-    - "Valuuta"
+    - "Toa Valutaa"
     - "Yoish"
 warriors:
   name: "Warriors"
   tag: "WAR"
-  leader: "Michel"
+  leader: "Rog_97"
   members:
-    - "Bernardo"
-    - "Zed"
-    - "Rog_97"
+    - "Laggerok"
+    - "Nexus"
     - "Verdeus"
+    - "Zedd"
 zapdonators:
   name: "Zap Donators"
   tag: "ZAP"
@@ -76,6 +76,5 @@ zeppelins:
   tag: "ZPL"
   leader: "Gorgonzola"
   members:
-    - "NUC"
     - "Burdang"
-    - "Kiki"
+    - "Nuc"
