@@ -52,7 +52,7 @@ downloads:
   rva:
     description: "El paquete de contenido que ocupamos en Re-Volt America. Esto incluye los coches, pistas y gfx."
   repo:
-    intro: "Si estás usando el <a href='{{ site.data.distribute.rvgl-launcher }}' target='_blank'><b>lanzador RVGL</b></a> y no ves los <i>rva_</i> paquetes prefijados en la pestaña Paquetes, ¡entonces no tienes nuestro repositorio añadido! Ve a tu pestaña de Repositorios y añade nuestra repo de paquetes:"
+    intro: "Si estás usando el <a href='{{ site.data.distribute.rvgl-launcher }}' target='_blank'><b>lanzador RVGL</b></a> y no ves los paquetes prefijados con <i>rva_</i> en la pestaña Paquetes, ¡entonces no tienes nuestro repositorio añadido!. Ve a tu pestaña de Repositorios y añade nuestro repo de paquetes:"
 rules:
   title: "Reglas"
   sections:
