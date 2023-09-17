@@ -212,7 +212,7 @@ car-card:
   ms2: "ms²"
   weight: "Peso"
   kg: "Kg"
-  multiplier: "Multiplicador"
+  multiplier: "Multi."
 staff:
   title: "Staff"
   description: "¡La gente que ayuda a dirigir Re-Volt América!"
