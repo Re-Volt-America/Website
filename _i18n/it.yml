@@ -208,11 +208,11 @@ misc:
 car-card:
   speed: "Velocità"
   kmh: "km/h"
-  acc: "Accelerazione"
+  acc: "Acc."
   ms2: "ms2"
   weight: "Peso"
   kg: "Kg"
-  multiplier: "Moltiplicatore"
+  multiplier: "Mutatore"
 staff:
   title: "Staff"
   description: "Le persone che contribuiscono alla gestione di Re-Volt America!"
