@@ -66,10 +66,10 @@ rules:
     b:
       title: "B. Criando um nome de usuário"
       1:
-        title: "To play Re-Volt you must choose a username, and to be indexed into the official RVA rankings players must choose a nickname which abides to the following guidelines:"
-        bullet1: "Your nickname must have from 1 to 16 characters."
-        bullet2: "Your nickname may contain any characters from A-Z (uppercase or lowercase), numbers, underscores and blank spaces."
-        bullet3: "Your nickname must be unique! If you are not sure, you may ask the staff team to find out if the username you want is already being used by another player."
+        title: "Para jogar Re-Volt você deve escolher um nome de usuário, e para ser indexado nas classificações oficiais de RVA os jogadores devem escolher um apelido que respeite as seguintes condições:"
+        bullet1: "Seu apelido deve ter entre 1 e 16 caracteres."
+        bullet2: "Seu apelido pode conter caracteres de A-Z (maiúsculas ou minúsculas), números, sublinhados e espaços em branco."
+        bullet3: "Seu apelido deve ser único! Se não tiver certeza, você pode pedir à equipe de equipe para saber se o nome de usuário que você deseja já está sendo usado por outro jogador."
     c:
       title: "C. Corridas e Pontuação"
       1: "Você pode utilizar carros de classes equivalentes ou menor. (Novato, Amador, Avançado, etc.)"
@@ -153,9 +153,9 @@ rva:
     class-selector:
       title: "Classes"
 teams:
-  title: "RVA Teams"
-  leader: "Leader"
-  members: "Members"
+  title: "RVA Times"
+  leader: "Líder"
+  members: "Membros"
 assets:
   title: "LOGOS & UTILIZAÇÃO"
   subtitle: "Uma coleção dos nossos principais recursos, elaborados pela talentosa <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, que você pode baixar para integrar com a RVA ou \"linkar\" de volta para nós!"
@@ -222,6 +222,6 @@ staff:
     moderator: "Moderadores"
     organizer: "Organizadores"
 discord:
-  title: "Discord Servers"
-  description: "Re-Volt Discord Servers!"
-  join: "Join Server"
+  title: "Servidores de Discord"
+  description: "Servidores de Discord do Re-Volt!"
+  join: "Entrar no servidor"
