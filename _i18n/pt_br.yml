@@ -9,7 +9,7 @@ nav:
     cars: "Carros"
   players:
     title: "Jogadores"
-    teams: "Teams"
+    teams: "Times"
     staff: "Equipe"
     discord: "Discord"
   ranking:
@@ -64,7 +64,7 @@ rules:
       4: "Sempre obedecer as instruções dos administradores do servidor."
       5: "Use seu senso comum. Não é difícil!"
     b:
-      title: "B. Creating a Username"
+      title: "B. Criando um nome de usuário"
       1:
         title: "To play Re-Volt you must choose a username, and to be indexed into the official RVA rankings players must choose a nickname which abides to the following guidelines:"
         bullet1: "Your nickname must have from 1 to 16 characters."
