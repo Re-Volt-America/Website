@@ -13,9 +13,19 @@ botanical_garden:
 toy_world_1:
   name: "Toy World 1"
   length: "S"
+cardboard_castle:
+  name: "Cardboard Castle"
+  length: "S"
 home_1:
   name: "Home 1"
   length: "S"
-tetanic:
-  name: "Tetanic"
+medieval_redux:
+  name: "Medieval: Redux"
+  length: "S"
+mysterious_factory_1:
+  name: "Mysterious Toy-Volt Factory 1"
   length: "M"
+santorini:
+  name: "Santorini"
+  length: "M"
+

@@ -25,21 +25,24 @@ casino_rv:
 castle_1:
   name: "Castle 1"
   length: "L"
-cond_fumado:
-  name: "Conduciendo Fumado"
-  length: "M"
+downtown_1:
+  name: "Downtown 1"
+  length: "L"
 fairground_1:
   name: "Fairground 1"
   length: "S"
-h(8)ty:
-  name: "H(8)TY"
-  length: "S"
-port_limano_1:
-  name: "Port Limano 1"
-  length: "S"
-rigs_highway:
-  name: "Rigs Highway"
+game_room_1:
+  name: "Game Room 1"
   length: "M"
+helios_lunar:
+  name: "Helios/Lunar"
+  length: "M"
+junkyard_2:
+  name: "Junkyard 2"
+  length: "M"
+mysterious_factory_2:
+  name: "Mysterious Toy-Volt Factory 2"
+  length: "L"
 schools_out_1:
   name: "School's Out! 1"
   length: "M"
@@ -49,6 +52,3 @@ stadvolt:
 subway_2:
   name: "Subway 2"
   length: "XL"
-white_rose:
-  name: "White Rose Chapel"
-  length: "M"
