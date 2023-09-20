@@ -1,6 +1,9 @@
 museum_1:
   name: "Museum 1"
   length: "M"
+downtown_2:
+  name: "Downtown 2"
+  length: "XL"
 fairground_2:
   name: "Fairground 2"
   length: "L"
@@ -10,23 +13,14 @@ grisville:
 jailhouse_rock:
   name: "Jailhouse Rock"
   length: "L"
-library:
-  name: "Library"
-  length: "M"
 moon_dawn:
   name: "Moon Dawn"
-  length: "XL"
-museum_ex:
-  name: "Museum EX"
   length: "XL"
 quake!:
   name: "Quake!"
   length: "L"
 rooftops_1:
   name: "Rooftops 1"
-  length: "L"
-school_thug2:
-  name: "School 1 (THUG2)"
   length: "L"
 schools_out_2:
   name: "School's Out! 2"
@@ -39,12 +33,6 @@ spa-volt_1:
   length: "M"
 spa-volt_2:
   name: "Spa-Volt 2"
-  length: "M"
-the_great_silence:
-  name: "The Great Silence"
-  length: "M"
-toysoldierz:
-  name: "ToySoldierz"
   length: "M"
 user-deli_xl:
   name: "User-Deli: XL"

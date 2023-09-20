@@ -19,9 +19,6 @@ district_1:
 game_room_2:
   name: "Game Room 2"
   length: "M"
-holiday_camp:
-  name: "Holiday Camp: California Edition"
-  length: "XL"
 home_2:
   name: "Home 2"
   length: "M"
@@ -46,15 +43,18 @@ petrovolt:
 port_limano_2:
   name: "Port Limano 2"
   length: "M"
+port_limano_ex:
+  name: "Port Limano EX"
+  length: "L"
 rooftop_chase:
   name: "Rooftop Chase: Redux"
   length: "M"
 sakura:
   name: "Sakura"
   length: "L"
+toy_world_mayhem:
+  name: "Toy World Mayhem"
+  length: "M"
 venice:
   name: "Venice"
   length: "M"
-wonderful_skylands_2:
-  name: "Wonderful Skylands 2"
-  length: "L"
