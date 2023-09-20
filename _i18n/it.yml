@@ -9,7 +9,7 @@ nav:
     cars: "Auto"
   players:
     title: "Giocatori"
-    teams: "Teams"
+    teams: "Squadre"
     staff: "Staff"
     discord: "Discord"
   ranking:
@@ -39,8 +39,8 @@ footer:
     github: "GitHub"
     crowdin: "Crowdin"
 play:
-  subheader: "Giochiamo tutti i giorni alle 23:00 UTC"
-  subheader2: "Le Lobby sono postate a <code class='nissan-code'>#lobby-rva</code>"
+  subheader: "Gareggiamo tutti i giorni alle 23:00 Fuso Orario UTC"
+  subheader2: "Le stanze per le partite vengono pubblicate nel canale <code class='nissan-code'>#lobby-rva</code>"
 downloads:
   title: "Scarica"
   rvgl-rva: "Pacchetto RVGL + RVA"
@@ -64,12 +64,12 @@ rules:
       4: "Segui le indicazioni fornite dai membri dello staff in qualsiasi momento."
       5: "Utilizza il buon senso. Non è poi così difficile!"
     b:
-      title: "B. Creating a Username"
+      title: "B. Creare un Nome Utente"
       1:
-        title: "To play Re-Volt you must choose a username, and to be indexed into the official RVA rankings players must choose a nickname which abides to the following guidelines:"
-        bullet1: "Your nickname must have from 1 to 16 characters."
-        bullet2: "Your nickname may contain any characters from A-Z (uppercase or lowercase), numbers, underscores and blank spaces."
-        bullet3: "Your nickname must be unique! If you are not sure, you may ask the staff team to find out if the username you want is already being used by another player."
+        title: "Per giocare a Re-Volt è necessario scegliere un nome utente, e per essere indicizzato nelle classifiche ufficiali di RVA i giocatori devono scegliere un nome utente che si attenga alle seguenti linee guida:"
+        bullet1: "Il tuo nome utente deve avere tra 1 e 16 caratteri."
+        bullet2: "Il tuo nome utente può contenere caratteri dalla A alla Z (maiuscoli o minuscoli), numeri, trattini bassi e spazi vuoti."
+        bullet3: "Il tuo nome utente deve essere unico! Se non ne sei sicuro, puoi scoprire se il nome utente che desideri è già in utilizzo da un altro giocatore chiedendo al team dello Staff."
     c:
       title: "C. Gare & Punteggi"
       1: "È possibile utilizzare un'auto di una classe uguale a quella in gioco o di una classe inferiore. (principiante, appassionato, avanzato, ecc.)"
@@ -153,9 +153,9 @@ rva:
     class-selector:
       title: "Classi"
 teams:
-  title: "RVA Teams"
-  leader: "Leader"
-  members: "Members"
+  title: "Squadre RVA"
+  leader: "Capitano"
+  members: "Membri"
 assets:
   title: "Logo & Utilizzi"
   subtitle: "Una collezzione delle nostre risorse principali, realizzate dalla talentuosa <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, che puoi scaricare per integrarti con RVA o per riferirti a noi!"
@@ -187,7 +187,7 @@ error:
     title: "Errore 404"
     caption: "Pagina non trovata :("
 alerts:
-  1: "Siamo giocando adesso! IP Sessione:"
+  1: "Siamo gareggiando adesso! Indirizzo IP della sessione:"
   2: "Nuovo Aggiornamento del Pacchetto RVA disponibile!"
 seasons:
   season: "Stagione"
@@ -208,7 +208,7 @@ misc:
 car-card:
   speed: "Velocità"
   kmh: "km/h"
-  acc: "Acc."
+  acc: "Accel."
   ms2: "ms2"
   weight: "Peso"
   kg: "Kg"
@@ -222,6 +222,6 @@ staff:
     moderator: "Moderatori"
     organizer: "Organizzatori"
 discord:
-  title: "Discord Servers"
-  description: "Re-Volt Discord Servers!"
-  join: "Join Server"
+  title: "Server Discord"
+  description: "Server Discord di Re-Volt!"
+  join: "Unisciti al Server"
