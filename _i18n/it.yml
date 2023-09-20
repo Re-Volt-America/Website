@@ -87,8 +87,8 @@ rules:
       7: "È necessario usare un nome univoco per poter giocare nelle sessioni. Nel caso in cui si usi o si selezioni lo stesso nome di un altro giocatore esistente si <b>DOVRÀ</b> scegliere un altro nome."
       8:
         title: "Puoi scrivere RE nella chat di gioco durante i primi 40 secondi di una gara a causa di un fattore esterno non correlato al gioco."
-        subtitle: "Sarà concesso solo 1 restart per pista. Se qualcuno ha chiesto il restart prima di te, allora l'host non si riavvierà."
-      9: "Il mutatore accumulato di qualsiasi auto non può mai oltrepassare il 4.0."
+        subtitle: "Sarà concesso solo un riavvio di gara per pista. Se qualcuno ha chiesto il riavvio prima di te, allora il gestore della lobby non riavvierà la gara di nuovo."
+      9: "Il mutatore accumulato di qualsiasi auto non può mai oltrepassare 4.0."
     d:
       title: "D. Server di Discord"
       1: "Devi seguire e rispettare i <a class='text-primary' href='https://discord.com/terms' target='_blank'>Termini di Servizio di Discord</a>. In caso contrario sarai bannato da Re-Volt America."
@@ -99,8 +99,8 @@ rules:
       title: "E. Punizioni"
       1: "Il mancato rispetto di una qualsiasi delle regole di \"Gare & Punteggi\" comporterà nell'essere speccati <small class='text-success'>(2)</small> all'interno delle nostre sessioni di gioco, oppure <em>espulso</em> se si insisterà nella violazione delle nostre regole."
       2: "Gli utenti possono essere <em>cacciati</em> dal nostro server di Discord per aver infranto le regole. Se la violazione delle regole è severa, si verrà <em>bannati</em>."
-      3: "Evadere i ban dal Discord ti farà bannare comunque eventualmente. Lo scopriremo."
-      4: "Tutte le infrazioni sono soggette alla discrezione del team dello staff"
+      3: "Evadere i ban dal Discord ti farà bannare comunque eventualmente. Lo verremo a sapere."
+      4: "Tutte le infrazioni sono soggette alla discrezione del team dello Staff"
   precisions:
     1:
       term: "(1) RE:"
@@ -125,7 +125,7 @@ points:
     3: "Posizione media"
     4: "Punteggio ufficiale"
     5: "0.1, fattore costante per ridurre i risultati finali"
-  parser: "RVA Points Parser"
+  parser: "Analizzatore Punti RVA"
 rva:
   tracks:
     title: "Circuiti"
@@ -204,7 +204,7 @@ classes:
 misc:
   download: "Scarica"
   search: "Cerca"
-  and: "e"
+  and: "&"
 car-card:
   speed: "Velocità"
   kmh: "km/h"
