@@ -80,10 +80,6 @@ moderator:
       image: "powerate.png"
       media:
         discord: "powerate"
-    - name: "Santi"
-      image: "santi.png"
-      media:
-        discord: "srpringlesprg"
     - name: "Vendett"
       image: "vendett.png"
       media:
