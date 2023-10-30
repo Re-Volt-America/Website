@@ -39,7 +39,7 @@ footer:
     github: "GitHub"
     crowdin: "Crowdin"
 play:
-  subheader: "매일 23시(UTC)에 플레이합니다"
+  subheader: "We play daily at 00:00 UTC"
   subheader2: "로비는 <code class='nissan-code'>#lobby-rva</code>에 올라옵니다"
 downloads:
   title: "다운로드"
