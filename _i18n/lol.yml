@@ -39,7 +39,7 @@ footer:
     github: "Da codin site"
     crowdin: "Crowdin"
 play:
-  subheader: "we plya dly @ 23:00 uTc"
+  subheader: "We play daily at 00:00 UTC"
   subheader2: "lubbis r postd at <code class='nissan-code'>#lobby-rva</code>"
 downloads:
   title: "dowoloads"
