@@ -40,7 +40,7 @@ footer:
     crowdin: "Crowdin"
 
 play:
-  subheader: "We play daily at 23:00 UTC"
+  subheader: "We play daily at 00:00 UTC"
   subheader2: "Lobbies are posted at <code class='nissan-code'>#lobby-rva</code>"
 
 downloads:
