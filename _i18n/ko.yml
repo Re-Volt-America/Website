@@ -9,7 +9,7 @@ nav:
     cars: "차량"
   players:
     title: "플레이어"
-    teams: "Teams"
+    teams: "팀"
     staff: "직원"
     discord: "Discord"
   ranking:
@@ -39,7 +39,7 @@ footer:
     github: "GitHub"
     crowdin: "Crowdin"
 play:
-  subheader: "We play daily at 00:00 UTC"
+  subheader: "매일 00:00 UTC에 플레이합니다"
   subheader2: "로비는 <code class='nissan-code'>#lobby-rva</code>에 올라옵니다"
 downloads:
   title: "다운로드"
@@ -153,9 +153,9 @@ rva:
     class-selector:
       title: "클래스"
 teams:
-  title: "RVA Teams"
-  leader: "Leader"
-  members: "Members"
+  title: "RVA 팀"
+  leader: "리더"
+  members: "멤버"
 assets:
   title: "로고 & 사용법"
   subtitle: "유능한 인재들이 만든 주요 자산의 컬렉션 <a class='text-primary' href='https://twitter.com/hylia_js' target='_blank'>Hylia</a>, RVA와 통합하거나 저희에게 링크하기 위해 다운로드 할 수 있습니다."
@@ -222,6 +222,6 @@ staff:
     moderator: "운영자"
     organizer: "주최자"
 discord:
-  title: "Discord Servers"
-  description: "Re-Volt Discord Servers!"
-  join: "Join Server"
+  title: "Discord 서버"
+  description: "Re-Volt Discord 서버!"
+  join: "서버 참가하기"
