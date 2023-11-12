@@ -6,6 +6,8 @@ semi-pro:
     acc: 2.97
     weight: 1.2
     multiplier: 0.7
+    folder_name: adeon
+    stock: true
   dragoon:
     name: Dragoon
     slug: dragoon
@@ -13,6 +15,8 @@ semi-pro:
     acc: 2.26
     weight: 2.2
     multiplier: 0.7
+    folder_name: nrf_dragoon
+    stock: false
   sir_racealot:
     name: Sir Racealot
     slug: sir_racealot
@@ -20,6 +24,8 @@ semi-pro:
     acc: 3.77
     weight: 1.8
     multiplier: 0.7
+    folder_name: tcp_camelot
+    stock: false
   sokudo:
     name: Sokudo
     slug: sokudo
@@ -27,6 +33,17 @@ semi-pro:
     acc: 5.19
     weight: 1.2
     multiplier: 0.7
+    folder_name: sokudo
+    stock: false
+  teacee:
+    name: Teacee
+    slug: teacee
+    speed: 60.0
+    acc: 2.90
+    weight: 2.0
+    multiplier: 0.7
+    folder_name: teacee
+    stock: false
   toy-world_gt:
     name: Toy-World GT
     slug: toy-world_gt
@@ -34,13 +51,8 @@ semi-pro:
     acc: 3.87
     weight: 1.65
     multiplier: 0.7
-  victoria:
-    name: Victoria
-    slug: victoria
-    speed: 57.4
-    acc: 2.65
-    weight: 1.7
-    multiplier: 0.7
+    folder_name: tcp_twgt
+    stock: false
   zipper:
     name: Zipper
     slug: zipper
@@ -48,6 +60,8 @@ semi-pro:
     acc: 2.82
     weight: 1.4
     multiplier: 0.8
+    folder_name: tc1
+    stock: true
   jg-7:
     name: JG-7
     slug: jg-7
@@ -55,6 +69,8 @@ semi-pro:
     acc: 2.72
     weight: 1.2
     multiplier: 0.8
+    folder_name: jg1jg7
+    stock: true
   ancile:
     name: Ancile
     slug: ancile
@@ -62,6 +78,17 @@ semi-pro:
     acc: 2.29
     weight: 2.5
     multiplier: 0.8
+    folder_name: lib6ax_ancile
+    stock: false
+  gridlock:
+    name: Gridlock
+    slug: gridlock
+    speed: 58.1
+    acc: 2.42
+    weight: 1.4
+    multiplier: 0.8
+    folder_name: tcp_gridlock
+    stock: false
   mambra:
     name: Mambra
     slug: mambra
@@ -69,6 +96,8 @@ semi-pro:
     acc: 4.37
     weight: 1.6
     multiplier: 0.8
+    folder_name: mambra
+    stock: false
   rc-erra:
     name: RC-Erra
     slug: rc-erra
@@ -76,20 +105,8 @@ semi-pro:
     acc: 2.53
     weight: 1.6
     multiplier: 0.8
-  sidepod:
-    name: Sidepod
-    slug: sidepod
-    speed: 63.9
-    acc: 2.25
-    weight: 1.2
-    multiplier: 0.8
-  teacee:
-    name: Teacee
-    slug: teacee
-    speed: 60.0
-    acc: 2.90
-    weight: 2.0
-    multiplier: 0.8
+    folder_name: cera
+    stock: false
   touga:
     name: Touga
     slug: touga
@@ -97,6 +114,17 @@ semi-pro:
     acc: 3.08
     weight: 2
     multiplier: 0.8
+    folder_name: touga
+    stock: false
+  victoria:
+    name: Victoria
+    slug: victoria
+    speed: 57.4
+    acc: 2.65
+    weight: 1.7
+    multiplier: 0.8
+    folder_name: phim_victoria
+    stock: false
   chilla:
     name: Chilla
     slug: chilla
@@ -104,6 +132,8 @@ semi-pro:
     acc: 2.22
     weight: 1.4
     multiplier: 0.9
+    folder_name: tcp_chilla
+    stock: false
   ducktail:
     name: Ducktail
     slug: ducktail
@@ -111,13 +141,8 @@ semi-pro:
     acc: 2.46
     weight: 2
     multiplier: 0.9
-  gridlock:
-    name: Gridlock
-    slug: gridlock
-    speed: 58.1
-    acc: 2.42
-    weight: 1.4
-    multiplier: 0.9
+    folder_name: phim_ducktail
+    stock: false
   m4_dirtmaster:
     name: M4 Dirtmaster
     slug: m4_dirtmaster
@@ -125,6 +150,17 @@ semi-pro:
     acc: 2.45
     weight: 1.9
     multiplier: 0.9
+    folder_name: fd23m4
+    stock: false
+  maxam_rs:
+    name: Maxam RS
+    slug: maxam_rs
+    speed: 61.1
+    acc: 2.23
+    weight: 1.7
+    multiplier: 0.9
+    folder_name: maxamrs
+    stock: false
   runner_2000:
     name: Runner 2000
     slug: runner_2000
@@ -132,6 +168,8 @@ semi-pro:
     acc: 3.18
     weight: 1.32
     multiplier: 0.9
+    folder_name: nrf_runner
+    stock: false
   sasquatch:
     name: Sasquatch
     slug: sasquatch
@@ -139,6 +177,8 @@ semi-pro:
     acc: 2.47
     weight: 3
     multiplier: 0.9
+    folder_name: sasquatch
+    stock: false
   speed_balancer:
     name: Speed Balancer
     slug: speed_balancer
@@ -146,6 +186,8 @@ semi-pro:
     acc: 3.22
     weight: 1.8
     multiplier: 0.9
+    folder_name: speedbalancer
+    stock: false
   rg1:
     name: RG1
     slug: rg1
@@ -153,20 +195,17 @@ semi-pro:
     acc: 2.82
     weight: 1.4
     multiplier: 1.0
-  maxam_rs:
-    name: Maxam RS
-    slug: maxam_rs
-    speed: 61.1
-    acc: 2.23
-    weight: 1.7
-    multiplier: 1.0
+    folder_name: tc7
+    stock: true
   otaku-d:
     name: Otaku-D
     slug: otaku-d
-    speed: 60.9
-    acc: 3.49
+    speed: 61.3
+    acc: 3.68
     weight: 1.7
     multiplier: 1.0
+    folder_name: phim_sileighty
+    stock: false
   trundle_buster:
     name: Trundle Buster
     slug: trundle_buster
@@ -174,6 +213,8 @@ semi-pro:
     acc: 2.92
     weight: 4
     multiplier: 1.0
+    folder_name: nm_trundle
+    stock: false
   5tp:
     name: 5TP
     slug: 5tp
@@ -181,6 +222,17 @@ semi-pro:
     acc: 3.04
     weight: 2.5
     multiplier: 1.1
+    folder_name: jgp_5tp
+    stock: false
+  sidepod:
+    name: Sidepod
+    slug: sidepod
+    speed: 63.9
+    acc: 2.25
+    weight: 1.2
+    multiplier: 1.1
+    folder_name: sidepod
+    stock: false
   ballista:
     name: Ballista
     slug: ballista
@@ -188,6 +240,8 @@ semi-pro:
     acc: 4.18
     weight: 2.0
     multiplier: 1.2
+    folder_name: ballista
+    stock: false
   pemto:
     name: Pemto
     slug: pemto
@@ -195,6 +249,8 @@ semi-pro:
     acc: 2.58
     weight: 1.5
     multiplier: 1.2
+    folder_name: pemto
+    stock: false
   big_load:
     name: Big Load
     slug: big_load
@@ -202,13 +258,8 @@ semi-pro:
     acc: 1.94
     weight: 3.7
     multiplier: 1.5
-  roadkill:
-    name: Roadkill
-    slug: roadkill
-    speed: 64.4
-    acc: 3.53
-    weight: 1.25
-    multiplier: 2.1
+    folder_name: jgp_bigload
+    stock: false
   pest_control:
     name: Pest Control
     slug: pest_control
@@ -216,6 +267,8 @@ semi-pro:
     acc: 1.66
     weight: 2
     multiplier: 2.3
+    folder_name: tc3
+    stock: true
   pole_poz:
     name: Pole Poz
     slug: pole_poz
@@ -223,6 +276,17 @@ semi-pro:
     acc: 2.53
     weight: 1.7
     multiplier: 2.3
+    folder_name: fone
+    stock: true
+  roadkill:
+    name: Roadkill
+    slug: roadkill
+    speed: 64.4
+    acc: 3.53
+    weight: 1.25
+    multiplier: 2.4
+    folder_name: roadkill
+    stock: false
   project_octagon:
     name: Project Octagon
     slug: project_octagon
@@ -230,6 +294,8 @@ semi-pro:
     acc: 2.34
     weight: 1.6
     multiplier: 2.5
+    folder_name: pm_octa
+    stock: false
   rotor:
     name: Rotor
     slug: rotor
@@ -237,6 +303,8 @@ semi-pro:
     acc: 2.01
     weight: 3
     multiplier: 2.9
+    folder_name: rotor
+    stock: true
   rv_loco:
     name: RV Loco
     slug: rv_loco
@@ -244,3 +312,5 @@ semi-pro:
     acc: 1.98
     weight: 2.25
     multiplier: 3.2
+    folder_name: jg3loco
+    stock: true

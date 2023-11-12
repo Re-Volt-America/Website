@@ -6,6 +6,8 @@ clockwork:
     acc: 2.96
     weight: 1.25
     multiplier: 0.7
+    folder_name: wincarrally
+    stock: false
   clockwork_rod:
     name: Clockwork Rod
     slug: clockwork_rod
@@ -13,6 +15,8 @@ clockwork:
     acc: 2.50
     weight: 1.18
     multiplier: 0.7
+    folder_name: wincarrod
+    stock: false
   clockwork_turbo:
     name: Clockwork Turbo
     slug: clockwork_turbo
@@ -20,6 +24,8 @@ clockwork:
     acc: 3.29
     weight: 1.14
     multiplier: 0.7
+    folder_name: wincarturbo
+    stock: false
   clockwork_peak:
     name: Clockwork Peak
     slug: clockwork_peak
@@ -27,6 +33,8 @@ clockwork:
     acc: 4.57
     weight: 0.9
     multiplier: 0.8
+    folder_name: wincarppeak
+    stock: false
   clockwork_sport:
     name: Clockwork Sport
     slug: clockwork_sport
@@ -34,6 +42,8 @@ clockwork:
     acc: 2.34
     weight: 1.28
     multiplier: 0.8
+    folder_name: wincarsport
+    stock: false
   clockwork_midget:
     name: Clockwork Midget
     slug: clockwork_midget
@@ -41,6 +51,8 @@ clockwork:
     acc: 2.35
     weight: 1.16
     multiplier: 0.8
+    folder_name: wincarmidget
+    stock: false
   clockwork_kart:
     name: Clockwork Kart
     slug: clockwork_kart
@@ -48,6 +60,8 @@ clockwork:
     acc: 2.31
     weight: 1.3
     multiplier: 0.8
+    folder_name: wincarkart
+    stock: false
   clockwork_banger:
     name: Clockwork Banger
     slug: clockwork_banger
@@ -55,6 +69,8 @@ clockwork:
     acc: 1.92
     weight: 1.33
     multiplier: 0.9
+    folder_name: wincarbanger
+    stock: false
   clockwork_mud:
     name: Clockwork Mud
     slug: clockwork_mud
@@ -62,6 +78,8 @@ clockwork:
     acc: 2.21
     weight: 1.21
     multiplier: 0.9
+    folder_name: wincarmud
+    stock: false
   clockwork_modify:
     name: Clockwork Modify
     slug: clockwork_modify
@@ -69,6 +87,8 @@ clockwork:
     acc: 2.75
     weight: 1.0
     multiplier: 0.9
+    folder_name: wincarmodify
+    stock: false
   clockwork_ghibli:
     name: Clockwork Ghibli
     slug: clockwork_ghibli
@@ -76,6 +96,8 @@ clockwork:
     acc: 2.47
     weight: 1.25
     multiplier: 1
+    folder_name: wincarghibli
+    stock: false
   clockwork_baja:
     name: Clockwork Baja
     slug: clockwork_baja
@@ -83,6 +105,8 @@ clockwork:
     acc: 1.93
     weight: 1.3
     multiplier: 1
+    folder_name: wincarbaja
+    stock: false
   clockwork_beast:
     name: Clockwork Beast
     slug: clockwork_beast
@@ -90,6 +114,8 @@ clockwork:
     acc: 1.73
     weight: 1.5
     multiplier: 1
+    folder_name: wincarbeast
+    stock: false
   clockwork_trial:
     name: Clockwork Trial
     slug: clockwork_trial
@@ -97,6 +123,8 @@ clockwork:
     acc: 1.64
     weight: 1.7
     multiplier: 1.2
+    folder_name: wincartrial
+    stock: false
   clockwork_super:
     name: Clockwork Super
     slug: clockwork_super
@@ -104,6 +132,8 @@ clockwork:
     acc: 3.23
     weight: 1.1
     multiplier: 1.4
+    folder_name: wincarsuper
+    stock: false
   clockwork_stream:
     name: Clockwork Stream
     slug: clockwork_stream
@@ -111,6 +141,8 @@ clockwork:
     acc: 2.21
     weight: 1.22
     multiplier: 1.5
+    folder_name: wincarstream
+    stock: false
   clockwork_buggy:
     name: Clockwork Buggy
     slug: clockwork_buggy
@@ -118,3 +150,5 @@ clockwork:
     acc: 2.26
     weight: 1.2
     multiplier: 1.5
+    folder_name: wincarbuggy
+    stock: false

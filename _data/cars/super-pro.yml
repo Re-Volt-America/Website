@@ -6,6 +6,8 @@ super-pro:
     acc: 4.17
     weight: 1.45
     multiplier: 0.7
+    folder_name: armando
+    stock: false
   endo:
     name: Endo
     slug: endo
@@ -13,6 +15,8 @@ super-pro:
     acc: 4.75
     weight: 2.7
     multiplier: 0.7
+    folder_name: nrf_endo
+    stock: false
   phantera_art:
     name: Phantera ART
     slug: phantera_art
@@ -20,6 +24,8 @@ super-pro:
     acc: 3.59
     weight: 1.75
     multiplier: 0.7
+    folder_name: phanteraart
+    stock: false
   powerpython:
     name: Powerpython
     slug: powerpython
@@ -27,6 +33,8 @@ super-pro:
     acc: 3.53
     weight: 2
     multiplier: 0.7
+    folder_name: tcp_python
+    stock: false
   raven:
     name: Raven
     slug: raven
@@ -34,6 +42,8 @@ super-pro:
     acc: 3.5
     weight: 2.5
     multiplier: 0.7
+    folder_name: raven
+    stock: false
   revolution_12:
     name: Revolution 12
     slug: revolution_12
@@ -41,13 +51,8 @@ super-pro:
     acc: 4.48
     weight: 1.8
     multiplier: 0.7
-  spedion:
-    name: Spedion
-    slug: spedion
-    speed: 69.5
-    acc: 4.13
-    weight: 2
-    multiplier: 0.7
+    folder_name: gtc_revolution12
+    stock: false
   wyvern:
     name: Wyvern
     slug: wyvern
@@ -55,6 +60,17 @@ super-pro:
     acc: 3.81
     weight: 1.8
     multiplier: 0.7
+    folder_name: tcp_wyvern
+    stock: false
+  calcure:
+    name: Calcure
+    slug: calcure
+    speed: 71.2
+    acc: 2.87
+    weight: 2
+    multiplier: 0.8
+    folder_name: phim_calcure
+    stock: false
   cambold_r:
     name: Cambold R
     slug: cambold_r
@@ -62,6 +78,8 @@ super-pro:
     acc: 3.69
     weight: 1.4
     multiplier: 0.8
+    folder_name: camboldR
+    stock: false
   commandine:
     name: Commandine
     slug: commandine
@@ -69,6 +87,8 @@ super-pro:
     acc: 3.44
     weight: 2
     multiplier: 0.8
+    folder_name: fd101command
+    stock: false
   daemmon:
     name: Daemmon
     slug: daemmon
@@ -76,6 +96,8 @@ super-pro:
     acc: 3.86
     weight: 1.85
     multiplier: 0.8
+    folder_name: daemmon
+    stock: false
   la_rossa:
     name: La Rossa
     slug: la_rossa
@@ -83,6 +105,8 @@ super-pro:
     acc: 4.14
     weight: 2
     multiplier: 0.8
+    folder_name: fd94rossa
+    stock: false
   rvrc:
     name: RVRC
     slug: rvrc
@@ -90,6 +114,8 @@ super-pro:
     acc: 4
     weight: 2
     multiplier: 0.8
+    folder_name: rvrc
+    stock: false
   prototype_fx77:
     name: Prototype FX77
     slug: prototype_fx77
@@ -97,6 +123,17 @@ super-pro:
     acc: 2.98
     weight: 1.2
     multiplier: 0.8
+    folder_name: fd_s9
+    stock: false
+  spedion:
+    name: Spedion
+    slug: spedion
+    speed: 69.5
+    acc: 4.13
+    weight: 2
+    multiplier: 0.8
+    folder_name: phim_jgspedion
+    stock: false
   starmac:
     name: Starmac
     slug: starmac
@@ -104,6 +141,8 @@ super-pro:
     acc: 3.54
     weight: 1.8
     multiplier: 0.8
+    folder_name: starmac
+    stock: false
   tesseract:
     name: Tesseract
     slug: tesseract
@@ -111,6 +150,17 @@ super-pro:
     acc: 4.02
     weight: 2
     multiplier: 0.8
+    folder_name: fd_s7
+    stock: false
+  vanguard:
+    name: Vanguard
+    slug: vanguard
+    speed: 73.8
+    acc: 5.11
+    weight: 1.6
+    multiplier: 0.8
+    folder_name: vanguard
+    stock: false
   xm250:
     name: XM250
     slug: xm250
@@ -118,13 +168,8 @@ super-pro:
     acc: 3.13
     weight: 1.4
     multiplier: 0.8
-  calcure:
-    name: Calcure
-    slug: calcure
-    speed: 71.2
-    acc: 2.87
-    weight: 2
-    multiplier: 0.9
+    folder_name: xm250
+    stock: false
   disruption:
     name: Disruption
     slug: disruption
@@ -132,6 +177,8 @@ super-pro:
     acc: 3.52
     weight: 3
     multiplier: 0.9
+    folder_name: tcp_disruption
+    stock: false
   gungnir:
     name: Gungnir
     slug: gungnir
@@ -139,6 +186,8 @@ super-pro:
     acc: 3.46
     weight: 3.3
     multiplier: 0.9
+    folder_name: gungnir
+    stock: false
   madax_gt:
     name: Madax GT
     slug: madax_gt
@@ -146,6 +195,8 @@ super-pro:
     acc: 2.75
     weight: 2.15
     multiplier: 0.9
+    folder_name: fzg_madax
+    stock: false
   nahesa:
     name: Nahesa
     slug: nahesa
@@ -153,6 +204,8 @@ super-pro:
     acc: 3.62
     weight: 1.6
     multiplier: 0.9
+    folder_name: yun_nahesa
+    stock: false
   nakajima:
     name: Nakajima
     slug: nakajima
@@ -160,13 +213,8 @@ super-pro:
     acc: 3.2
     weight: 1.25
     multiplier: 0.9
-  vanguard:
-    name: Vanguard
-    slug: vanguard
-    speed: 73.8
-    acc: 5.11
-    weight: 1.6
-    multiplier: 0.9
+    folder_name: nakajima
+    stock: false
   voltrex:
     name: Voltrex
     slug: voltrex
@@ -174,6 +222,8 @@ super-pro:
     acc: 3.88
     weight: 1.3
     multiplier: 0.9
+    folder_name: moz_voltrex
+    stock: false
   flir:
     name: FLIR
     slug: flir
@@ -181,6 +231,8 @@ super-pro:
     acc: 5.66
     weight: 2
     multiplier: 1.0
+    folder_name: nrf_flir
+    stock: false
   king_kaiju:
     name: King Kaiju
     slug: king_kaiju
@@ -188,6 +240,8 @@ super-pro:
     acc: 4.4
     weight: 1.75
     multiplier: 1.0
+    folder_name: tx11kaiju
+    stock: false
   king_moloko:
     name: King Moloko
     slug: king_moloko
@@ -195,6 +249,8 @@ super-pro:
     acc: 3.04
     weight: 2.7
     multiplier: 1.0
+    folder_name: kingmoloko
+    stock: false
   megalodon_xl:
     name: Megalodon XL
     slug: megalodon_xl
@@ -202,6 +258,8 @@ super-pro:
     acc: 3.74
     weight: 2.2
     multiplier: 1.0
+    folder_name: megalodonxl
+    stock: false
   saeger:
     name: Saeger
     slug: saeger
@@ -209,6 +267,8 @@ super-pro:
     acc: 5.8
     weight: 2
     multiplier: 1.0
+    folder_name: saeger
+    stock: false
   forged_steel:
     name: Forged Steel
     slug: forged_steel
@@ -216,6 +276,8 @@ super-pro:
     acc: 3.19
     weight: 2.2
     multiplier: 1.1
+    folder_name: tcp_forge
+    stock: false
   rinne:
     name: Rinne
     slug: rinne
@@ -223,6 +285,8 @@ super-pro:
     acc: 3.69
     weight: 1.9
     multiplier: 1.1
+    folder_name: rinne
+    stock: false
   identity_x:
     name: Identity X
     slug: identity_x
@@ -230,6 +294,8 @@ super-pro:
     acc: 3.38
     weight: 2.5
     multiplier: 1.2
+    folder_name: fd95x
+    stock: false
   napalm:
     name: Napalm
     slug: napalm
@@ -237,6 +303,8 @@ super-pro:
     acc: 5.43
     weight: 2
     multiplier: 1.4
+    folder_name: fd_s21
+    stock: false
   oblitenitro:
     name: Oblitenitro
     slug: oblitenitro
@@ -244,3 +312,5 @@ super-pro:
     acc: 2.38
     weight: 3.5
     multiplier: 1.5
+    folder_name: oblitenitro
+    stock: false

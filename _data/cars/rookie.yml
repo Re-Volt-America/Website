@@ -6,6 +6,8 @@ rookie:
     acc: 2.09
     weight: 1.2
     multiplier: 0.7
+    folder_name: rc
+    stock: true
   dr._grudge:
     name: Dr. Grudge
     slug: dr._grudge
@@ -13,6 +15,8 @@ rookie:
     acc: 2.54
     weight: 1.4
     multiplier: 0.7
+    folder_name: beatall
+    stock: true
   sprinter_xl:
     name: Sprinter XL
     slug: sprinter_xl
@@ -20,6 +24,8 @@ rookie:
     acc: 3.2
     weight: 0.9
     multiplier: 0.7
+    folder_name: tc6
+    stock: true
   e-razr:
     name: E-Razr
     slug: e-razr
@@ -27,13 +33,8 @@ rookie:
     acc: 3.1
     weight: 1.1
     multiplier: 0.7
-  el_gekko:
-    name: El Gekko
-    slug: el_gekko
-    speed: 51.3
-    acc: 2.01
-    weight: 1.2
-    multiplier: 0.7
+    folder_name: erazer
+    stock: false
   hurricane:
     name: Hurricane
     slug: hurricane
@@ -41,6 +42,8 @@ rookie:
     acc: 2.3
     weight: 1.5
     multiplier: 0.7
+    folder_name: hurri
+    stock: false
   iso-77a:
     name: Iso-77A
     slug: iso-77a
@@ -48,6 +51,8 @@ rookie:
     acc: 3.03
     weight: 1.33
     multiplier: 0.7
+    folder_name: iso77
+    stock: false
   kanberra_kruiser:
     name: Kanberra Kruiser
     slug: kanberra_kruiser
@@ -55,13 +60,8 @@ rookie:
     acc: 2.38
     weight: 1
     multiplier: 0.7
-  road_star:
-    name: Road Star
-    slug: road_star
-    speed: 50.3
-    acc: 2.49
-    weight: 0.8
-    multiplier: 0.7
+    folder_name: kkruise
+    stock: false
   harvester:
     name: Harvester
     slug: harvester
@@ -69,6 +69,8 @@ rookie:
     acc: 2.32
     weight: 1.7
     multiplier: 0.8
+    folder_name: mud
+    stock: true
   albatross_gt:
     name: Albatross GT
     slug: albatross_gt
@@ -76,6 +78,8 @@ rookie:
     acc: 2.36
     weight: 1.4
     multiplier: 0.8
+    folder_name: albatrossgt
+    stock: false
   bed_bug:
     name: Bed Bug
     slug: bed_bug
@@ -83,6 +87,8 @@ rookie:
     acc: 1.98
     weight: 1.2
     multiplier: 0.8
+    folder_name: bedbug2
+    stock: false
   condor_grv:
     name: Condor GRV
     slug: condor_grv
@@ -90,20 +96,26 @@ rookie:
     acc: 2.73
     weight: 1.5
     multiplier: 0.8
-  ferrada:
-    name: Ferrada
-    slug: ferrada
-    speed: 54.1
-    acc: 2.06
+    folder_name: condorgrv
+    stock: false
+  el_gekko:
+    name: El Gekko
+    slug: el_gekko
+    speed: 51.3
+    acc: 2.01
     weight: 1.2
     multiplier: 0.8
+    folder_name: gekko
+    stock: false
   funk_flea:
     name: Funk Flea
     slug: funk_flea
     speed: 51.0
-    acc: 2.48
+    acc: 2.77
     weight: 1.14
     multiplier: 0.8
+    folder_name: flea
+    stock: false
   high-rod:
     name: High-Rod
     slug: high-rod
@@ -111,6 +123,8 @@ rookie:
     acc: 2.17
     weight: 1.9
     multiplier: 0.8
+    folder_name: Rod
+    stock: false
   hot_spot:
     name: Hot Spot
     slug: hot_spot
@@ -118,6 +132,8 @@ rookie:
     acc: 2.36
     weight: 1
     multiplier: 0.8
+    folder_name: hs
+    stock: false
   lr_64:
     name: LR 64
     slug: lr_64
@@ -125,6 +141,8 @@ rookie:
     acc: 1.55
     weight: 1.7
     multiplier: 0.8
+    folder_name: fd64lost
+    stock: false
   panorama:
     name: Panorama
     slug: panorama
@@ -132,6 +150,17 @@ rookie:
     acc: 2.3
     weight: 1.35
     multiplier: 0.8
+    folder_name: fd50pano
+    stock: false
+  road_star:
+    name: Road Star
+    slug: road_star
+    speed: 50.3
+    acc: 2.49
+    weight: 0.8
+    multiplier: 0.8
+    folder_name: roadstar
+    stock: false
   col._moss:
     name: Col. Moss
     slug: col._moss
@@ -139,6 +168,8 @@ rookie:
     acc: 2.17
     weight: 1.5
     multiplier: 0.9
+    folder_name: moss
+    stock: true
   volken_turbo:
     name: Volken Turbo
     slug: volken_turbo
@@ -146,6 +177,8 @@ rookie:
     acc: 2.24
     weight: 1.6
     multiplier: 0.9
+    folder_name: volken
+    stock: true
   bigvolt:
     name: BigVolt
     slug: bigvolt
@@ -153,6 +186,17 @@ rookie:
     acc: 2.36
     weight: 2.3
     multiplier: 0.9
+    folder_name: bigvolt
+    stock: true
+  ferrada:
+    name: Ferrada
+    slug: ferrada
+    speed: 54.1
+    acc: 2.06
+    weight: 1.2
+    multiplier: 0.9
+    folder_name: ferrada
+    stock: false
   nesbitt:
     name: Nesbitt
     slug: nesbitt
@@ -160,6 +204,8 @@ rookie:
     acc: 1.81
     weight: 1.5
     multiplier: 0.9
+    folder_name: nesbitt
+    stock: false
   piccino:
     name: Piccino
     slug: piccino
@@ -167,6 +213,8 @@ rookie:
     acc: 3.11
     weight: 0.85
     multiplier: 0.9
+    folder_name: midgetti
+    stock: false
   rebound_4x4:
     name: Rebound 4X4
     slug: rebound_4x4
@@ -174,6 +222,8 @@ rookie:
     acc: 2.25
     weight: 1.5
     multiplier: 0.9
+    folder_name: rebound
+    stock: false
   gunior:
     name: Gunior
     slug: gunior
@@ -181,6 +231,8 @@ rookie:
     acc: 2.67
     weight: 1.3
     multiplier: 1.0
+    folder_name: fd114gunior
+    stock: false
   get_air:
     name: Get Air
     slug: get_air
@@ -188,6 +240,8 @@ rookie:
     acc: 3.31
     weight: 2.7
     multiplier: 1.1
+    folder_name: getair
+    stock: false
   rouge:
     name: Rouge
     slug: rouge
@@ -195,6 +249,8 @@ rookie:
     acc: 2.57
     weight: 1.2
     multiplier: 1.1
+    folder_name: fd25sporty
+    stock: false
   super_wheat:
     name: Super Wheat
     slug: super_wheat
@@ -202,6 +258,8 @@ rookie:
     acc: 1.86
     weight: 2.4
     multiplier: 1.1
+    folder_name: swheat
+    stock: false
   dust_mite:
     name: Dust Mite
     slug: dust_mite
@@ -209,13 +267,17 @@ rookie:
     acc: 1.98
     weight: 1.2
     multiplier: 1.2
+    folder_name: mite
+    stock: true
   hsf-1:
     name: HSF-1
     slug: hsf-1
     speed: 48.4
     acc: 2.29
     weight: 1.42
-    multiplier: 1.2
+    multiplier: 1.4
+    folder_name: hsf1
+    stock: false
   toukka_4x4:
     name: Toukka 4x4
     slug: toukka_4x4
@@ -223,6 +285,8 @@ rookie:
     acc: 2.47
     weight: 2.2
     multiplier: 1.2
+    folder_name: toukka
+    stock: false
   phat_slug:
     name: Phat Slug
     slug: phat_slug
@@ -230,6 +294,8 @@ rookie:
     acc: 1.41
     weight: 2.5
     multiplier: 1.7
+    folder_name: phat
+    stock: true
   shiawase:
     name: Shiawase
     slug: shiawase
@@ -237,6 +303,8 @@ rookie:
     acc: 1
     weight: 5
     multiplier: 2.0
+    folder_name: shiawasecrimsonsolace
+    stock: false
   creeki_leeki:
     name: Creeki Leeki
     slug: creeki_leeki
@@ -244,3 +312,5 @@ rookie:
     acc: 2.16
     weight: 1.2
     multiplier: 3.0
+    folder_name: gtcnd_creekileeki
+    stock: false

@@ -6,6 +6,8 @@ advanced:
     acc: 2.47
     weight: 0.8
     multiplier: 0.7
+    folder_name: r5
+    stock: true
   alice:
     name: Alice
     slug: alice
@@ -13,6 +15,8 @@ advanced:
     acc: 2.31
     weight: 1.4
     multiplier: 0.7
+    folder_name: alice
+    stock: false
   kyoki:
     name: Kyoki
     slug: kyoki
@@ -20,6 +24,8 @@ advanced:
     acc: 2.73
     weight: 1.4
     multiplier: 0.7
+    folder_name: kyoki
+    stock: false
   neifion:
     name: Neifion
     slug: neifion
@@ -27,13 +33,17 @@ advanced:
     acc: 2.39
     weight: 1.7
     multiplier: 0.7
+    folder_name: fd154neifion
+    stock: false
   top_tier:
     name: Top Tier
     slug: top_tier
-    speed: 55.0
+    speed: 55
     acc: 2.28
     weight: 1.4
     multiplier: 0.7
+    folder_name: fd89top
+    stock: false
   bertha_ballistics:
     name: Bertha Ballistics
     slug: bertha_ballistics
@@ -41,13 +51,17 @@ advanced:
     acc: 2.24
     weight: 3
     multiplier: 0.8
+    folder_name: sgt
+    stock: true
   arctic_stomper:
     name: Arctic Stomper
     slug: arctic_stomper
-    speed: 57.0
+    speed: 57
     acc: 2.38
     weight: 2.3
     multiplier: 0.8
+    folder_name: gtc_ArcStomper
+    stock: false
   camelia:
     name: Camelia
     slug: camelia
@@ -55,6 +69,8 @@ advanced:
     acc: 2.78
     weight: 1.71
     multiplier: 0.8
+    folder_name: camelia
+    stock: false
   drawall:
     name: Drawall
     slug: drawall
@@ -62,6 +78,8 @@ advanced:
     acc: 2.67
     weight: 1.4
     multiplier: 0.8
+    folder_name: lib7a_spray
+    stock: false
   le_pastel:
     name: Le Pastel
     slug: le_pastel
@@ -69,6 +87,8 @@ advanced:
     acc: 2.14
     weight: 2
     multiplier: 0.8
+    folder_name: fd110pastel
+    stock: false
   nano_rascal:
     name: Nano Rascal
     slug: nano_rascal
@@ -76,6 +96,8 @@ advanced:
     acc: 2.25
     weight: 0.99
     multiplier: 0.8
+    folder_name: nanorascal
+    stock: false
   pegmound:
     name: Pegmound
     slug: pegmound
@@ -83,6 +105,8 @@ advanced:
     acc: 2.57
     weight: 2.5
     multiplier: 0.8
+    folder_name: phim_pegmound
+    stock: false
   rice_ball:
     name: Rice Ball
     slug: rice_ball
@@ -90,6 +114,8 @@ advanced:
     acc: 2.05
     weight: 1.6
     multiplier: 0.8
+    folder_name: Rice
+    stock: false
   springtrap:
     name: Springtrap
     slug: springtrap
@@ -97,13 +123,17 @@ advanced:
     acc: 2.8
     weight: 1.2
     multiplier: 0.8
+    folder_name: rv2_buggy
+    stock: false
   will:
     name: WILL
     slug: will
-    speed: 57.0
+    speed: 57
     acc: 2.47
     weight: 1.65
     multiplier: 0.8
+    folder_name: phim_will
+    stock: false
   xtar:
     name: XTAR
     slug: xtar
@@ -111,6 +141,8 @@ advanced:
     acc: 2.41
     weight: 2
     multiplier: 0.8
+    folder_name: nrf_xtar
+    stock: false
   donnie_tc:
     name: Donnie TC
     slug: donnie_tc
@@ -118,6 +150,8 @@ advanced:
     acc: 2.73
     weight: 1.7
     multiplier: 0.9
+    folder_name: donnietc
+    stock: false
   drj-61:
     name: DRJ-61
     slug: drj-61
@@ -125,6 +159,8 @@ advanced:
     acc: 2.44
     weight: 2
     multiplier: 0.9
+    folder_name: phim_drj-61
+    stock: false
   glass_cannon:
     name: Glass Cannon
     slug: glass_cannon
@@ -132,6 +168,8 @@ advanced:
     acc: 13.7
     weight: 0.7
     multiplier: 0.9
+    folder_name: tcp_glass
+    stock: false
   hyper_xl:
     name: Hyper XL
     slug: hyper_xl
@@ -139,6 +177,8 @@ advanced:
     acc: 2.7
     weight: 1.75
     multiplier: 0.9
+    folder_name: fd54hyper
+    stock: false
   llag_sat:
     name: Llag Sat
     slug: llag_sat
@@ -146,6 +186,8 @@ advanced:
     acc: 2.14
     weight: 3.2
     multiplier: 0.9
+    folder_name: nrf_lag
+    stock: false
   ynz:
     name: YNZ
     slug: ynz
@@ -153,34 +195,44 @@ advanced:
     acc: 2.16
     weight: 1.7
     multiplier: 0.9
+    folder_name: nrf_ynz
+    stock: false
   panga_tc:
     name: Panga TC
     slug: panga_tc
     speed: 59.9
     acc: 2.13
     weight: 1.8
-    multiplier: 1.0
+    multiplier: 1
+    folder_name: tc2
+    stock: true
   shocker:
     name: Shocker
     slug: shocker
     speed: 57.2
     acc: 2.13
     weight: 1.8
-    multiplier: 1.0
+    multiplier: 1
+    folder_name: tc8
+    stock: true
   diamond:
     name: Diamond
     slug: diamond
     speed: 55.9
     acc: 2.23
     weight: 1.2
-    multiplier: 1.0
+    multiplier: 1
+    folder_name: diamond
+    stock: false
   metal_masher:
     name: Metal Masher
     slug: metal_masher
     speed: 53.4
     acc: 2.59
     weight: 2.7
-    multiplier: 1.0
+    multiplier: 1
+    folder_name: jgp_metalmasher
+    stock: false
   emperor:
     name: Emperor
     slug: emperor
@@ -188,6 +240,8 @@ advanced:
     acc: 2.34
     weight: 2
     multiplier: 1.1
+    folder_name: emperor
+    stock: false
   flower_power:
     name: Flower Power
     slug: flower_power
@@ -195,6 +249,8 @@ advanced:
     acc: 2.76
     weight: 1.6
     multiplier: 1.1
+    folder_name: flowerpower2
+    stock: false
   panther:
     name: Panther
     slug: panther
@@ -202,6 +258,8 @@ advanced:
     acc: 2.18
     weight: 1.65
     multiplier: 1.1
+    folder_name: panthergto
+    stock: false
   bossvolt:
     name: BossVolt
     slug: bossvolt
@@ -209,6 +267,8 @@ advanced:
     acc: 2.16
     weight: 3.5
     multiplier: 1.2
+    folder_name: bossvolt
+    stock: true
   groovster:
     name: Groovster
     slug: groovster
@@ -216,6 +276,8 @@ advanced:
     acc: 1.66
     weight: 2
     multiplier: 1.2
+    folder_name: tc9
+    stock: true
   evil_weasel:
     name: Evil Weasel
     slug: evil_weasel
@@ -223,6 +285,8 @@ advanced:
     acc: 1.95
     weight: 1.4
     multiplier: 1.3
+    folder_name: flag
+    stock: true
   ny_54:
     name: NY 54
     slug: ny_54
@@ -230,6 +294,8 @@ advanced:
     acc: 1.62
     weight: 1.6
     multiplier: 1.4
+    folder_name: tc5
+    stock: true
   akagi_attacker:
     name: Akagi Attacker
     slug: akagi_attacker
@@ -237,6 +303,8 @@ advanced:
     acc: 4.29
     weight: 1.5
     multiplier: 1.5
+    folder_name: fd_s19
+    stock: false
   splat:
     name: Splat
     slug: splat
@@ -244,3 +312,5 @@ advanced:
     acc: 1.62
     weight: 1.6
     multiplier: 1.9
+    folder_name: tc11
+    stock: true

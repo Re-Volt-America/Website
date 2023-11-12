@@ -4,8 +4,10 @@ amateur:
     slug: rc_san
     speed: 53.3
     acc: 3.17
-    weight: 1.0
+    weight: 1
     multiplier: 0.7
+    folder_name: dino
+    stock: true
   aquasonic:
     name: Aquasonic
     slug: aquasonic
@@ -13,6 +15,8 @@ amateur:
     acc: 2.42
     weight: 1.4
     multiplier: 0.7
+    folder_name: tc4
+    stock: true
   dust_shot:
     name: Dust Shot
     slug: dust_shot
@@ -20,6 +24,8 @@ amateur:
     acc: 2.2
     weight: 1.5
     multiplier: 0.7
+    folder_name: dustshot
+    stock: false
   honeybee:
     name: Honeybee
     slug: honeybee
@@ -27,6 +33,8 @@ amateur:
     acc: 2.31
     weight: 1.5
     multiplier: 0.7
+    folder_name: honey
+    stock: false
   rad_signal:
     name: Rad Signal
     slug: rad_signal
@@ -34,6 +42,8 @@ amateur:
     acc: 2.64
     weight: 1.2
     multiplier: 0.7
+    folder_name: tcp_doh
+    stock: false
   rc_halo:
     name: RC Halo
     slug: rc_halo
@@ -41,20 +51,17 @@ amateur:
     acc: 2.19
     weight: 1.9
     multiplier: 0.7
+    folder_name: tcp_homage
+    stock: false
   starway:
     name: Starway
     slug: starway
-    speed: 52.0
-    acc: 2.80
+    speed: 52
+    acc: 2.8
     weight: 1.5
     multiplier: 0.7
-  the_rook:
-    name: The Rook
-    slug: the_rook
-    speed: 55.3
-    acc: 1.93
-    weight: 1.3
-    multiplier: 0.7
+    folder_name: lib7b_starway
+    stock: false
   vixen:
     name: Vixen
     slug: vixen
@@ -62,6 +69,8 @@ amateur:
     acc: 2.47
     weight: 1.5
     multiplier: 0.7
+    folder_name: tx9vix
+    stock: false
   la_54:
     name: LA 54
     slug: la_54
@@ -69,6 +78,8 @@ amateur:
     acc: 2.52
     weight: 1.2
     multiplier: 0.8
+    folder_name: tc12
+    stock: true
   matra_xl:
     name: Matra XL
     slug: matra_xl
@@ -76,6 +87,8 @@ amateur:
     acc: 2.12
     weight: 1.4
     multiplier: 0.8
+    folder_name: tc10
+    stock: true
   amco_tc:
     name: AMCO TC
     slug: amco_tc
@@ -83,6 +96,8 @@ amateur:
     acc: 2.3
     weight: 3.7
     multiplier: 0.8
+    folder_name: amcotc
+    stock: false
   ashley:
     name: Ashley
     slug: ashley
@@ -90,6 +105,8 @@ amateur:
     acc: 3.1
     weight: 1.4
     multiplier: 0.8
+    folder_name: fd118ash
+    stock: false
   bumblebee:
     name: Bumblebee
     slug: bumblebee
@@ -97,6 +114,17 @@ amateur:
     acc: 2.28
     weight: 1.1
     multiplier: 0.8
+    folder_name: bumblebee
+    stock: false
+  ignit-9:
+    name: Ignit-9
+    slug: ignit-9
+    speed: 51.9
+    acc: 2.3
+    weight: 1.5
+    multiplier: 0.8
+    folder_name: lib9a_ignit
+    stock: false
   lmw:
     name: LMW
     slug: lmw
@@ -104,6 +132,8 @@ amateur:
     acc: 1.74
     weight: 2
     multiplier: 0.8
+    folder_name: nrf_lmw
+    stock: false
   locker:
     name: Locker
     slug: locker
@@ -111,20 +141,8 @@ amateur:
     acc: 2.98
     weight: 1.4
     multiplier: 0.8
-  six_shooter:
-    name: Six Shooter
-    slug: six_shooter
-    speed: 52.1
-    acc: 2.92
-    weight: 1.94
-    multiplier: 0.8
-  stonemason:
-    name: Stonemason
-    slug: stonemason
-    speed: 55
-    acc: 2
-    weight: 2.3
-    multiplier: 0.8
+    folder_name: tclock
+    stock: false
   sugar_n'_spice:
     name: Sugar N' Spice
     slug: sugar_n'_spice
@@ -132,6 +150,8 @@ amateur:
     acc: 1.92
     weight: 2.2
     multiplier: 0.8
+    folder_name: tcp_sugar
+    stock: false
   candy_pebbles:
     name: Candy Pebbles
     slug: candy_pebbles
@@ -139,20 +159,17 @@ amateur:
     acc: 1.83
     weight: 1.3
     multiplier: 0.9
+    folder_name: candy
+    stock: true
   baja_dash:
     name: Baja Dash
     slug: baja_dash
     speed: 49.9
     acc: 2.52
-    weight: 2.0
+    weight: 2
     multiplier: 0.9
-  ignit-9:
-    name: Ignit-9
-    slug: ignit-9
-    speed: 51.9
-    acc: 2.30
-    weight: 1.5
-    multiplier: 0.9
+    folder_name: lib8a_dash
+    stock: false
   mongoose:
     name: Mongoose
     slug: mongoose
@@ -160,6 +177,8 @@ amateur:
     acc: 2
     weight: 1.4
     multiplier: 0.9
+    folder_name: mongoose
+    stock: false
   muller_gt:
     name: Muller GT
     slug: muller_gt
@@ -167,6 +186,17 @@ amateur:
     acc: 2.41
     weight: 1.4
     multiplier: 0.9
+    folder_name: muller_gt
+    stock: false
+  stonemason:
+    name: Stonemason
+    slug: stonemason
+    speed: 55
+    acc: 2
+    weight: 2.3
+    multiplier: 0.9
+    folder_name: rip
+    stock: false
   strax:
     name: Strax
     slug: strax
@@ -174,6 +204,17 @@ amateur:
     acc: 2.58
     weight: 1.4
     multiplier: 0.9
+    folder_name: strax
+    stock: false
+  the_rook:
+    name: The Rook
+    slug: the_rook
+    speed: 55.3
+    acc: 1.93
+    weight: 1.3
+    multiplier: 0.9
+    folder_name: tcp_rook
+    stock: false
   x-6_nitro:
     name: X-6 Nitro
     slug: x-6_nitro
@@ -181,55 +222,80 @@ amateur:
     acc: 2.3
     weight: 1.6
     multiplier: 0.9
+    folder_name: jgp_x6
+    stock: false
   mouse:
     name: Mouse
     slug: mouse
     speed: 54.7
     acc: 2.9
     weight: 2.3
-    multiplier: 1.0
+    multiplier: 1
+    folder_name: mouse
+    stock: true
   kyarus:
     name: Kyarus
     slug: kyarus
     speed: 52.2
     acc: 3.15
     weight: 1.3
-    multiplier: 1.0
+    multiplier: 1
+    folder_name: kyarus
+    stock: false
   phantum:
     name: Phantum
     slug: phantum
     speed: 55.2
     acc: 1.88
     weight: 1.6
-    multiplier: 1.0
-  queen_bee:
-    name: Queen Bee
-    slug: queen_bee
-    speed: 52.3
-    acc: 2.33
-    weight: 1.9
-    multiplier: 1.0
+    multiplier: 1
+    folder_name: phantum
+    stock: false
   reddlum:
     name: Reddlum
     slug: reddlum
     speed: 53.4
-    acc: 2.90
+    acc: 2.9
     weight: 1.8
-    multiplier: 1.0
+    multiplier: 1
+    folder_name: reddlum
+    stock: false
   road_king:
     name: Road King
     slug: road_king
     speed: 50.1
     acc: 3.13
     weight: 2.8
-    multiplier: 1.0
+    multiplier: 1
+    folder_name: roadking
+    stock: false
+  six_shooter:
+    name: Six Shooter
+    slug: six_shooter
+    speed: 52.1
+    acc: 2.92
+    weight: 1.94
+    multiplier: 1
+    folder_name: sixshooter
+    stock: false
   slim:
     name: Slim
     slug: slim
     speed: 52.3
     acc: 2.27
     weight: 1.3
-    multiplier: 1.0
+    multiplier: 1
+    folder_name: lib16c_slim
+    stock: false
+  queen_bee:
+    name: Queen Bee
+    slug: queen_bee
+    speed: 52.3
+    acc: 2.33
+    weight: 1.9
+    multiplier: 1.2
+    folder_name: tcp_drifter
+    stock: false
   rc_phink:
     name: RC Phink
     slug: rc_phink
@@ -237,6 +303,8 @@ amateur:
     acc: 2.28
     weight: 1.6
     multiplier: 1.4
+    folder_name: jg6rc
+    stock: true
   genghis_kar:
     name: Genghis Kar
     slug: genghis_kar
@@ -244,3 +312,5 @@ amateur:
     acc: 1.66
     weight: 2
     multiplier: 1.6
+    folder_name: gencar
+    stock: true

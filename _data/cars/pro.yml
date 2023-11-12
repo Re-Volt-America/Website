@@ -6,6 +6,8 @@ pro:
     acc: 3.2
     weight: 2
     multiplier: 0.7
+    folder_name: toyeca
+    stock: true
   purp_xl:
     name: Purp XL
     slug: purp_xl
@@ -13,6 +15,8 @@ pro:
     acc: 3.20
     weight: 2
     multiplier: 0.7
+    folder_name: jg5purpxl
+    stock: true
   snw_35:
     name: SNW 35
     slug: snw_35
@@ -20,6 +24,8 @@ pro:
     acc: 4.32
     weight: 1.5
     multiplier: 0.7
+    folder_name: jg4snw35
+    stock: true
   abomin8r:
     name: Abomin8r
     slug: abomin8r
@@ -27,13 +33,8 @@ pro:
     acc: 3.13
     weight: 2.5
     multiplier: 0.7
-  dasher_tc:
-    name: Dasher TC
-    slug: dasher_tc
-    speed: 65
-    acc: 4.01
-    weight: 1.5
-    multiplier: 0.7
+    folder_name: abomina10
+    stock: false
   drome_champ:
     name: Drome Champ
     slug: drome_champ
@@ -41,6 +42,8 @@ pro:
     acc: 3.31
     weight: 1.5
     multiplier: 0.7
+    folder_name: dromechamp
+    stock: false
   outlaw:
     name: Outlaw
     slug: outlaw
@@ -48,6 +51,8 @@ pro:
     acc: 2.62
     weight: 2
     multiplier: 0.7
+    folder_name: nrf_outlaw
+    stock: false
   ridgeback:
     name: Ridgeback
     slug: ridgeback
@@ -55,6 +60,8 @@ pro:
     acc: 3.3
     weight: 1.9
     multiplier: 0.7
+    folder_name: ridgeback
+    stock: false
   ryu:
     name: Ryu
     slug: ryu
@@ -62,6 +69,8 @@ pro:
     acc: 3.33
     weight: 1.5
     multiplier: 0.7
+    folder_name: ryu
+    stock: false
   sin:
     name: Sin
     slug: sin
@@ -69,6 +78,8 @@ pro:
     acc: 4.75
     weight: 1.8
     multiplier: 0.7
+    folder_name: nrf_sin
+    stock: false
   burning_steel:
     name: Burning Steel
     slug: burning_steel
@@ -76,6 +87,8 @@ pro:
     acc: 3.5
     weight: 1.45
     multiplier: 0.8
+    folder_name: brnsteel
+    stock: false
   chimera_tc:
     name: Chimera TC
     slug: chimera_tc
@@ -83,6 +96,17 @@ pro:
     acc: 3.73
     weight: 1.6
     multiplier: 0.8
+    folder_name: chimtc
+    stock: false
+  dasher_tc:
+    name: Dasher TC
+    slug: dasher_tc
+    speed: 65
+    acc: 4.01
+    weight: 1.5
+    multiplier: 0.8
+    folder_name: tcp_rally
+    stock: false
   puma:
     name: Puma
     slug: puma
@@ -90,6 +114,8 @@ pro:
     acc: 4.14
     weight: 1.8
     multiplier: 0.8
+    folder_name: nrf_puma
+    stock: false
   wattage:
     name: Wattage
     slug: wattage
@@ -97,6 +123,8 @@ pro:
     acc: 3.21
     weight: 1.8
     multiplier: 0.8
+    folder_name: tcp_watt
+    stock: false
   humma:
     name: Humma
     slug: humma
@@ -104,6 +132,8 @@ pro:
     acc: 3.45
     weight: 2
     multiplier: 0.9
+    folder_name: sugo
+    stock: true
   steezy:
     name: Steezy
     slug: steezy
@@ -111,6 +141,8 @@ pro:
     acc: 3.07
     weight: 1.7
     multiplier: 0.9
+    folder_name: steezy
+    stock: false
   tegelhus:
     name: Tegelhus
     slug: tegelhus
@@ -118,6 +150,8 @@ pro:
     acc: 2.31
     weight: 2.7
     multiplier: 0.9
+    folder_name: tigel
+    stock: false
   truckenstein:
     name: Truckenstein
     slug: truckenstein
@@ -125,6 +159,8 @@ pro:
     acc: 2.71
     weight: 2.8
     multiplier: 0.9
+    folder_name: gtc_truckenstein
+    stock: false
   y_force:
     name: Y Force
     slug: y_force
@@ -132,6 +168,8 @@ pro:
     acc: 2.73
     weight: 2
     multiplier: 0.9
+    folder_name: fd158yforce
+    stock: false
   acclaim_f1:
     name: Acclaim F1
     slug: acclaim_f1
@@ -139,6 +177,8 @@ pro:
     acc: 3.66
     weight: 1.0
     multiplier: 1.0
+    folder_name: acclaimF1
+    stock: false
   karen:
     name: Karen
     slug: karen
@@ -146,6 +186,8 @@ pro:
     acc: 2.86
     weight: 1.8
     multiplier: 1.0
+    folder_name: phim_jgkaren
+    stock: false
   polar_star:
     name: Polar Star
     slug: polar_star
@@ -153,6 +195,8 @@ pro:
     acc: 2.11
     weight: 1.5
     multiplier: 1.0
+    folder_name: gtc_polarstar
+    stock: false
   sucker_punch:
     name: Sucker Punch
     slug: sucker_punch
@@ -160,6 +204,8 @@ pro:
     acc: 3.18
     weight: 1.25
     multiplier: 1.0
+    folder_name: fan
+    stock: false
   visconti_r:
     name: Visconti R
     slug: visconti_r
@@ -167,6 +213,8 @@ pro:
     acc: 3.43
     weight: 1.8
     multiplier: 1.0
+    folder_name: visconti
+    stock: false
   wildstar:
     name: Wildstar
     slug: wildstar
@@ -174,6 +222,8 @@ pro:
     acc: 3.6
     weight: 1
     multiplier: 1.0
+    folder_name: wildstar
+    stock: false
   patriot:
     name: Patriot
     slug: patriot
@@ -181,6 +231,8 @@ pro:
     acc: 5.04
     weight: 1.9
     multiplier: 1.1
+    folder_name: Patriot
+    stock: false
   toro_gt84:
     name: Toro GT84
     slug: toro_gt84
@@ -188,6 +240,8 @@ pro:
     acc: 2.92
     weight: 1.5
     multiplier: 1.1
+    folder_name: gt84
+    stock: false
   sir_gleam:
     name: Sir Gleam
     slug: sir_gleam
@@ -195,6 +249,8 @@ pro:
     acc: 4.45
     weight: 1
     multiplier: 1.2
+    folder_name: gleam
+    stock: false
   rc_bulldog:
     name: RC Bulldog
     slug: rc_bulldog
@@ -202,6 +258,8 @@ pro:
     acc: 2.81
     weight: 5
     multiplier: 1.4
+    folder_name: bulldog
+    stock: false
   star_oil:
     name: Star Oil
     slug: star_oil
@@ -209,6 +267,8 @@ pro:
     acc: 2.81
     weight: 2.5
     multiplier: 1.4
+    folder_name: fd140oil
+    stock: false
   superdriver:
     name: Superdriver
     slug: superdriver
@@ -216,6 +276,8 @@ pro:
     acc: 5.45
     weight: 1.4
     multiplier: 1.4
+    folder_name: superdriver
+    stock: false
   cougar:
     name: Cougar
     slug: cougar
@@ -223,6 +285,8 @@ pro:
     acc: 2.36
     weight: 2
     multiplier: 1.6
+    folder_name: cougar
+    stock: true
   panga:
     name: Panga
     slug: panga
@@ -230,6 +294,8 @@ pro:
     acc: 2.73
     weight: 2.5
     multiplier: 1.8
+    folder_name: panga
+    stock: true
   amw:
     name: AMW
     slug: amw
@@ -237,6 +303,8 @@ pro:
     acc: 2.31
     weight: 1
     multiplier: 2.5
+    folder_name: amw
+    stock: true
   fulon_x:
     name: Fulon X
     slug: fulon_x
@@ -244,3 +312,5 @@ pro:
     acc: 2.05
     weight: 1.2
     multiplier: 3.2
+    folder_name: jg2fulonx
+    stock: true
