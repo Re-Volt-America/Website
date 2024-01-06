@@ -39,7 +39,7 @@ footer:
     github: "GitHub"
     crowdin: "Crowdin"
 play:
-  subheader: "Gareggiamo tutti i giorni alle 23:00 Fuso Orario UTC"
+  subheader: "We play daily at 00:00 UTC"
   subheader2: "Le stanze per le partite vengono pubblicate nel canale <code class='nissan-code'>#lobby-rva</code>"
 downloads:
   title: "Scarica"
