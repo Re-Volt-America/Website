@@ -1,6 +1,6 @@
 # Website [![deploy](https://github.com/Re-Volt-America/Website/actions/workflows/deploy.yml/badge.svg?branch=production)](https://github.com/Re-Volt-America/Website/actions/workflows/deploy.yml) [![Crowdin](https://badges.crowdin.net/rva/localized.svg)](https://crowdin.com/project/rva) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-The Website for the Re-Volt America Community.
+The old website for the Re-Volt America Community.
 
 ## Running
 Software you will need in order to run the website.
@@ -14,8 +14,8 @@ Software you will need in order to run the website.
 Instructions on how to set the website up for development purposes.
 
   * Ensure bundler is installed: `gem install bundler`.
-  * Run `bundle install` from the project root to download and install dependencies.
-  * Also from the project root, run `bundle exec jekyll serve` to serve your website with Jekyll.
+  * Run `bundler install` from the project root to download and install dependencies.
+  * Also from the project root, run `bundler exec jekyll serve` to serve your website with Jekyll.
   * Open your browser and preview the website at `localhost:4000`.
 
 ## Sponsors
