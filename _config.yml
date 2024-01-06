@@ -1,7 +1,7 @@
 title: RVA
 org: Re-Volt America
 email: support@rva.lat
-url: "https://rva.lat"
+url: "https://legacy.rva.lat"
 description: >-
   The Website for Re-Volt 1999 Americas community. Download the game, tracks, cars and meet people from
   all over the Americas!
@@ -60,7 +60,7 @@ defaults:
       locale_flag: true
 
 emoji:
-  src: "https://rva.lat" # /emoji/unicode
+  src: "https://legacy.rva.lat" # /emoji/unicode
 
 plugins:
   - jekyll-multiple-languages-plugin
