@@ -16,7 +16,7 @@ jobs:
           ruby-version: 2.7.3
       - name: Bundle gems
         run: |
-          gem install bundler
+          gem install bundler -v 2.4.22
           bundle install --jobs 4 --retry 3
       - uses: miloserdow/capistrano-deploy@master
         with:
