@@ -1,6 +1,8 @@
 # Website [![deploy](https://github.com/Re-Volt-America/Website/actions/workflows/deploy.yml/badge.svg?branch=production)](https://github.com/Re-Volt-America/Website/actions/workflows/deploy.yml) [![Crowdin](https://badges.crowdin.net/rva/localized.svg)](https://crowdin.com/project/rva) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+Static website for the Re-Volt America Community.
 
-The old website for the Re-Volt America Community.
+**NOTE**: This repository is no longer maintained. Development has moved to the new 
+[RVA Website Repository](https://github.com/Re-Volt-America/RVA).
 
 ## Running
 Software you will need in order to run the website.
